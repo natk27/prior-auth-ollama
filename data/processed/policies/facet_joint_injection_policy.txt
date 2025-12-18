@@ -1,0 +1,94 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Facet Joint Injection
+CPT Code: 64493
+
+======================================================================
+
+**Insurance Policy Document**
+
+**Procedure Overview**
+
+* Procedure Name: Facet Joint Injection
+* CPT Code: 64493
+* Clinical Description: A minimally invasive procedure to inject a steroid medication into the facet joint to reduce inflammation, relieve pain, and improve mobility in patients with chronic low back pain or neck pain.
+
+**Coverage Criteria (Must meet ALL)**
+
+1. **Conservative Treatment Requirements**
+	* The patient must have completed at least 12 weeks of physical therapy, including:
+		+ 6 weeks of supervised exercise and stretching
+		+ 3 weeks of manual therapy and modalities (heat, cold, electrical stimulation)
+		+ 3 weeks of pain management education and self-management strategies
+2. **Symptom Duration Requirements**
+	* The patient must have experienced symptoms of chronic low back or neck pain for a minimum of 6 weeks prior to procedure initiation.
+3. **Clinical Documentation Required**
+	* The patient's medical record must include:
+		+ A comprehensive history and physical examination report within the past 12 months
+		+ Results from diagnostic tests, including:
+			- Radiographs (X-rays)
+			- Computed Tomography (CT) scans or Magnetic Resonance Imaging (MRI) scans of the spine within the past 6 months
+			- Nerve root injections or nerve blocks within the past 3 months
+		+ Treatment logs, including:
+			- Physical therapy treatment plans and progress notes
+			- Pain management medication lists and dosages
+			- Modalities used (heat, cold, electrical stimulation)
+4. **Imaging Requirements**
+	* Radiographs (X-rays) of the spine must be performed within the past 12 months.
+	* Computed Tomography (CT) scans or Magnetic Resonance Imaging (MRI) scans of the spine must be performed within the past 6 months.
+5. **Severity Criteria**
+	* The patient's pain must be measured on a numerical rating scale (NRS) of at least 4/10, indicating moderate to severe pain.
+	* Functional assessments must demonstrate:
+		+ Decreased range of motion in the affected joint
+		+ Impaired balance or gait
+
+**Medical Necessity Criteria**
+
+1. **Patient Selection Criteria**
+	* Patients with chronic low back or neck pain that has not responded to conservative treatment.
+	* Patients who have failed at least 2 courses of physical therapy and/or medication management.
+2. **Failed Prior Treatments**
+	* The patient must have:
+		+ Failed at least one course of medication (oral steroids, NSAIDs)
+		+ Failed at least two courses of physical therapy
+3. **Contraindications to Conservative Care**
+	* Patients with:
+		+ Active infections (e.g., sepsis, osteomyelitis)
+		+ Pregnancy (if applicable)
+		+ Severe comorbidities (e.g., diabetes, cardiovascular disease)
+
+**Exclusion Criteria**
+
+1. **Active Infections**
+2. **Pregnancy (if applicable)**
+3. **Severe Comorbidities**
+4. **Lack of Conservative Treatment**
+5. **Cosmetic Indications**
+
+**Documentation Requirements**
+
+1. **History and Physical Examination**
+	* The patient's medical record must include a comprehensive history and physical examination report within the past 12 months.
+2. **Diagnostic Test Results**
+	* Radiographs (X-rays) of the spine must be performed within the past 12 months.
+	* Computed Tomography (CT) scans or Magnetic Resonance Imaging (MRI) scans of the spine must be performed within the past 6 months.
+3. **Treatment Logs**
+	* Physical therapy treatment plans and progress notes must be included.
+4. **Specialist Consultations**
+	* The patient's medical record must include consultation reports from:
+		+ Primary care physician
+		+ Specialist (e.g., orthopedic surgeon, pain management specialist)
+
+**Authorization Details**
+
+1. **Valid for:** 90 days from the date of authorization.
+2. **Requires Peer-to-Peer Review if Denied:**
+	* If the procedure is denied, a peer-to-peer review must be completed within 30 days to determine whether the denial was reasonable and well-supported.
+
+By signing below, the authorized provider acknowledges that they have read and understood this policy document and will follow its guidelines for coverage and authorization of Facet Joint Injections.
+
+**Authorized Provider Signature:** _________________________________
+**Date:** _____________________________________________________
+
+Note: This is a sample policy document and should not be used as is. It's essential to review and customize it according to your insurance company's specific requirements and regulatory standards.

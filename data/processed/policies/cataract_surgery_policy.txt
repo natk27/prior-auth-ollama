@@ -1,0 +1,82 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Cataract Surgery
+CPT Code: 66984
+
+======================================================================
+
+**PROCEDURE OVERVIEW**
+
+ Procedure Name: Cataract Surgery
+ CPT Code: 66984
+
+Clinical Description:
+Cataract surgery is a medical procedure to remove the lens in the eye that has become cloudy due to cataracts, which can impair vision. The procedure involves making an incision in the cornea and removing the lens through this incision. An intraocular lens (IOL) implant may be placed during the surgery to improve vision.
+
+**COVERAGE CRITERIA**
+
+To be covered under this policy, the following criteria must be met:
+
+1. Conservative treatment requirements:
+	* Patients must have tried 12 weeks of physical therapy for their cataract symptoms.
+	* The patient's eye pain should be rated on a scale of 0-10, with a minimum score of 5.
+	* Functional assessments must demonstrate at least a 20% improvement in vision compared to pre-surgery levels.
+2. Symptom duration requirements:
+	* Patients must have experienced symptoms for a minimum of 6 weeks prior to surgery.
+3. Clinical documentation required:
+	* A comprehensive medical history, including any previous eye surgeries or conditions.
+	* Up-to-date diagnostic test results (e.g., visual field tests, OCT scans).
+4. Imaging requirements:
+	* A recent high-resolution optical coherence tomography (OCT) scan of the affected eye within the past 6 months.
+5. Severity criteria:
+	* The patient's eye pain should be rated on a scale of 0-10, with a minimum score of 5.
+	* Visual acuity must be less than 20/40 in both eyes.
+
+**MEDICAL NECESSITY CRITERIA**
+
+To determine medical necessity for cataract surgery, the following criteria must be met:
+
+1. Patient selection criteria:
+	* Patients must have tried conservative treatments for their cataracts and failed to achieve significant improvement.
+	* Patients must have a minimum of 6 weeks of symptoms prior to surgery.
+2. Failed prior treatments:
+	* Patients who have not achieved at least a 20% improvement in vision through conservative treatment.
+3. Contraindications to conservative care:
+	* Patients with severe comorbidities that increase the risk of complications from surgery (e.g., diabetes, hypertension).
+	* Patients with active infections or inflammation in the eye.
+
+**EXCLUSION CRITERIA**
+
+The following exclusions apply:
+
+1. Active infections:
+	* Patients with an active infection in the eye are not eligible for cataract surgery.
+2. Pregnancy (if applicable):
+	* Pregnant women are not eligible for cataract surgery until after delivery.
+3. Severe comorbidities:
+	* Patients with severe comorbidities that increase the risk of complications from surgery (e.g., diabetes, hypertension).
+4. Lack of conservative treatment:
+	* Patients who have not tried conservative treatments for their cataracts are not eligible for surgery.
+5. Cosmetic indications:
+	* Cataract surgery is only covered for patients with significant vision impairment or other medical necessity.
+
+**DOCUMENTATION REQUIREMENTS**
+
+To support medical necessity, the following documentation is required:
+
+1. History and physical examination:
+	* A comprehensive medical history, including any previous eye surgeries or conditions.
+	* A thorough eye examination, including visual acuity testing, pupil dilation, and slit-lamp biomicroscopy.
+2. Diagnostic test results:
+	* Up-to-date diagnostic test results (e.g., visual field tests, OCT scans).
+3. Treatment logs:
+	* A detailed record of conservative treatments attempted, including dates, times, and outcomes.
+4. Specialist consultations:
+	* Documentation from ophthalmologist or optometrist consultations regarding patient's condition.
+
+**AUTHORIZATION DETAILS**
+
+Authorization for cataract surgery is valid for 90 days from the date of approval. If denied, peer-to-peer review will be conducted to determine medical necessity.
+
+Note: This policy document should be reviewed and updated regularly to ensure compliance with changing regulatory requirements and clinical best practices.

@@ -1,0 +1,100 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: PET Scan
+CPT Code: 78815
+
+======================================================================
+
+**PET Scan Prior Authorization Policy**
+
+**Procedure Overview**
+
+ Procedure Name: PET Scan
+ CPT Code: 78815
+
+A PET (Positron Emission Tomography) scan is a diagnostic imaging test used to evaluate metabolic activity in the body, particularly in organs such as the brain, liver, and pancreas. This procedure is commonly used to diagnose and monitor various medical conditions, including cancer, cardiovascular disease, and neurological disorders.
+
+**Coverage Criteria**
+
+To be eligible for coverage under this prior authorization policy, the patient must meet the following criteria:
+
+1. Conservative Treatment Requirements:
+   - The patient must have undergone at least 12 weeks of physical therapy as part of their conservative treatment plan.
+   - The physical therapy program must include exercises and therapies specifically designed to manage pain, improve mobility, and promote functional ability.
+
+2. Symptom Duration Requirements:
+   - The patient's symptoms must have persisted for a minimum of 6 weeks prior to the date of the PET scan.
+   - Symptoms must be chronic in nature, such as persistent pain or limited mobility.
+
+3. Clinical Documentation Required:
+   - A comprehensive medical history and physical examination performed by an authorized healthcare provider within the past 30 days.
+   - Diagnostic test results from a qualified specialist (e.g., primary care physician, rheumatologist) confirming the patient's diagnosis and ruling out alternative explanations for symptoms.
+   - Treatment logs detailing the patient's conservative treatment plan, including medication use, physical therapy sessions, and other interventions.
+
+4. Imaging Requirements:
+   - The PET scan must be ordered by an authorized healthcare provider within 60 days of the start of conservative treatment.
+   - The imaging should include a standard PET scan protocol, which may include the administration of a radioactive tracer and a computed tomography (CT) scan or magnetic resonance imaging (MRI) as part of the evaluation.
+
+5. Severity Criteria:
+   - Pain scales must be ≥ 4/10 (moderate to severe pain).
+   - Functional assessments must demonstrate significant impairment in activities of daily living, such as walking or bathing.
+
+**Medical Necessity Criteria**
+
+To determine medical necessity for a PET scan, the following criteria will be applied:
+
+1. Patient Selection Criteria:
+   - The patient's symptoms and medical history must indicate a need for further evaluation using imaging.
+   - The patient's symptoms must not be adequately managed by conservative treatment.
+
+2. Failed Prior Treatments:
+   - If the patient has failed conservative treatment for their condition, a PET scan may be ordered as part of the treatment plan.
+
+3. Contraindications to Conservative Care:
+   - Patients with severe comorbidities or those who are unable to tolerate physical therapy due to significant limitations in mobility.
+   - Patients with active infections or inflammatory conditions that require immediate attention.
+
+**Exclusion Criteria**
+
+The following criteria will exclude coverage for a PET scan:
+
+1. Active Infections:
+   - The patient must not have an active infection requiring immediate medical attention (e.g., sepsis, abscess).
+
+2. Pregnancy (if applicable):
+   - Pregnant women must be excluded from receiving a PET scan due to potential radiation exposure risks.
+
+3. Severe Comorbidities:
+   - Patients with severe comorbid conditions that could impact the accuracy of the test results or pose a risk to their health.
+
+4. Lack of Conservative Treatment:
+   - If the patient has not attempted conservative treatment for an adequate duration (12 weeks), coverage for a PET scan may be denied.
+
+5. Cosmetic Indications:
+   - The patient's request for a PET scan must not be driven by cosmetic concerns or a desire to improve appearance.
+
+**Documentation Requirements**
+
+To support prior authorization, the following documentation is required:
+
+1. History and Physical Examination:
+   - Completed within the past 30 days.
+   - Must include a summary of the patient's medical history, physical examination findings, and diagnostic test results.
+
+2. Diagnostic Test Results:
+   - Must be from an authorized healthcare provider within the past 60 days.
+   - Should include a detailed description of the patient's condition and the rationale for ordering the PET scan.
+
+3. Treatment Logs:
+   - Must detail all conservative treatments administered to the patient, including medication use, physical therapy sessions, and other interventions.
+
+4. Specialist Consultations:
+   - Must be from an authorized specialist (e.g., primary care physician, rheumatologist) within the past 60 days.
+   - Should include a summary of the specialist's evaluation and recommendation for further testing.
+
+**Authorization Details**
+
+This prior authorization policy is valid for 90 days from the date of approval. If coverage is denied, a peer-to-peer review will be required to ensure that the decision was made in accordance with company policies and medical necessity criteria.
+
+Please note that this policy document is subject to change and may not reflect all company-specific requirements or guidelines.

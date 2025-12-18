@@ -1,0 +1,146 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Total Knee Replacement
+CPT Code: 27447
+
+======================================================================
+
+## PRIOR AUTHORIZATION POLICY: TOTAL KNEE REPLACEMENT
+
+**POLICY NUMBER:** [Internal Policy Number - e.g., ORTHO.KNEE.001]
+**EFFECTIVE DATE:** [Date - e.g., October 26, 2023]
+**LAST REVIEW DATE:** [Date - e.g., October 20, 2023]
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Total Knee Arthroplasty (TKA) / Total Knee Replacement (TKR)
+*   **CPT Code(s):** 27447 (Arthroplasty, knee, condyle and plateau; medical and lateral compartments with or without patella resurfacing)
+*   **Brief Clinical Description:** Total Knee Replacement is a surgical procedure involving the replacement of damaged or diseased bone and cartilage in the knee joint with prosthetic components. The primary goal of TKR is to alleviate severe pain, correct deformity, and restore function in patients suffering from end-stage degenerative joint disease, most commonly osteoarthritis.
+
+---
+
+### 2. COVERAGE CRITERIA (Must meet ALL of the following criteria)
+
+Authorization for Total Knee Replacement (CPT 27447) will be considered medically necessary when ALL of the following conditions are met and thoroughly documented in the patient's medical record:
+
+*   **A. Conservative Treatment Requirements:**
+    *   **Documented failure** of a comprehensive, supervised, and multi-modal conservative (non-surgical) treatment program for the affected knee for a **minimum duration of 6 months** immediately preceding the authorization request. This program must include documented trials of the following:
+        1.  **Physical Therapy (PT):** A supervised, structured physical therapy program for a minimum of **12 weeks (3 months)**, including exercises focused on strengthening, range of motion, flexibility, and gait training. Documentation must include dates of attendance, specific interventions, and objective measures of progress or lack thereof.
+        2.  **Pharmacological Management:** A documented trial of appropriate oral pain medications for a minimum of **3 months**, including:
+            *   Regular use of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) (unless contraindicated), and/or
+            *   Acetaminophen.
+            *   Documentation must include medication names, dosages, durations of use, and patient-reported response or intolerance.
+        3.  **Intra-articular Injections:**
+            *   A trial of at least **2 intra-articular corticosteroid injections** into the affected knee within the last **12 months**, with each injection providing less than 3 months of significant pain relief.
+            *   OR, a trial of a complete course of **intra-articular viscosupplementation injections** (e.g., hyaluronic acid) into the affected knee within the last **12 months**, if previous injections were beneficial but no longer provide sustained relief (each course providing less than 3 months of significant relief), and not contraindicated.
+        4.  **Weight Management:** For patients with a Body Mass Index (BMI) greater than 30 kg/m², documented participation in a supervised weight management program or physician-guided dietary/exercise efforts for a minimum of **3 months**, with an aim to achieve a healthier weight.
+        5.  **Activity Modification:** Documented attempts to modify activities, including avoidance of high-impact activities, to reduce stress on the knee.
+        6.  **Assistive Devices:** Documented trial and consistent use of assistive devices (e.g., cane, walker, knee brace) if deemed appropriate by the treating physician, without sustained symptomatic relief.
+
+*   **B. Symptom Duration Requirements:**
+    *   Persistent, disabling knee pain for a minimum of **6 months** that significantly interferes with activities of daily living (ADLs), ambulation, and/or sleep, despite documented adherence to conservative treatment.
+
+*   **C. Clinical Documentation Required:**
+    *   Comprehensive history and physical examination notes from the requesting orthopedic surgeon, detailing the severity of pain, functional limitations, and an objective assessment of the knee joint.
+    *   Detailed treatment logs for all conservative therapies attempted (dates, duration, specific modalities, patient response, and reason for failure).
+    *   Functional assessment scores (e.g., WOMAC, KSS) demonstrating moderate to severe impairment.
+    *   Pain assessment scores (e.g., NPRS $\ge$ 6/10 consistently, or VAS $\ge$ 60/100).
+
+*   **D. Imaging Requirements:**
+    *   **Type:** Current (performed within the last **6 months**) weight-bearing anteroposterior (AP), lateral, and patellofemoral view X-rays of the affected knee.
+    *   **Findings:** Radiographic evidence of severe degenerative joint disease, such as:
+        *   Kellgren-Lawrence Grade III or IV osteoarthritis.
+        *   Significant joint space narrowing (bone-on-bone).
+        *   Subchondral sclerosis.
+        *   Osteophyte formation.
+        *   Avascular necrosis (AVN).
+        *   Post-traumatic arthritis.
+    *   The radiographic findings must correlate with the patient's reported symptoms and physical examination findings. Magnetic Resonance Imaging (MRI) or Computed Tomography (CT) scans may be submitted if they provide additional, relevant diagnostic information (e.g., for avascular necrosis, tumor, or complex deformity) but are not typically required for initial TKR authorization if X-rays are conclusive.
+
+*   **E. Severity Criteria:**
+    *   **Pain:** Chronic, persistent, and moderate to severe knee pain (e.g., Numeric Pain Rating Scale (NPRS) score of $\ge$ 6/10 or Visual Analog Scale (VAS) $\ge$ 60/100) that is unresponsive to conservative measures.
+    *   **Functional Impairment:** Significant functional limitation affecting activities of daily living (ADLs), ambulation, and quality of life, as evidenced by:
+        *   Knee Society Score (KSS) for pain and function indicating severe impairment (e.g., KSS Function Score $\le$ 60 points).
+        *   Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) score demonstrating moderate to severe functional limitation (e.g., total WOMAC score $\ge$ 50 points).
+        *   Documented inability to walk $\ge$ 2 blocks without severe pain, or significant difficulty with stairs, dressing, or personal hygiene.
+
+*   **F. Physician Qualifications:**
+    *   The Total Knee Replacement must be performed by an orthopedic surgeon who is board-certified or board-eligible by the American Board of Orthopaedic Surgery (ABOS) and holds appropriate privileges at the surgical facility.
+    *   The procedure must be performed in an inpatient or outpatient surgical facility (e.g., hospital, ambulatory surgery center) accredited by an approved organization and licensed by the state.
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+Total Knee Replacement is considered medically necessary when a patient meets all specified coverage criteria, indicating that the benefits of surgery outweigh the risks, and non-surgical interventions have failed to provide adequate relief.
+
+*   **Patient Selection Criteria:** Adult patients (typically $\ge$ 18 years of age, though TKR is most common in patients aged 50 and older) with symptomatic, end-stage degenerative joint disease of the knee due to:
+    *   Severe osteoarthritis (primary or secondary).
+    *   Rheumatoid arthritis or other inflammatory arthropathies.
+    *   Post-traumatic arthritis.
+    *   Avascular necrosis of the femoral condyles or tibial plateau.
+    *   Significant functional impairment and severe, persistent pain that is not adequately controlled by non-surgical management.
+*   **Failed Prior Treatments:** The patient must have a well-documented history of failure to respond to a comprehensive, supervised, multi-modal conservative treatment program for at least 6 months, as detailed in Section 2A.
+*   **Contraindications to Conservative Care:** While generally not a primary justification for TKR without prior conservative trials, if there are documented medical contraindications to specific conservative treatments (e.g., severe renal failure precluding NSAID use, bleeding disorders precluding injections), these must be clearly explained, and alternative conservative approaches must have been attempted or deemed inappropriate.
+
+---
+
+### 4. EXCLUSION CRITERIA (Total Knee Replacement will NOT be covered if any of the following are present)
+
+*   **A. Active Infection:** Presence of any active infection in the affected knee joint (e.g., septic arthritis, osteomyelitis) or a systemic infection that would compromise the surgical outcome or significantly increase perioperative risks.
+*   **B. Active Pregnancy:** The patient is currently pregnant (due to risks associated with anesthesia and radiation exposure).
+*   **C. Severe, Uncontrolled Comorbidities:** Unstable or poorly controlled severe medical comorbidities that significantly increase surgical and anesthetic risk beyond an acceptable level, as determined by the surgical team and a consulting physician (e.g., internist, cardiologist). Examples include:
+    *   Uncontrolled diabetes (e.g., HbA1c > 8.0%).
+    *   Recent myocardial infarction (within 3-6 months).
+    *   Unstable angina.
+    *   Severe uncontrolled peripheral vascular disease.
+    *   Severe active pulmonary disease.
+    *   Uncontrolled hypertension.
+    *   Severe chronic kidney disease (CKD stage 4-5).
+    *   Morbid obesity (BMI > 40-45 kg/m², depending on plan guidelines) may be a relative contraindication requiring specific medical clearance or documented weight loss efforts prior to surgery due to increased risk of complications (e.g., infection, DVT, implant failure).
+*   **D. Lack of Documented Conservative Treatment:** Insufficient trial duration or inadequate documentation of the comprehensive conservative management program as specified in Section 2A.
+*   **E. Cosmetic or Elective Indications:** The procedure is primarily for cosmetic purposes or without clear medical necessity as defined by these criteria. (Not typically applicable to TKR).
+*   **F. Rapidly Progressive Neuromuscular Disorder:** A rapidly progressive neurological or muscular disorder that would preclude successful rehabilitation or compromise joint stability post-surgery.
+*   **G. Severe Arterial Insufficiency:** Severe arterial insufficiency in the affected limb.
+*   **H. Unwillingness or Inability to Comply with Rehabilitation:** Documented lack of patient understanding or unwillingness/inability to participate in the required postoperative physical rehabilitation program.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following documentation must be submitted with the prior authorization request:
+
+*   **A. History and Physical Examination:**
+    *   Comprehensive H&P report from the requesting orthopedic surgeon, including:
+        *   Detailed history of present illness: onset, duration, character, severity, and aggravating/alleviating factors of knee pain.
+        *   Description of functional limitations impacting ADLs, work, and leisure activities.
+        *   Relevant past medical history, surgical history, medications, allergies, and social history.
+        *   Detailed physical examination findings of the affected knee: range of motion (active/passive), stability, presence of effusion, crepitus, tenderness, gait assessment, neurovascular status.
+*   **B. Diagnostic Test Results:**
+    *   Radiology reports for all required imaging (weight-bearing AP, lateral, patellofemoral X-rays) with imaging dates.
+    *   Copies of actual imaging films or digital images may be requested for review if reports are inconclusive or if correlation with clinical findings is unclear.
+    *   Reports of any other relevant diagnostic studies (e.g., MRI, CT, bone scan) if performed.
+*   **C. Treatment Logs and Records of Conservative Care:**
+    *   Detailed physician notes, physical therapy notes, and other specialist notes documenting the dates, types, duration, frequency, and patient response/outcome for all conservative treatments attempted as outlined in Section 2A.
+    *   Specific documentation of medication trials (drug name, dosage, duration, patient response/side effects).
+    *   Injection records (dates, agent injected, dosage, site, and duration of pain relief).
+*   **D. Specialist Consultations:**
+    *   Consultation notes from pain management, rheumatology, or other relevant specialists, if applicable.
+    *   Pre-operative medical clearance from an internist or cardiologist if significant comorbidities are present (as per Section 4C).
+*   **E. Functional and Pain Assessment Scores:**
+    *   Documented validated functional outcome scores (e.g., WOMAC, KSS) and pain scores (e.g., NPRS, VAS) from recent clinic visits.
+*   **F. Informed Consent:**
+    *   Documentation that the patient has been fully informed of the risks, benefits, and alternatives to Total Knee Replacement, and has provided informed consent for the procedure.
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **A. Validity Period:** An approved prior authorization for Total Knee Replacement (CPT 27447) is valid for **90 calendar days** from the approval date. If the procedure is not performed within this timeframe, a new authorization request will be required.
+*   **B. Peer-to-Peer Review:** In the event of an initial denial of authorization, the ordering physician or their designated clinical representative has the right to request a peer-to-peer discussion with a medical director of the health plan who is a specialist in a similar field (e.g., orthopedic surgeon). This request must typically be made within **10 business days** of receiving the denial notification.
+*   **C. Appeal Rights:** The patient and/or the provider (with the patient's written consent) have the right to appeal an adverse benefit determination. The appeal process involves multiple levels of review (e.g., Level 1 Internal Appeal, Level 2 Internal Appeal, and External Review by an Independent Review Organization), as detailed in the member's benefit plan documents and in accordance with state and federal regulations. Specific timeframes and submission requirements apply to each level of appeal.
+
+---

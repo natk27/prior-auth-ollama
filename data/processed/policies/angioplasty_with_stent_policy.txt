@@ -1,0 +1,137 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Angioplasty with Stent
+CPT Code: 92928
+
+======================================================================
+
+## Prior Authorization Policy: Percutaneous Transluminal Coronary Angioplasty (PTCA) with Intracoronary Stent Placement
+
+**Policy Number:** MED-CARD-0012
+**Effective Date:** January 1, 2024
+**Review Date:** October 1, 2023
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Percutaneous Transluminal Coronary Angioplasty (PTCA) with Intracoronary Stent Placement (Single Major Coronary Artery or Branch)
+*   **CPT Code(s):** 92928 (Percutaneous transcatheter coronary angioplasty with stent placement, single major coronary artery or branch; without drug-eluting stent)
+    *   *Note: Other CPT codes may apply for multiple vessels, different types of stents (e.g., drug-eluting stents), or specific interventions like atherectomy. This policy specifically addresses 92928.*
+*   **Brief Clinical Description:** Percutaneous Transluminal Coronary Angioplasty (PTCA) with stent placement is a minimally invasive procedure performed to open narrowed or blocked coronary arteries, typically caused by atherosclerosis (plaque buildup), and to maintain patency using a metallic scaffold (stent). The procedure involves inserting a catheter into an artery (usually in the groin or wrist), guiding it to the coronary arteries, inflating a balloon to compress the plaque, and then deploying a stent to hold the artery open. This procedure aims to improve blood flow to the heart muscle, alleviate symptoms of angina, and prevent cardiac events in eligible patients.
+
+### 2. COVERAGE CRITERIA (All criteria listed below must be met for authorization)
+
+Coverage for Percutaneous Transluminal Coronary Angioplasty (PTCA) with Intracoronary Stent Placement (CPT 92928) will be considered medically necessary when ALL of the following criteria are documented:
+
+*   **Conservative Treatment Requirements (for stable angina):**
+    *   The patient has undergone a minimum of **3 months (12 weeks)** of documented optimal medical therapy (OMT) including, but not limited to:
+        *   Antiplatelet therapy (e.g., aspirin, clopidogrel, ticagrelor, prasugrel as appropriate).
+        *   High-intensity statin therapy (unless contraindicated or intolerant).
+        *   Beta-blockers.
+        *   Angiotensin-converting enzyme (ACE) inhibitors or Angiotensin Receptor Blockers (ARBs).
+        *   Long-acting nitrates (if symptoms persist).
+    *   AND documented adherence to a comprehensive lifestyle modification program for a minimum of **3 months (12 weeks)**, including:
+        *   Dietary counseling (e.g., Mediterranean diet, DASH diet).
+        *   Structured exercise regimen (e.g., cardiac rehabilitation).
+        *   Smoking cessation counseling (if applicable).
+        *   Weight management as indicated.
+    *   AND documentation of persistent symptoms or objective evidence of ischemia despite documented adherence to the above OMT and lifestyle modifications.
+
+*   **Symptom Duration Requirements (for stable angina):**
+    *   Patient must have experienced stable angina pectoris symptoms (Canadian Cardiovascular Society (CCS) Angina Class II, III, or IV) for a minimum of **3 months (12 weeks)**, *unless* presenting with an Acute Coronary Syndrome (ACS) such as Unstable Angina, NSTEMI, or STEMI, where the intervention is emergent.
+
+*   **Clinical Documentation Required:**
+    *   Detailed history and physical examination performed by a board-certified cardiologist within **30 days** of the prior authorization request.
+    *   Documentation of the patient's angina severity using the Canadian Cardiovascular Society (CCS) Angina Classification system.
+    *   Documentation of the impact of symptoms on the patient's activities of daily living (ADLs) and quality of life.
+    *   Detailed medication list, including dosages, duration of use, and documentation of patient adherence or intolerance to OMT.
+
+*   **Imaging Requirements (must meet ONE of the following):**
+    *   **Non-invasive Stress Testing:**
+        *   Results of a recent (within **6 months**) non-invasive stress test (e.g., Stress Echocardiography, Myocardial Perfusion Imaging (MPI), Cardiac MRI Stress, or Coronary CT Angiography (CCTA) with FFR-CT analysis) demonstrating **moderate to severe inducible ischemia**. Examples include:
+            *   Myocardial Perfusion Imaging (MPI): Reversible perfusion defect involving **≥10%** of the left ventricular myocardium.
+            *   Stress Echocardiography: New or worsening wall motion abnormalities in **≥2 segments** under stress.
+            *   Stress Electrocardiogram (ECG): Significant ST-segment depression (e.g., ≥1.5 mm horizontal or downsloping) accompanied by typical anginal symptoms at a low workload (e.g., <5 METs) or rapid progression to high-risk features.
+            *   Coronary CT Angiography (CCTA) with FFR-CT: Documentation of a functionally significant stenosis with FFR-CT value **≤0.80**.
+        *   AND the symptoms correlate with the area of ischemia identified on the non-invasive test.
+    *   **Invasive Coronary Angiography (ICA):**
+        *   Results of a recent (within **12 months**) Invasive Coronary Angiography demonstrating:
+            *   A visually estimated stenosis of **≥70%** in a major epicardial coronary artery or branch (e.g., LAD, LCx, RCA).
+            *   OR a visually estimated stenosis of **≥50%** in the Left Main Coronary Artery.
+            *   OR, for lesions 50-70% stenosis, objective evidence of functional significance via Fractional Flow Reserve (FFR) **≤0.80** or Instantaneous Wave-free Ratio (iFR) **≤0.89**.
+        *   AND the lesion is amenable to percutaneous intervention based on anatomical considerations (e.g., lesion length, tortuosity, calcification, vessel size).
+
+*   **Severity Criteria:**
+    *   Patient presents with Canadian Cardiovascular Society (CCS) Angina Class II, III, or IV despite documented optimal medical therapy, or presents with an Acute Coronary Syndrome (Unstable Angina, NSTEMI, STEMI).
+    *   Demonstrable impact on the patient's functional capacity and quality of life (e.g., inability to perform usual activities, limitation of daily activities due to chest pain).
+
+*   **Laboratory Tests (pre-procedural, typically within 30 days):**
+    *   Complete Blood Count (CBC) including platelet count.
+    *   Renal function panel (BUN, creatinine, eGFR).
+    *   Electrolyte panel.
+    *   Coagulation profile (PT/INR, PTT).
+    *   Lipid Panel (LDL, HDL, Triglycerides).
+    *   Glycated Hemoglobin (HbA1c) for diabetic patients.
+    *   Cardiac biomarkers (Troponin I/T) if indicated for acute presentation.
+
+*   **Physician Qualifications:**
+    *   The performing physician must be a Board-Certified Interventional Cardiologist with current, unrestricted privileges for coronary intervention at an accredited facility.
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+In addition to the coverage criteria above, the procedure must meet the following medical necessity criteria:
+
+*   **Patient Selection Criteria:**
+    *   Patients with symptomatic coronary artery disease (CAD) who have persistent angina or anginal equivalents despite optimal medical therapy.
+    *   Patients presenting with Acute Coronary Syndromes (Unstable Angina, NSTEMI, STEMI) where urgent revascularization is indicated according to current clinical guidelines.
+    *   Patients with significant objective evidence of myocardial ischemia and symptoms attributable to that ischemia.
+    *   Patients with a high-risk non-invasive stress test that indicates a large area of myocardium at risk (e.g., left main equivalent stenosis, severe multi-vessel disease, or extensive ischemia with poor exercise tolerance).
+
+*   **Failed Prior Treatments:**
+    *   Documented failure of an adequate trial (minimum of **3 months**) of optimal medical therapy to control symptoms of stable angina.
+    *   OR documented intolerance or contraindication to components of optimal medical therapy.
+    *   *Note: This criterion does not apply to patients presenting with Acute Coronary Syndromes requiring emergent intervention.*
+
+*   **Contraindications to Conservative Care (where applicable):**
+    *   Rapidly accelerating symptoms of angina (crescendo angina) despite escalating medical therapy.
+    *   High-risk anatomical features identified on non-invasive imaging (e.g., significant Left Main Coronary Artery stenosis, severe proximal LAD stenosis) that warrant revascularization despite minimal symptoms, or in conjunction with symptoms.
+    *   Life-threatening arrhythmias directly attributable to myocardial ischemia.
+
+### 4. EXCLUSION CRITERIA (The procedure will NOT be covered if any of the following are present)
+
+*   **Lack of Conservative Treatment:** For stable angina, no documented attempt at optimal medical therapy and lifestyle modification for the required duration (unless contraindicated or emergent ACS).
+*   **Asymptomatic Patients:** Without objective evidence of significant ischemia on non-invasive or invasive testing.
+*   **Non-Significant Stenosis:** Visually estimated coronary artery stenosis of less than 50% for Left Main Coronary Artery or less than 70% for other major epicardial arteries, AND without objective evidence of functional significance (FFR > 0.80 or iFR > 0.89).
+*   **Diffuse, Small Vessel Disease:** Coronary anatomy not amenable to successful stenting due to diffuse disease, severe calcification, extreme tortuosity, or very small vessel size (<2.0mm diameter) with a high likelihood of poor outcomes.
+*   **Severe Comorbidities:**
+    *   Uncontrolled active systemic infection (e.g., sepsis, active endocarditis).
+    *   Severe, uncompensated heart failure (NYHA Class IV) not primarily due to ischemia, with poor prognosis for improvement post-PCI.
+    *   Severe bleeding diathesis or active gastrointestinal bleeding not controlled.
+    *   End-stage renal disease (ESRD) with severe multi-organ dysfunction, or other severe comorbidities (e.g., metastatic cancer with expected life expectancy less than **6 months**) where the risks of the procedure clearly outweigh the potential benefits.
+*   **Pregnancy:** Relative contraindication due to radiation exposure; intervention considered only if life-threatening for the mother and fetal risks are thoroughly discussed and documented.
+*   **Cosmetic or Prophylactic Indications:** Not covered for primary prevention in asymptomatic individuals without objective evidence of ischemia, or for non-cardiac chest pain.
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following specific documentation must be submitted with the prior authorization request:
+
+*   **History and Physical Examination:** Comprehensive H&P, including a detailed cardiac history, cardiovascular risk factors, symptom description (onset, duration, frequency, severity using CCS Angina Class), and physical findings (including cardiac and vascular exam).
+*   **Diagnostic Test Results:**
+    *   Full reports (including interpretation and images/cine loops where available) of all relevant non-invasive stress tests (e.g., MPI, Stress Echo, CCTA with FFR-CT).
+    *   Full report of the Invasive Coronary Angiography (ICA) including visual estimation of stenosis, any functional assessment (FFR/iFR) values, and a detailed description of coronary anatomy.
+    *   Relevant laboratory test results (as listed in section 2).
+*   **Treatment Logs:** Detailed records of prior medical therapy (medication names, dosages, start/end dates, documented adherence, and patient response or intolerance).
+*   **Specialist Consultations:** Consultation notes from the referring cardiologist and/or interventional cardiologist outlining the rationale for the procedure, discussion of risks and benefits, and shared decision-making with the patient.
+*   **Cardiac Rehabilitation Records:** If applicable, documentation of participation in or referral to cardiac rehabilitation programs.
+
+### 6. AUTHORIZATION DETAILS
+
+*   **Validity Period:** Approved prior authorizations for CPT 92928 are valid for **90 calendar days** from the date of approval. If the procedure is not performed within this timeframe, a new prior authorization request will be required.
+*   **Peer-to-Peer Review:** If a request for prior authorization is initially denied, the requesting provider will be offered the opportunity for a peer-to-peer discussion with a medical director or physician reviewer from the health plan with similar clinical expertise. This discussion must be requested within **5 business days** of the denial notification.
+*   **Appeal Rights:** If the prior authorization request is denied after peer-to-peer review (or if peer-to-peer review is declined), the patient and/or their authorized representative have the right to appeal the decision. Instructions for the appeal process will be provided in the denial notification letter, in accordance with state and federal regulations.
+
+---
+
+**Disclaimer:** This policy is intended for informational purposes only and does not constitute medical advice. Coverage is subject to the terms, conditions, and limitations of the member's specific benefit plan. Medical necessity determinations are made on a case-by-case basis based on the submitted clinical documentation and applicable policy criteria. This policy is subject to change without prior notice.

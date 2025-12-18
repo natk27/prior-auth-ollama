@@ -1,0 +1,145 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Lumbar Fusion
+CPT Code: 22612
+
+======================================================================
+
+## Prior Authorization Policy: Lumbar Spinal Fusion (CPT 22612)
+
+**Policy Number:** PA-SPINE-007V3
+**Effective Date:** January 1, 2024
+**Last Review Date:** November 15, 2023
+
+---
+
+**1. PROCEDURE OVERVIEW**
+
+*   **Full Procedure Name:** Lumbar Spinal Fusion (Arthrodesis, Posterior or Posterolateral Technique, Single Interspace and Segment; Lumbar)
+*   **CPT Code(s):**
+    *   **22612:** Arthrodesis, posterior or posterolateral technique, single interspace and segment; lumbar (with or without lateral transverse technique), without instrumentation.
+    *   *Note: This policy covers the medical necessity for performing a lumbar fusion at a specific level. While CPT 22612 describes the fusion technique itself, definitive lumbar fusion procedures often involve additional codes for instrumentation (e.g., 22840-22842) and bone graft (e.g., 20930-20937). All associated codes for the complete fusion procedure at the requested level will be reviewed under the criteria outlined in this policy.*
+*   **Brief Clinical Description:** Lumbar spinal fusion is a surgical procedure designed to permanently connect two or more vertebrae in the lower back (lumbar spine). The primary goal is to eliminate motion between the fused vertebrae, thereby reducing pain, stabilizing the spine, and correcting deformity. This is achieved by placing bone graft material (autograft or allograft) between the vertebrae, which eventually grows and fuses the bones together. Instrumentation (rods, screws, cages) is often used to hold the vertebrae in place while the fusion occurs.
+
+---
+
+**2. COVERAGE CRITERIA (Medical Necessity - Must Meet ALL)**
+
+Lumbar spinal fusion (CPT 22612 and associated codes) is considered medically necessary for adult patients (18 years or older) when *all* of the following criteria are met:
+
+*   **A. Specific Diagnosis:**
+    *   One of the following diagnoses must be documented with objective evidence:
+        *   Degenerative Spondylolisthesis (Grade I or II) with documented instability and neurological compromise or severe mechanical back pain.
+        *   Isthmic Spondylolisthesis (Grade I or II) with documented instability and neurological compromise or severe mechanical back pain.
+        *   Post-Laminectomy Syndrome with documented spinal instability and persistent radicular pain or progressive neurological deficit.
+        *   Spinal Stenosis with concomitant spinal instability (e.g., dynamic spondylolisthesis, significant degenerative scoliosis) requiring decompression and stabilization.
+        *   Pseudoarthrosis from a previously attempted spinal fusion.
+        *   Spinal Trauma (e.g., unstable fracture, dislocation) requiring stabilization.
+        *   Spinal Deformity (e.g., adult degenerative scoliosis, kyphosis) with documented pain and functional impairment, not amenable to conservative management.
+        *   Spinal Tumors or infections requiring resection and stabilization.
+
+*   **B. Symptom Duration Requirements:**
+    *   Persistent, functionally disabling lumbar spinal pain and/or radicular symptoms (radiating pain, numbness, weakness) for a minimum of **6 months**.
+    *   Symptoms must correlate with objective findings on physical examination and diagnostic imaging.
+
+*   **C. Failed Conservative Treatment Requirements:**
+    *   A documented, intensive course of non-surgical management for a minimum continuous period of **12 weeks (3 months)** within the 6 months prior to the request for surgery. This must include *at least three* of the following modalities, with documented adherence and inadequate response:
+        *   **Physical Therapy (PT) or Occupational Therapy (OT):** A structured, supervised program for a minimum of 12 weeks, including core strengthening, flexibility exercises, and modalities, with documented functional goals and outcomes. Home exercise programs alone are insufficient.
+        *   **Pharmacological Management:** Documented trial of at least two classes of medications for a minimum of 6 weeks each (e.g., NSAIDs, muscle relaxants, neuropathic agents like gabapentin/pregabalin), administered at therapeutic doses.
+        *   **Spinal Injections:** At least two therapeutic injections (e.g., epidural steroid injections, selective nerve root blocks, facet joint injections, radiofrequency ablation) at the affected level(s) within the last 12 months, with documented *transient relief* (e.g., >50% pain relief for at least 2 weeks) followed by recurrence of symptoms. Diagnostic injections alone are not considered therapeutic.
+        *   **Chiropractic Manipulation or Osteopathic Manipulative Treatment (OMT):** A documented course of therapy for a minimum of 6 weeks.
+        *   **Activity Modification/Bracing:** Documented attempts to modify activity levels to reduce pain, and/or use of supportive bracing.
+        *   **Formal Pain Management Program:** For patients with significant chronic pain or psychological factors, participation in a multidisciplinary pain management program, including behavioral health components, for a minimum of 8 weeks.
+
+*   **D. Clinical Documentation Required:**
+    *   **Detailed History and Physical Examination:** Within the last 3 months, documenting:
+        *   Pain characteristics (location, quality, severity using a validated scale).
+        *   Functional limitations (e.g., inability to perform activities of daily living, work restrictions).
+        *   Comprehensive neurological examination, including motor strength (e.g., 0-5 scale), sensory deficits, reflexes, and gait assessment, specifically correlating with the affected spinal level(s).
+        *   Documentation of previous treatments, their duration, and the patient's response.
+    *   **Validated Pain and Functional Assessment Scales:**
+        *   Visual Analog Scale (VAS) for pain: Average score consistently ≥ 6/10.
+        *   Oswestry Disability Index (ODI) or Roland-Morris Disability Questionnaire (RMDQ): Score consistently ≥ 40% (ODI) or equivalent.
+
+*   **E. Imaging Requirements:**
+    *   **MRI of the Lumbar Spine:** Recent (within the last 6-12 months) demonstrating pathology that clearly correlates with the patient's symptoms and physical exam findings. Specific findings may include:
+        *   Significant disc degeneration with severe disc height collapse or endplate changes.
+        *   Spondylolisthesis (degenerative or isthmic) at the affected level.
+        *   Facet joint arthropathy, hypertrophy, or effusions indicative of instability.
+        *   Severe central or foraminal stenosis with nerve root compression.
+    *   **Dynamic X-rays of the Lumbar Spine (Flexion-Extension Views):** Recent (within the last 12 months) demonstrating documented instability at the proposed fusion level(s), defined as:
+        *   Translational motion ≥ 4 mm.
+        *   Angular motion ≥ 10 degrees.
+    *   **CT Scan of the Lumbar Spine:** May be required if previous surgery has occurred, for complex anatomical assessment, or for detailed surgical planning, particularly in cases of severe deformity or suspected pseudoarthrosis.
+
+*   **F. Physician Qualifications:**
+    *   The performing surgeon must be a board-certified or board-eligible orthopedic surgeon or neurosurgeon specializing in spinal surgery.
+
+---
+
+**3. MEDICAL NECESSITY CRITERIA (Specific Indications)**
+
+In addition to the general coverage criteria, the following specific conditions are considered medically necessary indications for lumbar fusion:
+
+*   **A. Patient Selection Criteria:**
+    *   Patients must have a clear understanding of the risks, benefits, and alternatives to spinal fusion.
+    *   Patients must be compliant with pre-operative instructions, including smoking cessation if applicable.
+    *   Patient symptoms and imaging must clearly localize to the segment(s) proposed for fusion.
+
+*   **B. Failed Prior Treatments:**
+    *   Documented failure of an extensive, compliant course of conservative therapy as detailed in Section 2.C, with objective evidence of symptom persistence and functional impairment despite these efforts.
+
+*   **C. Contraindications to Conservative Care (Rare):**
+    *   Rapidly progressive neurological deficits (e.g., worsening motor weakness, severe sensory loss).
+    *   Cauda Equina Syndrome (requires urgent intervention, prior authorization often expedited or retrospective).
+    *   Fracture or dislocation leading to immediate spinal instability and neurological compromise.
+    *   Spinal tumor requiring surgical resection and stabilization.
+
+---
+
+**4. EXCLUSION CRITERIA (If present, procedure is NOT covered)**
+
+Lumbar spinal fusion is generally considered **not medically necessary** and will be **denied** if any of the following are present:
+
+*   **A. Active Infection:** Documented active systemic infection, active spinal infection (osteomyelitis, discitis), or active surgical site infection.
+*   **B. Pregnancy:** Confirmed pregnancy (relative contraindication due to risks of anesthesia, radiation exposure, and potential fetal harm).
+*   **C. Severe, Uncontrolled Comorbidities:** Uncontrolled diabetes (HbA1c > 8.0%), severe uncompensated cardiac disease (e.g., unstable angina, recent MI < 6 months), severe pulmonary disease (e.g., FEV1 < 50% predicted, uncontrolled COPD), or other medical conditions that significantly increase surgical and anesthetic risk as determined by medical clearance.
+*   **D. Active Smoking or Nicotine Use:** Documented active tobacco use or nicotine use (including vaping, nicotine patches/gum) within **3 months** prior to the planned surgery. Objective evidence of cessation (e.g., negative urine cotinine test, CO levels) is required.
+*   **E. Morbid Obesity:** Body Mass Index (BMI) ≥ 40 kg/m² or BMI ≥ 35 kg/m² with poorly controlled severe comorbidities.
+*   **F. Untreated Severe Psychiatric Disorders or Substance Abuse:** Uncontrolled major depression, bipolar disorder, schizophrenia, or active substance use disorder, which may negatively impact surgical outcomes, adherence to post-operative care, or pain management. Psychological clearance may be required.
+*   **G. Lack of Documented Conservative Treatment:** Failure to meet the specific conservative treatment requirements outlined in Section 2.C.
+*   **H. Primary Indication for Axial Back Pain Only:** Fusion primarily for axial back pain in the absence of documented instability, clear neurological deficits, or significant deformity.
+*   **I. Cosmetic Indications:** Procedure performed solely for cosmetic purposes or without clear functional impairment.
+*   **J. Worker's Compensation or Litigation:** Cases where the primary motivation for surgery appears to be related to worker's compensation claims or ongoing litigation, without clear and compelling medical necessity.
+
+---
+
+**5. DOCUMENTATION REQUIREMENTS**
+
+The following comprehensive documentation must be submitted with the prior authorization request:
+
+1.  **Referral/Consultation Notes:** From the referring physician and the performing spinal surgeon, clearly detailing the patient's condition and surgical recommendation.
+2.  **Detailed History and Physical Examination:** Current (within 3 months), including a comprehensive pain assessment, neurological examination, and functional status (e.g., walking distance, ability to perform ADLs).
+3.  **Conservative Treatment Records:** Detailed logs, notes, and progress reports from all conservative therapies (e.g., physical therapy notes with dates, duration, specific interventions, and patient response; medication lists with dosages and duration; injection reports with dates, substances, and documented pain relief).
+4.  **Diagnostic Imaging Reports and Images:**
+    *   Full reports for MRI, dynamic X-rays, and CT scans (if performed).
+    *   Access to the actual images (DICOM files or secure online portal) for independent review.
+5.  **Validated Outcome Scores:** Documentation of baseline and most recent (within 3 months) pain scales (e.g., VAS) and functional disability indices (e.g., ODI, RMDQ).
+6.  **Surgical Plan:** Detailed surgical plan from the performing surgeon outlining the proposed levels, type of fusion, instrumentation to be used, and bone graft material.
+7.  **Medical Clearances:** If severe comorbidities exist, clearance letters from relevant specialists (e.g., cardiologist, pulmonologist, endocrinologist).
+8.  **Psychological Evaluation:** If required due to chronic pain, psychiatric history, or substance abuse history.
+9.  **Smoking Cessation Documentation:** For former smokers, date of cessation. For recent cessation or active smokers, documentation of efforts to quit and recent nicotine screening results.
+
+---
+
+**6. AUTHORIZATION DETAILS**
+
+*   **Validity Period:** Approved prior authorizations are valid for **90 calendar days** from the date of approval. If the procedure is not performed within this timeframe, a new prior authorization request must be submitted.
+*   **Peer-to-Peer Review:** In the event of a denial based on medical necessity criteria, the requesting provider has the right to request a peer-to-peer discussion with a Medical Director or a physician of the same specialty as the requesting provider. This discussion must be initiated within 10 business days of the denial notification.
+*   **Appeal Rights:** The patient and/or their authorized representative have the right to appeal any adverse determination. Information on the appeals process, including internal and external review options, will be provided in the denial notification letter.
+*   **Emergency Cases:** In true medical emergencies (e.g., Cauda Equina Syndrome, progressive neurological deficit due to acute trauma), notification of the procedure should be made as soon as clinically possible, and retrospective review for medical necessity will occur.
+
+---
+
+**Disclaimer:** This policy is for informational purposes only and does not constitute medical advice. Coverage is subject to the terms and conditions of the specific member's benefit plan, including eligibility, deductibles, co-insurance, and limitations. This policy is subject to change without prior notice. Medical necessity determinations are made on a case-by-case basis based on the submitted clinical information and applicable medical standards.

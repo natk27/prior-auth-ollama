@@ -1,0 +1,103 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: MRI Spine Lumbar
+CPT Code: 72148
+
+======================================================================
+
+**MRI Spine Lumbar Prior Authorization Policy**
+
+**PROCEDURE OVERVIEW**
+
+ Procedure Name: MRI Spine Lumbar
+ CPT Code: 72148
+
+ Clinical Description:
+ An MRI (Magnetic Resonance Imaging) of the spine, specifically targeting the lumbar region, is a diagnostic imaging procedure used to visualize the spinal structures, including bones, discs, ligaments, and nerves. This procedure is ordered to assess or rule out conditions such as herniated discs, spinal stenosis, degenerative disc disease, or other spinal abnormalities that may be causing back pain.
+
+**COVERAGE CRITERIA**
+
+To be covered under this prior authorization policy, the following criteria must be met:
+
+1. **Conservative Treatment Requirements:**
+The patient must have attempted and failed conservative treatment for a minimum of 12 weeks, which includes:
+	* Physical therapy for at least 6 sessions per week, with a total of 72 sessions
+	* Medication management, including pain medication and muscle relaxants, for at least 3 months
+	* Lifestyle modifications, such as weight loss, exercise, and stress reduction techniques
+2. **Symptom Duration Requirements:**
+The patient must have experienced back pain or discomfort for a minimum of 6 weeks, with:
+	* A visual analog scale (VAS) score of 4 or higher
+	* A functional assessment score of 3 or lower on the modified Oswestry Disability Index (ODI)
+3. **Clinical Documentation Requirements:**
+The patient's medical record must include:
+	* A comprehensive history and physical examination report, including radiographs (X-rays) and computed tomography (CT) scans
+	* Diagnostic test results, including MRI images
+	* Treatment logs, including medication management and conservative treatment protocols
+	* Specialist consultations, including referrals to primary care physicians, physical therapists, and pain management specialists
+4. **Imaging Requirements:**
+The following imaging requirements must be met:
+	* An MRI of the spine, specifically targeting the lumbar region (CPT code 72148)
+	* The MRI images must be taken within the past 30 days
+5. **Severity Criteria:**
+The patient's severity criteria must meet the following:
+	* VAS score ≥ 4 for back pain
+	* Functional assessment score ≤ 3 on the modified ODI
+	* Presence of nerve root compression or foraminal narrowing
+
+**MEDICAL NECESSITY CRITERIA**
+
+To authorize coverage, the following medical necessity criteria must be met:
+
+1. **Patient Selection Criteria:**
+The patient must:
+	* Be a registered member with Blue Cross Blue Shield
+	* Have a valid Medicare or Medicaid number (if applicable)
+	* Meet the coverage criteria outlined above
+2. **Failed Prior Treatments:**
+The patient must have attempted and failed conservative treatment for at least 12 weeks, as outlined in the Coverage Criteria section.
+3. **Contraindications to Conservative Care:**
+The patient may be considered for MRI evaluation if they:
+	* Have a history of failed spinal surgery or fusion
+	* Have a severe comorbidity (e.g., diabetes, heart disease)
+	* Are unable to undergo conservative treatment due to mobility issues
+
+**EXCLUSION CRITERIA**
+
+Coverage will not be authorized for the following conditions:
+
+1. **Active Infections:**
+The patient must not have an active infection that requires immediate attention.
+2. **Pregnancy (if applicable):**
+The patient must not be pregnant or postpartum, as MRI procedures are contraindicated during these periods.
+3. **Severe Comorbidities:**
+The patient must not have a severe comorbidity, such as:
+	* Advanced heart disease
+	* Severe respiratory disease
+	* Diabetes with complications (e.g., diabetic neuropathy)
+4. **Lack of Conservative Treatment:**
+Coverage will not be authorized if the patient has not attempted and failed conservative treatment for at least 12 weeks.
+5. **Cosmetic Indications:**
+The procedure must be ordered for a legitimate medical reason, rather than for cosmetic purposes.
+
+**DOCUMENTATION REQUIREMENTS**
+
+To support prior authorization, the following documentation requirements must be met:
+
+1. **History and Physical Examination:**
+A comprehensive history and physical examination report, including radiographs (X-rays) and computed tomography (CT) scans.
+2. **Diagnostic Test Results:**
+The patient's diagnostic test results, including MRI images, must be included in the medical record.
+3. **Treatment Logs:**
+Treatment logs, including medication management and conservative treatment protocols, must be included in the medical record.
+4. **Specialist Consultations:**
+Referrals to primary care physicians, physical therapists, and pain management specialists must be documented.
+
+**AUTHORIZATION DETAILS**
+
+Prior authorization requirements:
+
+1. Valid for: 90 days from the date of prior authorization
+2. Requires peer-to-peer review if denied
+
+Note: This policy document is for illustrative purposes only and should not be used as a real-world policy without proper customization and adaptation to your organization's specific needs and requirements.

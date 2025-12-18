@@ -1,0 +1,140 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Spinal Decompression
+CPT Code: 63047
+
+======================================================================
+
+## Prior Authorization Policy: Spinal Decompression (Lumbar)
+
+**Policy Number:** MED-SURG-LUMBDECOMP-001
+**Effective Date:** October 26, 2023
+**Review Date:** October 26, 2024
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Lumbar Laminotomy, Hemilaminectomy, or Interlaminar Laminectomy with Decompression of Nerve Root(s), including Partial Facetectomy, Foraminotomy, and/or Excision of Herniated Intervertebral Disc.
+*   **CPT Code(s):**
+    *   **63047:** Laminotomy (hemilaminectomy), hemilaminotomy, or interlaminar laminectomy with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc; 1 interspace, lumbar.
+    *   *Related Add-on Code (if applicable):* 63048 (each additional interspace, lumbar) - requires separate authorization if performed simultaneously.
+*   **Brief Clinical Description:** This surgical procedure involves creating an opening in the lamina (the bony arch of a vertebra) to relieve pressure on compressed spinal nerve roots in the lumbar (lower back) region. The decompression may include removal of a herniated disc fragment (discectomy), removal of bone spurs (osteophytes), or enlargement of the foramen (the opening where the nerve exits the spinal canal) to alleviate symptoms such as radicular pain, numbness, tingling, or weakness in the leg or foot caused by conditions like lumbar disc herniation or spinal stenosis.
+
+---
+
+### 2. COVERAGE CRITERIA (Must meet ALL of the following for approval)
+
+Authorization for CPT 63047 (and 63048, if applicable) will be granted when *all* of the following criteria are met:
+
+*   **A. Conservative Treatment Requirements:**
+    *   The patient has undergone and failed a *minimum of 12 continuous weeks (3 months)* of a structured, medically supervised program of non-surgical conservative management for the current episode of symptoms.
+    *   This program MUST include a combination of at least **three (3)** of the following modalities, with documented adherence and minimal functional improvement (<20% improvement in pain or functional scores):
+        *   **Physical Therapy (PT):** Minimum of 12 sessions over 6-8 weeks, supervised by a licensed physical therapist, focusing on core strengthening, flexibility, posture correction, and activity modification. Home exercise programs alone are insufficient.
+        *   **Pharmacotherapy:** Documented trial of appropriate medications, including:
+            *   Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) for at least 4-6 weeks (unless contraindicated).
+            *   Neuropathic pain agents (e.g., gabapentin, pregabalin) for at least 4-6 weeks (if neuropathic pain is present).
+            *   Muscle relaxants for acute exacerbations.
+        *   **Pain Management Injections:** At least one (1) image-guided (fluoroscopy or ultrasound) epidural steroid injection (ESI) OR selective nerve root block (SNRB) directly targeting the symptomatic level(s) with transient or no sustained improvement for a minimum of 4 weeks post-injection. (Facet joint injections or medial branch blocks are not considered primary conservative treatment for nerve root compression for this policy.)
+        *   **Chiropractic Care or Osteopathic Manipulative Treatment (OMT):** Minimum of 8-10 sessions over 6-8 weeks, administered by a licensed chiropractor or DO, with documented therapeutic goals and patient response.
+    *   Documentation MUST include detailed treatment logs, therapist notes, medication adherence records, and objective assessments of functional status before and after conservative treatment.
+
+*   **B. Symptom Duration Requirements:**
+    *   Persistent, functionally impairing symptoms directly attributable to lumbar nerve root compression for a *minimum of 12 consecutive weeks (3 months)*. Symptoms must include radicular pain, numbness, tingling, and/or weakness radiating into the leg or foot. Pure axial low back pain without radicular symptoms is NOT sufficient.
+
+*   **C. Clinical Documentation Required:**
+    *   **Comprehensive History and Physical Examination:** Performed by the requesting surgeon (orthopedic surgeon or neurosurgeon) within the last 60 days, detailing:
+        *   Onset, duration, severity, and character of symptoms.
+        *   Location and radiation of pain.
+        *   Presence of numbness, tingling, motor weakness, or sensory deficits.
+        *   Detailed neurological examination documenting specific motor, sensory, and reflex abnormalities correlating with the affected nerve root(s).
+        *   Assessment of functional limitations using validated scales.
+        *   Documentation of previous treatments, their durations, and patient response.
+    *   **Failed Conservative Treatment Documentation:** As detailed in Section 2.A.
+    *   **Functional Assessment Scales:** Objective validated functional outcome measures MUST be submitted, with baseline and post-conservative treatment scores, demonstrating significant functional impairment:
+        *   **Oswestry Disability Index (ODI):** Score of $\ge 40\%$ (Moderate to Severe Disability).
+        *   **Visual Analog Scale (VAS) for Leg Pain:** Consistent score $\ge 6/10$.
+        *   *OR* equivalent validated functional assessment demonstrating significant impairment.
+
+*   **D. Imaging Requirements:**
+    *   **Magnetic Resonance Imaging (MRI) of the Lumbar Spine:**
+        *   Performed within the last **six (6) months**.
+        *   MUST demonstrate a clear anatomical abnormality consistent with nerve root compression at the proposed surgical level(s) (e.g., severe disc herniation, spinal stenosis, foraminal stenosis, or osteophyte formation).
+        *   Imaging findings MUST *precisely correlate* with the patient's documented clinical symptoms and neurological examination findings.
+        *   Actual images (DICOM files) or direct access to imaging portal AND a detailed radiologist's report are required.
+    *   **Computed Tomography (CT) Myelogram:** May be accepted within the last **six (6) months** if MRI is contraindicated (e.g., pacemaker, severe claustrophobia, metallic implants incompatible with MRI).
+    *   **Lumbar Spine X-rays (AP, Lateral, Flexion/Extension views):** Performed within the last **twelve (12) months** to assess spinal alignment and stability. Significant instability may require additional consideration for fusion.
+
+*   **E. Severity Criteria:**
+    *   Progressive or unremitting radicular pain, numbness, tingling, or motor weakness that significantly interferes with daily activities (e.g., ambulation, self-care, employment) despite maximal conservative treatment, as evidenced by functional assessment scores (see 2.C).
+
+*   **F. Physician Qualifications:**
+    *   The performing surgeon MUST be a Board-Certified or Board-Eligible Orthopedic Surgeon with fellowship training in spine surgery OR a Board-Certified or Board-Eligible Neurosurgeon.
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+In addition to the coverage criteria, the procedure must meet medical necessity based on:
+
+*   **A. Patient Selection Criteria:**
+    *   Adult patient (typically $\ge 18$ years old).
+    *   Clear and consistent clinical presentation of lumbar radiculopathy (pain, numbness, weakness) that corresponds to objective findings on neurological examination.
+    *   Radiographic evidence (MRI or CT myelogram) demonstrating a specific anatomical lesion (e.g., herniated disc, stenosis) at the symptomatic level(s) that directly impinges upon a nerve root.
+    *   No evidence of cauda equina syndrome or rapidly progressive neurological deficits requiring immediate emergency surgery (these cases do not require prior authorization but must be documented for medical necessity).
+
+*   **B. Failed Prior Treatments:**
+    *   Documented failure of all appropriate non-surgical conservative therapies (as outlined in 2.A) to provide significant, sustained relief of symptoms or improve functional status. "Failure" is defined as $\le 20\%$ improvement in pain and functional scores.
+
+*   **C. Contraindications to Conservative Care (Rare):**
+    *   Patients presenting with acute, severe, or rapidly progressive neurological deficit (e.g., progressive motor weakness, foot drop) directly attributable to nerve root compression that has failed to improve after a brief trial of conservative management, or where immediate intervention is deemed necessary to prevent permanent neurological damage. (These cases may be reviewed for urgent authorization outside standard timelines but still require medical documentation.)
+    *   Cauda Equina Syndrome (emergency condition, does not require prior authorization).
+
+---
+
+### 4. EXCLUSION CRITERIA (If any of the following are present, the procedure is NOT covered)
+
+*   **A. Active Systemic Infection:** Any ongoing systemic infection that could increase surgical risk or lead to spinal infection.
+*   **B. Local Spinal Infection:** Evidence of discitis, osteomyelitis, or epidural abscess.
+*   **C. Pregnancy:** Confirmed pregnancy (due to potential risks of anesthesia and imaging to the fetus).
+*   **D. Severe Uncontrolled Comorbidities:** Uncontrolled diabetes (HbA1c > 8.0%), severe cardiovascular disease (e.g., unstable angina, recent MI < 6 months), severe pulmonary disease (e.g., FEV1 < 50%), severe bleeding disorders, or other medical conditions that significantly increase surgical or anesthesia risk and have not been medically optimized.
+*   **E. Lack of Documented Conservative Treatment:** Failure to meet the conservative treatment requirements outlined in Section 2.A, unless specific and documented contraindications to conservative care exist.
+*   **F. Purely Axial Low Back Pain:** Without objective evidence of radicular symptoms or neurological deficits related to nerve root compression.
+*   **G. Predominant Psychosocial Factors:** Untreated or poorly managed severe depression, anxiety, somatization disorder, or significant narcotic dependence without a comprehensive pain management evaluation and psychological clearance for surgery.
+*   **H. Cosmetic or Elective Indications:** The procedure is requested for non-medical reasons or for conditions not directly related to nerve root compression causing functional impairment.
+*   **I. Worker's Compensation Claims:** Unless specific state-mandated guidelines are met.
+*   **J. Imaging Discordance:** When imaging findings do not correlate with the patient's clinical symptoms and neurological examination.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following comprehensive documentation MUST be submitted for prior authorization review:
+
+*   **A. History and Physical Examination:** Complete H&P from the requesting surgeon, less than 60 days old, detailing chief complaint, HPI, past medical/surgical history, current medications, allergies, social history (including smoking/vaping status), and a comprehensive neurological examination (motor strength, sensation, reflexes, gait).
+*   **B. Diagnostic Test Results:**
+    *   Full MRI or CT Myelogram report (within 6 months) AND access to images (DICOM files or secure portal link).
+    *   Lumbar Spine X-ray reports (within 12 months), including flexion/extension views.
+    *   Any other relevant diagnostic studies (e.g., EMG/NCS if performed).
+*   **C. Conservative Treatment Logs:** Detailed notes from all treating providers (Physical Therapist, Chiropractor, Pain Management Physician) documenting:
+    *   Dates and types of interventions.
+    *   Specific exercises, modalities, and medications prescribed.
+    *   Patient adherence and participation.
+    *   Objective assessment of patient response and functional improvement (or lack thereof).
+    *   Records of pain management injections, including agent used, dosage, anatomical level, image guidance details, and post-injection patient response.
+*   **D. Functional Assessment Scales:** Baseline and post-conservative treatment scores for validated functional outcome measures (e.g., Oswestry Disability Index, VAS for pain).
+*   **E. Specialist Consultations:** Notes from other specialists (e.g., pain management, physiatrist, internal medicine for medical clearance) if applicable.
+*   **F. Surgical Consent:** Signed informed consent from the patient acknowledging understanding of the procedure, risks, benefits, and alternatives.
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **A. Validity Period:** Approved prior authorizations for CPT 63047 (and 63048, if applicable) are valid for **90 calendar days** from the date of approval. If the procedure is not performed within this timeframe, a new authorization request will be required.
+*   **B. Peer-to-Peer Review:** In the event of an initial denial based on medical necessity criteria, the requesting physician has the right to request a peer-to-peer discussion with a Medical Director of the health plan. This discussion will be conducted by a board-certified physician in the same or a closely related specialty (e.g., Orthopedic Surgery, Neurosurgery, Physical Medicine & Rehabilitation).
+*   **C. Appeal Rights:** If the peer-to-peer review upholds the denial, the member and/or the requesting provider (on behalf of the member with their consent) have the right to appeal the decision through the health plan's standard internal and external appeal processes as outlined in the member's plan documents.
+
+---
+
+**Disclaimer:** This policy is intended for informational purposes only and does not constitute medical advice. Coverage is subject to the terms, conditions, and limitations of the member's specific health benefit plan. Medical necessity is determined on a case-by-case basis based on individual patient circumstances and the most current evidence-based medical literature. This policy is subject to periodic review and may be updated or modified without prior notice.

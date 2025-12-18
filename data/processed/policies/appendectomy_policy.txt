@@ -1,0 +1,91 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Appendectomy
+CPT Code: 44970
+
+======================================================================
+
+**Procedure Overview**
+
+**Appendectomy**
+CPT Code: 44970
+
+An appendectomy is a surgical procedure to remove the appendix, which is a small, tube-like structure connected to the large intestine. The procedure is typically performed to treat acute appendicitis, an inflammation of the appendix that can lead to perforation and peritonitis.
+
+**Coverage Criteria**
+
+To be covered under our insurance policy, the following criteria must be met:
+
+1. **Conservative Treatment Requirements**: A minimum of 12 weeks of physical therapy, including:
+	* 6 weeks of outpatient physical therapy sessions (30 minutes per session, twice a week)
+	* 3 weeks of home exercise program (2 hours per day, 5 days a week)
+	* 3 months of follow-up appointments with the treating physician
+2. **Symptom Duration Requirements**: Minimum 6 weeks of symptoms of acute appendicitis, including:
+	* Abdominal pain that worsens over time
+	* Nausea and vomiting
+	* Fever above 38°C (100°F)
+3. **Clinical Documentation Required**:
+	* A complete medical history and physical examination within the past 30 days
+	* Diagnostic test results, including:
+		+ Complete Blood Count (CBC) within the past 14 days
+		+ Electrolyte panel within the past 7 days
+		+ Imaging studies (e.g., CT scan, ultrasound) within the past 2 weeks
+4. **Imaging Requirements**:
+	* A non-contrast abdominal CT scan or ultrasound within the past 2 weeks to confirm the diagnosis of acute appendicitis
+5. **Severity Criteria**:
+	* Pain scale: ≥ 6/10 on the McNeil pain scale
+	* Functional assessment: ≥ 50% decrease in daily activities due to abdominal pain
+
+**Medical Necessity Criteria**
+
+To determine medical necessity, we will consider the following criteria:
+
+1. **Patient Selection Criteria**: The patient must be diagnosed with acute appendicitis and have failed conservative treatment.
+2. **Failed Prior Treatments**: The patient must have tried conservative treatment for at least 12 weeks without improvement.
+3. **Contraindications to Conservative Care**:
+	* Severe comorbidities (e.g., chronic heart disease, diabetes)
+	* Active infections (e.g., pelvic inflammatory disease)
+	* Pregnancy (if applicable)
+	* Severe mental health conditions
+
+**Exclusion Criteria**
+
+The following exclusions will apply:
+
+1. **Active Infections**: If the patient has an active infection, we will not cover the appendectomy.
+2. **Pregnancy**: If the patient is pregnant, we will not cover the appendectomy unless medically necessary (e.g., suspected perforation).
+3. **Severe Comorbidities**: We will not cover the appendectomy if the patient has severe comorbidities that make surgery unnecessary or high-risk.
+4. **Lack of Conservative Treatment**: If the patient has not tried conservative treatment for at least 12 weeks without improvement, we will not cover the appendectomy.
+5. **Cosmetic Indications**: We will not cover the appendectomy if the procedure is performed solely for cosmetic reasons.
+
+**Documentation Requirements**
+
+The following documentation must be provided:
+
+1. **History and Physical Examination**: A complete medical history and physical examination within the past 30 days
+2. **Diagnostic Test Results**: Diagnostic test results, including:
+	* Complete Blood Count (CBC)
+	* Electrolyte panel
+	* Imaging studies (e.g., CT scan, ultrasound)
+3. **Treatment Logs**: Treatment logs documenting conservative treatment efforts, including:
+	* Physical therapy sessions
+	* Home exercise program
+	* Follow-up appointments with the treating physician
+4. **Specialist Consultations**: Specialist consultations, including:
+	* Gastroenterology consultation within the past 14 days
+	* Surgeon consultation within the past 7 days
+
+**Authorization Details**
+
+1. **Valid for**: 90 days from the date of authorization.
+2. **Requires Peer-to-Peer if Denied**: If the request is denied, a peer-to-peer review will be conducted to determine medical necessity.
+
+By signing below, we acknowledge that our patient meets the coverage criteria and requires surgical intervention.
+
+**Insurer Signature**: _____________________________________
+**Date**: _______________________________________________
+**Physician Signature**: ____________________________________
+**Date**: _______________________________________________
+
+Please note that this is a sample policy document and should not be used without consulting with an attorney or medical professional. The specific requirements and exclusions may vary depending on the insurance plan and state laws.

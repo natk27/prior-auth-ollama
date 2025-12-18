@@ -1,0 +1,95 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Carotid Endarterectomy
+CPT Code: 35301
+
+======================================================================
+
+**Carotid Endarterectomy Prior Authorization Policy**
+
+**Procedure Overview**
+
+* Procedure Name: Carotid Endarterectomy (CEA)
+* CPT Code: 35301
+
+The Carotid Endarterectomy is a surgical procedure to remove plaque buildup in the carotid arteries, which supply blood to the brain. This policy applies to all members enrolled with [Insurance Company Name] for services performed on or after the effective date of this policy.
+
+**Coverage Criteria (Must meet ALL)**
+
+To be covered under this policy, the following criteria must be met:
+
+1. **Conservative Treatment Requirements**: The patient must have attempted and failed conservative treatment for at least 12 weeks, including:
+	* 6 weeks of physical therapy to manage symptoms and improve functional capacity
+	* 6 weeks of medication management to control blood pressure, cholesterol, and antiplatelet therapy
+2. **Symptom Duration Requirements**:
+	* The patient must have experienced symptoms for a minimum of 6 weeks, including:
+		+ Transient ischemic attack (TIA) or stroke
+		+ Progressive neurological deficits (e.g., weakness, numbness, tingling)
+		+ Dizziness or syncope
+3. **Clinical Documentation Required**:
+	* A comprehensive history and physical examination performed within the past 30 days
+	* Diagnostic test results, including:
+		+ Carotid ultrasound within the past 6 months
+		+ Non-invasive cerebral angiography (NICA) or other imaging modalities (e.g., MRI, CT) within the past year
+4. **Imaging Requirements**:
+	* Carotid ultrasound must be performed at least every 12 months to monitor plaque progression
+	* NICA or other imaging modalities may be required if symptoms worsen or if conservative treatment fails
+5. **Severity Criteria**:
+	* Patients with a score of ≥3 on the National Institutes of Health Stroke Scale (NIHSS) or modified Rankin Scale (mRS) ≥2 are eligible for CEA
+
+**Medical Necessity Criteria**
+
+To determine medical necessity, we consider the following criteria:
+
+1. **Patient Selection Criteria**:
+	* Patients with high-risk features, such as:
+		+ Recent TIA or stroke
+		+ Severe carotid stenosis (>70%)
+		+ Diabetes or hypertension
+2. **Failed Prior Treatments**:
+	* Patients who have failed conservative treatment for at least 12 weeks may be considered for CEA
+3. **Contraindications to Conservative Care**:
+	* Patients with severe comorbidities, such as:
+		+ Severe pulmonary disease (e.g., COPD, pneumonia)
+		+ Severe cardiovascular disease (e.g., heart failure, coronary artery disease)
+
+**Exclusion Criteria**
+
+The following exclusions apply:
+
+1. **Active Infections**: CEA is not covered for patients with active infections, including:
+	* Carotid endarteritis
+	* Osteomyelitis
+	* Endocarditis
+2. **Pregnancy (if applicable)**: CEA is not covered during pregnancy due to the risks associated with surgical procedures during this time.
+3. **Severe Comorbidities**: CEA may be denied for patients with severe comorbidities that would increase the risk of complications, such as:
+	* Severe pulmonary disease
+	* Severe cardiovascular disease
+4. **Lack of Conservative Treatment**: CEA is not covered if the patient has not attempted and failed conservative treatment for at least 12 weeks.
+5. **Cosmetic Indications**: CEA is not covered for patients with cosmetic indications, such as:
+	* Carotid artery stenosis <50%
+
+**Documentation Requirements**
+
+To support medical necessity, the following documentation is required:
+
+1. **History and Physical Examination**:
+	* Completed within the past 30 days
+	* Includes a thorough review of systems and neurological examination
+2. **Diagnostic Test Results**:
+	* Carotid ultrasound results from within the past 6 months
+	* NICA or other imaging modalities results from within the past year
+3. **Treatment Logs**:
+	* Records of conservative treatment attempted and duration
+4. **Specialist Consultations**:
+	* Neurosurgery consultation to confirm diagnosis and determine medical necessity
+
+**Authorization Details**
+
+This prior authorization is valid for 90 days from the date of approval or denial.
+
+* If approved, CEA services are covered.
+* If denied, a peer-to-peer review will be conducted. A second opinion may be required if necessary.
+
+Note: This policy document should be reviewed and updated regularly to ensure compliance with changing medical guidelines and regulatory requirements.

@@ -1,0 +1,139 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Coronary Artery Bypass
+CPT Code: 33533
+
+======================================================================
+
+## PRIOR AUTHORIZATION POLICY FOR CORONARY ARTERY BYPASS GRAFTING (CABG)
+
+**Policy Number:** [Insert Policy Number, e.g., CARD-SURG-003]
+**Effective Date:** January 1, 2024
+**Review Date:** January 1, 2025
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Coronary Artery Bypass Grafting (CABG) using Venous and Arterial Grafts, Three or More Distal Anastomoses.
+*   **CPT Code(s):** 33533 (Coronary artery bypass, using venous graft(s) and arterial graft(s); three or more distal anastomoses).
+*   **Brief Clinical Description:** Coronary Artery Bypass Grafting (CABG) is a surgical revascularization procedure performed to restore adequate blood flow to areas of the heart muscle supplied by diseased or obstructed coronary arteries. This specific policy covers complex multi-vessel revascularization utilizing a combination of venous grafts (e.g., saphenous vein) and arterial grafts (e.g., internal mammary artery) to bypass three or more significantly stenosed or occluded coronary arteries distal to the blockage. The procedure aims to alleviate angina symptoms, improve cardiac function, and enhance long-term survival in eligible patients with severe coronary artery disease.
+
+---
+
+### 2. COVERAGE CRITERIA (Must Meet ALL)
+
+Prior authorization for CPT Code 33533 (Coronary Artery Bypass, three or more distal anastomoses using venous and arterial grafts) is granted when **ALL** of the following criteria are met:
+
+*   **2.1. Conservative Treatment Requirements (for stable angina):**
+    *   Documented trial of optimized guideline-directed medical therapy for stable angina for a continuous period of at least **12 weeks (3 months)**. This therapy must include, but is not limited to, appropriate doses of:
+        *   Antiplatelet agents (e.g., Aspirin, P2Y12 inhibitors).
+        *   Beta-blockers.
+        *   Statins (high-intensity where tolerated).
+        *   Nitrates (short-acting and/or long-acting as needed).
+        *   Angiotensin-converting enzyme (ACE) inhibitors or Angiotensin Receptor Blockers (ARBs) where indicated.
+    *   Documentation must clearly indicate patient adherence to the prescribed medical regimen and attempts to optimize dosages.
+    *   Documentation of persistent symptoms despite optimized medical therapy or documented contraindications/intolerances to components of guideline-directed medical therapy.
+*   **2.2. Symptom Duration Requirements:**
+    *   For chronic stable angina, symptoms must have been persistent for a minimum of **3 months** despite optimized medical therapy as outlined in 2.1.
+    *   For acute coronary syndromes (unstable angina, NSTEMI, STEMI), the symptom duration requirement for conservative therapy may be waived if urgent revascularization is medically indicated based on clinical guidelines (e.g., ACC/AHA guidelines).
+*   **2.3. Clinical Documentation Required:**
+    *   Detailed history and physical examination from the referring cardiologist and the cardiac surgeon, outlining:
+        *   Onset, duration, frequency, character, and severity of angina symptoms (e.g., Canadian Cardiovascular Society (CCS) Angina Classification, NYHA Functional Classification for dyspnea if present).
+        *   Impact of symptoms on daily activities and quality of life.
+        *   Presence and management of cardiovascular risk factors (e.g., diabetes, hypertension, dyslipidemia, smoking).
+        *   Documentation of medical therapy, dosages, duration, and patient adherence.
+*   **2.4. Imaging Requirements:**
+    *   **Coronary Angiography:**
+        *   A complete coronary angiogram report and images (e.g., CD/DVD) must be submitted, performed within the last **12 months** (unless performed as part of an acute coronary syndrome evaluation).
+        *   Angiography must demonstrate **one or more** of the following:
+            *   Significant stenosis (≥70% diameter stenosis) in three or more major epicardial coronary arteries (e.g., LAD, LCx, RCA, or major branches).
+            *   Significant stenosis (≥50% diameter stenosis) of the left main coronary artery.
+            *   Significant stenosis (≥70% diameter stenosis) in two major epicardial coronary arteries, including the proximal Left Anterior Descending (LAD) artery.
+            *   Multi-vessel disease in patients with diabetes mellitus where CABG is often favored.
+            *   Anatomical complexity precluding successful percutaneous coronary intervention (PCI) as documented by an interventional cardiologist (e.g., diffuse disease, chronic total occlusions not amenable to PCI, heavily calcified lesions, multiple failed PCIs).
+    *   **Stress Testing (if indicated and not an acute presentation):**
+        *   Non-invasive stress test (e.g., stress echocardiography, myocardial perfusion imaging, cardiac MRI stress study) performed within the last **6 months** demonstrating:
+            *   Moderate to large area of inducible ischemia (e.g., >10% ischemic myocardium on MPI or extensive wall motion abnormalities on stress echo) in the distribution of the diseased vessels, OR
+            *   Significant functional impairment (e.g., poor exercise tolerance, early ST-segment depression) suggestive of severe ischemia. (Note: Stress testing may not be required in cases of clear high-risk angiography findings, left main disease, or acute coronary syndrome).
+    *   **Echocardiography:**
+        *   Echocardiogram report, performed within the last **6 months**, documenting Left Ventricular Ejection Fraction (LVEF) and overall global/regional wall motion assessment.
+*   **2.5. Severity Criteria:**
+    *   Persistent Angina: Canadian Cardiovascular Society (CCS) Angina Class III or IV despite maximal medical therapy.
+    *   Objective evidence of significant myocardial ischemia (as per imaging requirements 2.4).
+    *   Acceptable surgical risk profile as assessed by the cardiac surgeon and documented in the consultation note (e.g., STS Predicted Risk of Mortality Score typically <8-10%, unless benefits clearly outweigh risks for higher-risk patients).
+*   **2.6. Laboratory Tests:**
+    *   Current pre-operative laboratory tests (e.g., complete blood count, electrolyte panel, renal function, liver function tests, coagulation profile, blood type and screen) confirming medical suitability for major surgery. (These are part of pre-operative assessment and not direct coverage criteria for *CABG indication* but for surgical readiness).
+*   **2.7. Physician Qualifications:**
+    *   The performing Cardiac Surgeon must be board-certified or board-eligible in Thoracic Surgery and hold active, unrestricted privileges at an accredited hospital facility.
+    *   The surgical facility must be an acute care hospital with an established, high-volume cardiac surgery program, a dedicated cardiac intensive care unit, and capabilities for full cardiopulmonary support and rapid cardiac catheterization.
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+In addition to meeting the Coverage Criteria, the procedure must be deemed medically necessary based on the following:
+
+*   **3.1. Patient Selection Criteria:**
+    *   Patients with significant multi-vessel coronary artery disease (e.g., 3-vessel disease or 2-vessel disease including proximal LAD with significant stenosis) who are symptomatic despite optimal medical therapy.
+    *   Patients with significant left main coronary artery disease (>50% stenosis).
+    *   Patients with diabetes mellitus and multi-vessel coronary artery disease, where CABG has demonstrated superior long-term outcomes compared to percutaneous coronary intervention (PCI).
+    *   Patients with acute coronary syndrome (unstable angina, NSTEMI, STEMI) where urgent revascularization is indicated and CABG is the preferred strategy based on coronary anatomy (e.g., high SYNTAX score indicating complex disease), clinical presentation, or shared decision-making.
+    *   Patients with prior failed PCI with restenosis or new significant disease requiring revascularization, where further PCI is deemed high-risk or unlikely to be successful.
+*   **3.2. Failed Prior Treatments:**
+    *   Documented failure of at least **3 months** of optimal medical therapy to adequately control angina symptoms or objective evidence of ischemia, or documented inability to tolerate medical therapy due to adverse effects.
+    *   Consideration and, if appropriate, documented unsuitability of percutaneous coronary intervention (PCI) as an alternative revascularization strategy due to anatomical complexity, diffuse disease, chronic total occlusions, or other factors that would lead to a low success rate or high complication rate for PCI.
+*   **3.3. Contraindications to Conservative Care / Urgent Need:**
+    *   Presence of acute coronary syndrome (e.g., unstable angina refractory to medical therapy, NSTEMI, STEMI) requiring urgent revascularization.
+    *   Severe left main coronary artery stenosis.
+    *   Rapidly worsening angina symptoms or progression of ischemia despite escalating medical therapy.
+    *   Coronary anatomy highly unfavorable for PCI (as confirmed by an interventional cardiologist and cardiac surgeon).
+
+---
+
+### 4. EXCLUSION CRITERIA (Procedure is NOT Covered if Any Present)
+
+The following conditions or circumstances generally render CABG not medically necessary for coverage:
+
+*   **4.1. Active Infections:** Presence of an active, untreated systemic infection (e.g., sepsis, endocarditis) or significant local infection at the proposed surgical sites, which would increase surgical risk.
+*   **4.2. Severe Comorbidities with Limited Prognosis:** Severe, irreversible end-organ damage (e.g., end-stage renal disease not amenable to dialysis or transplant, advanced metastatic cancer with limited life expectancy <1 year, severe irreversible neurological deficits, severe pulmonary hypertension with prohibitive surgical risk) where the documented risks of surgery clearly outweigh the potential benefits.
+*   **4.3. Lack of Documented Conservative Treatment:** For stable angina, absence of a documented trial of optimized medical therapy for a minimum of 3 months, unless criteria for urgent/emergent revascularization (as per Section 3.3) are met and documented.
+*   **4.4. Cosmetic or Non-Medical Indications:** The procedure is requested for cosmetic purposes or for indications not directly related to the treatment of coronary artery disease. (Not applicable for CABG).
+*   **4.5. Isolated Single-Vessel Disease:** In the absence of high-risk features (e.g., proximal LAD disease, extensive ischemia) and where PCI is a more appropriate and less invasive revascularization strategy.
+*   **4.6. Asymptomatic Disease Without High-Risk Features:** In the absence of left main stenosis >50%, significant multi-vessel disease, or extensive inducible ischemia on stress testing, or other compelling indications that justify revascularization in asymptomatic patients.
+*   **4.7. Patient Refusal:** The patient or legally authorized representative refuses the procedure after thorough discussion of risks, benefits, and alternatives.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following documentation must be submitted with the prior authorization request:
+
+*   **5.1. History and Physical Examination:**
+    *   Recent (within 30 days) comprehensive H&P from the referring cardiologist.
+    *   Recent (within 30 days) comprehensive H&P and surgical consultation note from the performing cardiac surgeon, detailing the proposed surgical plan, risks, benefits, and assessment of patient suitability.
+    *   Documentation of current angina class (CCS) or functional status (NYHA).
+    *   Complete list of current medications, including dosages, start dates, and documentation of adherence.
+*   **5.2. Diagnostic Test Results:**
+    *   Full Coronary Angiography report and images (e.g., digital files, CD/DVD), performed within the last 12 months (or more recent for acute presentations).
+    *   Complete report and images of recent (within 6 months) non-invasive stress test (e.g., stress echocardiogram, myocardial perfusion imaging, cardiac MRI stress) if performed.
+    *   Most recent (within 6 months) Echocardiogram report, including LVEF.
+    *   Relevant laboratory results (e.g., CBC, electrolytes, creatinine, glucose, lipid panel, coagulation studies) from within 30 days.
+*   **5.3. Treatment Logs:**
+    *   Detailed documentation of prior conservative medical management, including specific medications, dosages, duration of use, and reasons for failure (e.g., persistent symptoms, adverse effects, patient intolerance).
+    *   Documentation of discussion regarding PCI as an alternative revascularization option, and reasons for its unsuitability or failure, if applicable.
+*   **5.4. Specialist Consultations:**
+    *   Cardiology consultation report confirming the diagnosis and recommendation for CABG.
+    *   Cardiac Surgery consultation report confirming surgical candidacy and outlining the proposed procedure.
+    *   Documentation of shared decision-making discussions with the patient regarding treatment options, risks, and benefits.
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **6.1. Authorization Validity Period:** An approved prior authorization for Coronary Artery Bypass Grafting (CPT 33533) is valid for a period of **90 calendar days** from the approval date. If the procedure is not performed within this timeframe, a new prior authorization request must be submitted.
+*   **6.2. Peer-to-Peer Review:** If a request for prior authorization is initially denied, the requesting physician or provider has the right to request a peer-to-peer review with a Medical Director or another physician reviewer of the same or a similar specialty. This review must be requested within **10 business days** of the denial notification. During the peer-to-peer review, the requesting physician may provide additional clinical information to support the medical necessity of the requested service.
+*   **6.3. Appeal Rights:** If the service continues to be denied after a peer-to-peer review, the member and/or the requesting provider (with the member's written consent) has the right to appeal the decision through the health plan's formal internal grievance and appeal process. Further external review options, as dictated by state and federal regulations, will be outlined in the denial notice.
+
+---

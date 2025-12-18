@@ -1,0 +1,75 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Varicose Vein Treatment
+CPT Code: 37700
+
+======================================================================
+
+**PROCEDURE OVERVIEW**
+
+Procedure Name: Varicose Vein Treatment with Sclerotherapy and Compression Therapy
+CPT Code: 37700
+
+Clinical Description:
+Varicose vein treatment with sclerotherapy and compression therapy is a minimally invasive procedure used to treat varicose veins, which are enlarged, twisted veins that can cause discomfort, pain, and swelling in the legs. This procedure involves injecting a solution into the affected vein to close it off, followed by the application of compression therapy to help reduce swelling and promote healing.
+
+**COVERAGE CRITERIA (Must meet ALL)**
+
+1. Conservative Treatment Requirements:
+	* The patient must have undergone 12 weeks of physical therapy, which includes exercises to improve circulation, strengthen leg muscles, and reduce swelling.
+2. Symptom Duration Requirements:
+	* The patient's symptoms must have been present for a minimum of 6 weeks prior to the procedure.
+3. Clinical Documentation Required:
+	* A comprehensive medical history and physical examination report from the treating physician.
+	* Results of diagnostic tests, including ultrasound or Doppler studies, performed within the past 12 months.
+4. Imaging Requirements:
+	* Color Doppler ultrasound studies must be completed within the past 6 months to confirm the presence and location of varicose veins.
+5. Severity Criteria:
+	* The patient's pain level on a numeric rating scale (NRS) must be 3 or greater at rest, and 5 or greater with activity.
+	* A functional assessment must demonstrate that the patient has difficulty walking or standing for more than 10 minutes without experiencing significant discomfort.
+
+**MEDICAL NECESSITY CRITERIA**
+
+1. Patient Selection Criteria:
+	* The patient must have failed conservative treatment options, including physical therapy and lifestyle modifications.
+	* The patient's varicose veins must be causing significant discomfort, pain, or swelling that impacts daily activities.
+2. Failed Prior Treatments:
+	* The patient must have previously undergone conservative treatments, such as compression stockings, elevating the legs, and lifestyle modifications (e.g., weight loss, exercise), without achieving satisfactory relief from symptoms.
+3. Contraindications to Conservative Care:
+	* The patient has a history of deep vein thrombosis, pulmonary embolism, or other venous stenoses.
+	* The patient is immunocompromised or has a history of bleeding disorders.
+
+**EXCLUSION CRITERIA**
+
+1. Active Infections:
+	* The patient must not have an active infection in the affected leg, such as cellulitis, abscess, or osteomyelitis.
+2. Pregnancy (if applicable):
+	* Pregnant women are excluded from this coverage due to the risk of complications associated with sclerotherapy and compression therapy.
+3. Severe Comorbidities:
+	* Patients with severe comorbidities, such as heart failure, kidney disease, or liver disease, may be excluded from coverage.
+4. Lack of Conservative Treatment:
+	* Patients who have not attempted conservative treatments for 6 weeks prior to the procedure may be excluded from coverage.
+5. Cosmetic Indications:
+	* The procedure is only covered for symptomatic relief and not for cosmetic purposes.
+
+**DOCUMENTATION REQUIREMENTS**
+
+1. History and Physical Examination:
+	* A comprehensive medical history and physical examination report from the treating physician, including a detailed description of symptoms, medical history, and laboratory results.
+2. Diagnostic Test Results:
+	* Color Doppler ultrasound studies and other diagnostic tests performed within the past 12 months to confirm the presence and location of varicose veins.
+3. Treatment Logs:
+	* A record of all conservative treatments attempted prior to the procedure, including dates, times, and nature of treatments.
+4. Specialist Consultations:
+	* Documentation of consultations with specialist physicians, such as vascular surgeons or dermatologists.
+
+**AUTHORIZATION DETAILS**
+
+1. Valid for: 90 days
+2. Requires Peer-to-Peer Review if Denied:
+	* If the claim is denied, a peer-to-peer review will be conducted to determine whether coverage should be reinstated.
+3. Supporting Documentation Required:
+	* All documentation required by this policy must be submitted with the initial authorization request.
+
+By following these guidelines, we hope to ensure that varicose vein treatment with sclerotherapy and compression therapy is used judiciously and in the best interest of our patients.

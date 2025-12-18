@@ -1,0 +1,128 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Lumbar Discectomy
+CPT Code: 63030
+
+======================================================================
+
+## PRIOR AUTHORIZATION POLICY: Lumbar Microdiscectomy/Discectomy
+
+**Policy Title:** Lumbar Microdiscectomy/Discectomy for Herniated Nucleus Pulposus
+**Policy Number:** XYZ-SPINE-001
+**Effective Date:** January 1, 2024
+**Revision Date:** October 26, 2023
+
+---
+
+This policy outlines the medical necessity criteria for prior authorization of a Lumbar Microdiscectomy or Discectomy (CPT 63030). All criteria must be met for coverage approval. This document is a guideline and does not constitute a guarantee of benefits. Member benefits and coverage may vary based on their specific plan document.
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Lumbar Microdiscectomy / Lumbar Discectomy for Herniated Nucleus Pulposus (HNP)
+*   **CPT Code(s):**
+    *   **63030:** Laminectomy, hemilaminectomy, laminotomy, or facetectomy (including orbital decompression) for decompression of nerve root(s), including partial facetectomy, foraminotomy, and/or excision of herniated intervertebral disc; 1 interspace, lumbar.
+*   **Brief Clinical Description:** Lumbar microdiscectomy/discectomy is a surgical procedure performed to remove the herniated (protruding) portion of an intervertebral disc that is compressing a spinal nerve root in the lumbar spine. This compression typically causes radicular pain (sciatica), numbness, or weakness in the leg. The goal of the procedure is to decompress the affected nerve root, thereby alleviating the symptoms caused by the herniation. The procedure is typically performed using minimally invasive techniques with a microscope or endoscope.
+
+---
+
+### 2. COVERAGE CRITERIA (Must meet ALL of the following)
+
+Authorization for Lumbar Microdiscectomy/Discectomy (CPT 63030) will be approved when all of the following criteria are met:
+
+*   **A. Conservative Treatment Requirements:**
+    *   **Duration:** A documented trial of **minimum 8 to 12 consecutive weeks** of appropriate non-surgical conservative management must be completed and proven ineffective.
+    *   **Types of Treatment (must include at least 2 distinct modalities):**
+        *   **Physical Therapy (PT):** Supervised physical therapy (minimum of 8-12 sessions over the required duration) focusing on core strengthening, therapeutic exercises, stretching, manual therapy, and appropriate modalities (e.g., heat/cold, electrical stimulation, ultrasound). Documentation must show active participation and lack of significant improvement in radicular symptoms or functional status.
+        *   **Pharmacological Management:** Documented trials of appropriate non-narcotic medications, including but not limited to, non-steroidal anti-inflammatory drugs (NSAIDs) for a minimum of 4 weeks (unless contraindicated) and/or neuropathic pain medications (e.g., gabapentin, pregabalin) for a minimum of 4 weeks. Muscle relaxants may also be considered. Opioids are generally not considered a primary long-term conservative treatment for this condition.
+        *   **Activity Modification:** Documented patient education and adherence to appropriate activity modification to avoid exacerbating symptoms.
+        *   **Home Exercise Program:** Documented instruction and adherence to a prescribed home exercise program.
+        *   **Epidural Steroid Injections (ESI):** While not mandatory for initial conservative trial, a trial of one or two transforaminal or interlaminar epidural steroid injections may be considered as part of conservative management if clinical presentation supports it and is medically appropriate. Improvement from ESI is typically not an indication for surgery unless it is temporary and insufficient for long-term relief.
+*   **B. Symptom Duration Requirements:**
+    *   Documented persistent, debilitating radicular symptoms (e.g., sciatica, radiating pain, numbness, tingling, or weakness in the leg) consistent with nerve root compression for a **minimum of 6 weeks** despite conservative management.
+*   **C. Clinical Documentation Required:**
+    *   A recent (within 3 months) comprehensive history and physical examination by a board-certified or board-eligible orthopedic surgeon or neurosurgeon specializing in spinal surgery.
+    *   Documentation of objective neurological deficits (e.g., sensory loss in a dermatomal pattern, motor weakness grade 4/5 or less in a myotomal distribution, diminished/absent deep tendon reflexes) consistent with nerve root compression at the proposed surgical level.
+    *   Detailed records of all conservative treatments, including specific modalities, duration, frequency, provider notes, and documented response or lack of response to treatment.
+*   **D. Imaging Requirements:**
+    *   **Magnetic Resonance Imaging (MRI) of the lumbar spine:** A high-quality MRI must be performed and documented **within the last 6 months**.
+    *   **Findings:** The MRI must clearly demonstrate a single-level, anatomically significant herniated nucleus pulposus (HNP), disc protrusion, extrusion, or sequestration that directly correlates with the patient's presenting clinical symptoms, neurological deficits, and physical examination findings at the proposed surgical level.
+    *   **Note:** Imaging findings of disc degeneration, disc bulge, or minor protrusions without clear nerve root compression are not sufficient for approval.
+*   **E. Severity Criteria:**
+    *   **Pain Scale:** Documented consistent, moderate to severe radicular pain as measured by a validated pain scale (e.g., Visual Analog Scale (VAS) score consistently > 5/10) that significantly impacts daily activities.
+    *   **Functional Assessment:** Documented functional impairment as measured by a validated functional outcome tool (e.g., Oswestry Disability Index (ODI) score > 20% or Roland-Morris Disability Questionnaire score > 10).
+    *   **Neurological Deficits:** Objective, reproducible neurological deficits (sensory, motor, or reflex) on physical examination that correlate with the imaging findings and patient's reported symptoms.
+*   **F. Laboratory Tests:**
+    *   Not typically required for the procedure itself, unless to rule out differential diagnoses (e.g., infection, inflammatory conditions, rheumatological disorders) or for pre-operative medical clearance based on patient comorbidities.
+*   **G. Physician Qualifications:**
+    *   The surgical procedure must be performed by a board-certified or board-eligible orthopedic surgeon or neurosurgeon with documented expertise in spinal surgery.
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+In addition to meeting all coverage criteria, the procedure must be deemed medically necessary based on the following:
+
+*   **A. Patient Selection Criteria:**
+    *   Adult patient (typically 18 years or older) with radicular symptoms and objective neurological deficits directly attributable to a single-level lumbar disc herniation.
+    *   Patient is an appropriate surgical candidate considering overall health status and surgical risks/benefits.
+    *   Patient has a clear understanding of the risks, benefits, and alternatives to surgery and provides informed consent.
+    *   Absence of significant psychosocial issues that would impede recovery or indicate a poor surgical outcome (e.g., severe untreated depression, secondary gain issues).
+*   **B. Failed Prior Treatments:**
+    *   Comprehensive documentation demonstrating the failure of an adequate, protracted course of conservative management to provide significant and lasting relief of radicular symptoms and functional improvement.
+*   **C. Contraindications to Conservative Care (Requiring more urgent consideration for surgery):**
+    *   **Cauda Equina Syndrome (CES):** Acute onset of severe low back pain with bilateral sciatica, saddle anesthesia, new-onset bowel and/or bladder dysfunction (e.g., urinary retention, incontinence), and/or rapidly progressive bilateral lower extremity weakness. This is a surgical emergency.
+    *   **Progressive Severe Neurological Deficit:** Documented, rapidly worsening motor weakness (e.g., new-onset or rapidly worsening foot drop, significant quadriceps weakness) attributable to nerve root compression.
+    *   **Intractable Pain:** Severe, unremitting radicular pain despite maximal conservative medical management and/or epidural steroid injections, significantly impairing quality of life and function.
+
+---
+
+### 4. EXCLUSION CRITERIA (Procedure is NOT covered if any of the following are present)
+
+*   **A. Active Infection:** Documented active systemic infection or localized spinal infection (e.g., discitis, osteomyelitis).
+*   **B. Pregnancy:** Generally not covered during pregnancy unless emergent (e.g., Cauda Equina Syndrome or rapidly progressive neurological deficit) due to potential fetal risks from radiation exposure and anesthesia.
+*   **C. Severe, Uncontrolled Comorbidities:** Uncontrolled severe medical comorbidities (e.g., unstable angina, recent myocardial infarction, severe pulmonary hypertension, uncontrolled diabetes, severe bleeding diathesis, severe renal or hepatic failure) that significantly increase surgical risk and outweigh potential benefits, as determined by the surgical team and pre-operative medical clearance.
+*   **D. Lack of Documented Conservative Treatment:** Failure to complete or adequately document the required trial of conservative therapies as outlined in Section 2.A.
+*   **E. Primary Axial Back Pain:** When the predominant symptom is axial low back pain without clear, objective evidence of radiculopathy and nerve root compression directly caused by a disc herniation.
+*   **F. Other Spinal Pathology:** When the patient's symptoms are primarily attributable to conditions other than a single-level disc herniation requiring decompression (e.g., significant spinal stenosis, spondylolisthesis, facet arthropathy, tumor, fracture), which may require different surgical approaches and CPT codes.
+*   **G. Cosmetic/Elective Indications:** The procedure is for medical necessity only and not for cosmetic enhancement or non-debilitating symptoms.
+*   **H. Lack of Correlation:** Discrepancy between clinical symptoms, neurological findings, and imaging results.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following documentation must be submitted for prior authorization review:
+
+*   **A. History and Physical Examination:** A recent (within 3 months) comprehensive H&P note from the requesting surgeon, detailing:
+    *   Patient's chief complaint and history of present illness.
+    *   Detailed description of radicular symptoms (onset, duration, character, radiation, aggravating/alleviating factors).
+    *   Previous medical and surgical history.
+    *   Current medication list.
+    *   Comprehensive neurological examination findings (motor strength grades, sensory examination, reflexes, gait assessment, straight leg raise test) with objective findings that correlate to the proposed surgical level.
+    *   Assessment of functional status (e.g., ADL limitations).
+    *   Validated pain scale scores (e.g., VAS) and functional outcome scores (e.g., ODI, Roland-Morris).
+*   **B. Diagnostic Test Results:**
+    *   Full MRI report of the lumbar spine and access to relevant images (e.g., DICOM files, CD, or direct portal access to radiology PACS system) performed within the last 6 months, clearly demonstrating the herniated disc and nerve root compression.
+*   **C. Treatment Logs:**
+    *   Detailed records of all conservative treatments, including start and end dates, duration, frequency, specific modalities/medications used, provider notes (e.g., PT notes), and documented patient response or lack thereof.
+    *   Medication trials must include names, dosages, and duration of use.
+*   **D. Specialist Consultations:**
+    *   Reports from other specialists involved in conservative management (e.g., Physical Therapists, Pain Management Physicians, Neurologists) if applicable.
+    *   Pre-operative medical clearance from a primary care physician or appropriate specialist (e.g., cardiologist, pulmonologist) if significant comorbidities exist.
+*   **E. Operative Plan:**
+    *   A detailed surgical plan from the requesting surgeon outlining the specific procedure, level(s) of surgery, and rationale.
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **A. Validity Period:** An approved prior authorization for Lumbar Microdiscectomy/Discectomy (CPT 63030) is valid for **90 calendar days** from the date of approval. If the procedure is not performed within this timeframe, a new prior authorization request must be submitted.
+*   **B. Peer-to-Peer Review:** In the event of an initial denial based on medical necessity criteria, the requesting physician or their authorized representative has the right to request a peer-to-peer discussion with a Medical Director or peer reviewer within a specified timeframe (typically 5-10 business days from the denial notification). This discussion provides an opportunity to present additional clinical information or clarify the medical necessity of the requested procedure.
+*   **C. Appeal Rights:** If a prior authorization request is denied following the initial review and/or a peer-to-peer discussion, the member and/or the requesting provider (with member consent) have the right to appeal the decision. The appeal process will follow the guidelines outlined in the member's plan documents and state/federal regulations, including internal appeals and, if applicable, an external independent review. Detailed instructions for the appeal process will be provided in the denial notification letter.
+
+---
+
+**Disclaimer:** This policy is intended for informational purposes only and does not constitute medical advice or a guarantee of coverage. Medical decisions should always be made by a qualified healthcare professional in consultation with the patient. Specific benefits and coverage are determined by the individual member's plan document. This policy is subject to change.

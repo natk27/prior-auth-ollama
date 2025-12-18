@@ -1,0 +1,123 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Knee Arthroscopy
+CPT Code: 29881
+
+======================================================================
+
+## MEDICAL POLICY: PRIOR AUTHORIZATION FOR KNEE ARTHROSCOPY WITH MENISCECTOMY
+
+**Policy Number:** ORT-KNEE-ARTH-MEN-001
+**Effective Date:** January 1, 2024
+**Last Reviewed:** October 15, 2023
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Knee Arthroscopy, Diagnostic and/or Surgical; with meniscectomy (medial or lateral, including meniscal shaving, partial meniscectomy)
+*   **CPT Code(s):** 29881
+*   **Brief Clinical Description:** Knee arthroscopy is a minimally invasive surgical procedure used to diagnose and treat problems within the knee joint. For CPT 29881, the primary intervention involves the surgical removal of damaged meniscal tissue (meniscectomy) using small incisions and specialized instruments guided by an arthroscope. This procedure is typically performed to alleviate pain, locking, catching, or giving way caused by a torn meniscus that has failed conservative management.
+
+---
+
+### 2. COVERAGE CRITERIA (Must meet ALL of the following criteria)
+
+Prior authorization for CPT 29881 (Knee Arthroscopy with Meniscectomy) is considered medically necessary when ALL of the following criteria are met:
+
+1.  **Symptom Duration Requirements:**
+    *   The patient must have experienced persistent, functionally limiting knee pain and/or mechanical symptoms (e.g., locking, catching, instability, giving way, effusion) directly attributable to a meniscal tear for a minimum of **12 consecutive weeks (3 months)** prior to the request for surgery.
+    *   For acute, *truly locked knees* (inability to fully extend the knee passively or actively due to a meniscal fragment), the 12-week conservative treatment requirement may be waived if documented by physical examination findings and imaging.
+
+2.  **Conservative Treatment Requirements:**
+    *   The patient must have completed a documented trial of **at least 12 weeks of structured, non-surgical conservative therapy** for symptoms related to the meniscal tear, which has failed to provide significant improvement in pain and function. This must include at least **two** of the following modalities:
+        *   **Physical Therapy (PT):** A minimum of **6 weeks** of supervised, goal-oriented physical therapy focusing on quadriceps strengthening, hamstring flexibility, core stability, gait training, and range of motion exercises. Documentation must include initial evaluation, progress notes demonstrating adherence and lack of significant improvement.
+        *   **Pharmacotherapy:** Regular use of oral non-steroidal anti-inflammatory drugs (NSAIDs) for a minimum of **4 weeks**, or acetaminophen if NSAIDs are contraindicated, with documented efficacy or intolerance.
+        *   **Activity Modification:** Documented attempts to modify activities to reduce stress on the knee, including avoidance of aggravating movements, for at least **8 weeks**.
+        *   **Bracing/Supports:** Documented use of knee brace or support for at least **4 weeks** to offload or stabilize the affected joint.
+        *   **Intra-articular Corticosteroid Injection:** One or more intra-articular corticosteroid injections into the affected knee, administered at least **4 weeks** prior to the surgical request, with documented temporary or no significant relief of symptoms lasting less than 4 weeks. (Note: These injections are generally for pain and inflammation reduction, not for healing a torn meniscus).
+
+3.  **Clinical Documentation Required:**
+    *   Comprehensive physician office notes detailing:
+        *   Detailed history of present illness, including onset, duration, character, intensity (e.g., VAS score > 4/10 on average), aggravating/alleviating factors, and specific functional limitations (e.g., inability to climb stairs, walk long distances, participate in desired recreational activities).
+        *   Physical examination findings consistent with a meniscal tear, including:
+            *   Localized joint line tenderness (medial or lateral).
+            *   Presence of effusions (mild, moderate, severe).
+            *   Restricted or painful range of motion.
+            *   Positive meniscal provocative tests (e.g., McMurray's test, Apley's compression test, Thessaly test).
+            *   Assessment of ligamentous stability (ruling out significant instability requiring different intervention).
+            *   Neurovascular status.
+    *   Documentation of the failed conservative treatments as specified in criterion 2.
+
+4.  **Imaging Requirements:**
+    *   **Magnetic Resonance Imaging (MRI):** A recent (performed within the last **12 months**) MRI of the affected knee demonstrating a meniscal tear (e.g., medial or lateral meniscal tear, specific type such as bucket-handle, radial, flap tear, or complex tear) that correlates with the patient's clinical symptoms and physical examination findings. The MRI must *not* show significant widespread chondral damage (e.g., Kellgren-Lawrence grade III or IV osteoarthritis) that would suggest an alternative procedure (e.g., total knee arthroplasty) as more appropriate.
+    *   **Plain Radiographs (X-rays):** Recent (within the last **12 months**) weight-bearing anteroposterior, lateral, and patellofemoral views of the affected knee, primarily to rule out significant degenerative joint disease (osteoarthritis), osteochondral defects, or other bony pathology.
+
+5.  **Severity Criteria:**
+    *   Documented moderate to severe functional impairment impacting activities of daily living (ADLs), work, or recreational activities, as evidenced by objective measures such as:
+        *   Patient-reported outcome measures (e.g., KOOS (Knee injury and Osteoarthritis Outcome Score) subscale scores indicating significant impairment, or WOMAC (Western Ontario and McMaster Universities Osteoarthritis Index) pain/function subscores indicating moderate-to-severe limitations).
+        *   Documentation of mechanical symptoms (locking, catching, giving way) that significantly interfere with daily function.
+
+6.  **Laboratory Tests:**
+    *   Generally, no specific laboratory tests are required for the diagnosis of a meniscal tear. However, if an inflammatory arthropathy or infection is suspected based on history or physical exam, relevant laboratory tests (e.g., ESR, CRP, CBC, synovial fluid analysis) may be requested to rule out alternative diagnoses or contraindications to surgery.
+
+7.  **Physician Qualifications:**
+    *   The performing physician must be a Board-Certified or Board-Eligible Orthopedic Surgeon with current hospital privileges to perform knee arthroscopy at an appropriately accredited surgical facility.
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+The proposed Knee Arthroscopy with Meniscectomy (CPT 29881) is considered medically necessary when the patient meets all of the Coverage Criteria (Section 2) and also satisfies the following:
+
+*   **Patient Selection Criteria:** The patient is deemed an appropriate surgical candidate by the treating orthopedic surgeon, considering overall health status, anesthetic risk, and potential for rehabilitation. The symptoms are clearly and directly attributable to the documented meniscal tear.
+*   **Failed Prior Treatments:** There is clear documentation that all appropriate conservative treatments, as detailed in Section 2, have been exhausted and have failed to provide lasting symptomatic relief or functional improvement.
+*   **Contraindications to Conservative Care (Exceptions):** In rare cases, if a patient cannot undergo or continue conservative care (e.g., true acute locked knee with severe functional impairment and mechanical block to extension, or rapidly progressive symptoms with clear imaging evidence of a displaced tear requiring urgent intervention), justification for bypassing the full conservative treatment protocol must be explicitly documented and submitted for review.
+
+---
+
+### 4. EXCLUSION CRITERIA (The procedure is NOT covered if any of the following are present)
+
+Coverage for Knee Arthroscopy with Meniscectomy (CPT 29881) will be denied if any of the following conditions are identified, unless specific extenuating circumstances are documented and approved on a case-by-case basis:
+
+*   **Active Infection:** Presence of active localized infection (e.g., cellulitis, septic arthritis, osteomyelitis in or around the knee) or systemic infection.
+*   **Pregnancy:** While not an absolute contraindication, surgical intervention for non-emergent meniscal tears is generally deferred until after delivery due to potential risks to the fetus from anesthesia and medications, unless deemed medically urgent by obstetric and orthopedic consultants.
+*   **Severe Comorbidities:** Uncontrolled or severe medical comorbidities that pose an unacceptably high risk for surgery and anesthesia, as determined by the patient's primary care physician and/or specialists (e.g., uncontrolled diabetes, severe cardiovascular disease, severe pulmonary disease).
+*   **Lack of Conservative Treatment:** Failure to adequately complete or document the required course of conservative therapy, unless a compelling medical justification for an exception (e.g., acute locked knee) is provided.
+*   **Asymptomatic Meniscal Tear:** Incidental discovery of a meniscal tear on imaging in an asymptomatic patient or a patient whose symptoms are clearly attributable to other knee pathology (e.g., significant osteoarthritis, patellofemoral pain syndrome).
+*   **Severe Osteoarthritis:** The primary pathology is severe, widespread degenerative joint disease (e.g., Kellgren-Lawrence grade III or IV osteoarthritis) where meniscectomy is unlikely to provide significant or lasting symptomatic relief, and a joint replacement procedure may be more appropriate.
+*   **Cosmetic Indications:** Procedures performed solely for cosmetic purposes are not covered (not applicable to CPT 29881).
+*   **Unaddressed Coagulopathy:** Significant bleeding disorder that is not adequately managed prior to surgery.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following documentation must be submitted to support the prior authorization request for Knee Arthroscopy with Meniscectomy:
+
+1.  **Comprehensive History and Physical Examination:**
+    *   Most recent orthopedic surgeon's consultation notes, including a detailed history, physical examination findings, differential diagnoses, and treatment plan.
+    *   Documentation of onset, duration, character, and severity of pain, and specific functional limitations.
+    *   Results of special orthopedic tests (e.g., McMurray's, Apley's) and their clinical significance.
+2.  **Diagnostic Test Results:**
+    *   Full MRI report and images (if available digitally) of the affected knee.
+    *   Full X-ray reports of the affected knee.
+3.  **Treatment Logs and Records:**
+    *   Detailed physical therapy notes (initial evaluation, progress notes, discharge summary if applicable) outlining interventions, frequency, duration, and patient response.
+    *   Medication list, including type, dosage, duration of use, and documented efficacy or reasons for discontinuation (e.g., side effects).
+    *   Injection records, including date, type of injectate, location, and documented duration and degree of pain relief.
+4.  **Specialist Consultations:**
+    *   Any relevant consultations from other specialists (e.g., pain management, sports medicine, primary care physician) supporting the diagnosis and treatment plan.
+    *   Anesthesia clearance, if specifically requested by the plan based on patient comorbidities.
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **Authorization Validity:** An approved prior authorization for CPT 29881 is valid for **90 calendar days** from the date of approval. If the procedure is not performed within this timeframe, a new prior authorization request will be required.
+*   **Peer-to-Peer Review:** In the event of an initial denial based on medical necessity criteria, the ordering physician has the right to request a peer-to-peer discussion with a medical director of the health plan to discuss the clinical rationale for the requested service.
+*   **Appeal Rights:** If a prior authorization request is denied, the member and/or the provider (on behalf of the member, with consent) have the right to appeal the decision in accordance with the health plan's appeal procedures.
+*   **Disclaimer:** Prior authorization is an assessment of medical necessity for a requested service and is not a guarantee of payment. Payment is subject to the terms, conditions, limitations, and exclusions of the member's specific health plan benefits at the time the service is rendered, including provider network status, deductible, co-insurance, and co-payment obligations. This policy does not address all plan benefit designs; members should refer to their Certificate of Coverage or Summary Plan Description for specific benefit information.
+
+---

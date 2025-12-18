@@ -1,0 +1,74 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Gallbladder Removal
+CPT Code: 47562
+
+======================================================================
+
+**Gallbladder Removal Prior Authorization Policy**
+
+**Procedure Overview**
+
+ Procedure Name: Gallbladder Removal
+ CPT Code: 47562
+
+ Clinical Description:
+ Gallbladder removal is a surgical procedure to remove the gallbladder, which is responsible for storing bile that aids in digestion. This procedure is typically performed to treat conditions such as chronic cholecystitis, cholelithiasis (gallstones), or recurrent biliary colic.
+
+**Coverage Criteria**
+
+To be covered under this policy, the patient must meet all of the following criteria:
+
+1.  **Conservative Treatment Requirements**: The patient must have undergone a minimum of 12 weeks of physical therapy to manage symptoms such as abdominal pain and bloating.
+2.  **Symptom Duration Requirements**: The patient must have experienced persistent symptoms for at least 6 weeks prior to seeking surgical intervention.
+3.  **Clinical Documentation Required**:
+    *   A comprehensive medical history, including any previous diagnoses or treatments related to gallbladder disease.
+    *   Results from diagnostic tests such as ultrasound, CT scan, or MRI, which must be within the last 6 months.
+4.  **Imaging Requirements**: The patient must undergo imaging studies that confirm the presence of gallstones or inflammation of the gallbladder, such as:
+    *   Ultrasound: within the last 6 months
+    *   CT Scan: within the last 12 months
+    *   MRI: within the last 12 months
+5.  **Severity Criteria**:
+    *   Pain scales: The patient's pain must be rated at least 4 on a scale of 1-10 for at least 3 consecutive days.
+    *   Functional assessments: The patient must experience symptoms that impact their daily activities, such as eating, sleeping, or socializing.
+
+**Medical Necessity Criteria**
+
+To determine medical necessity, the following criteria must be met:
+
+1.  **Patient Selection Criteria**: The patient must have tried and failed conservative treatments for at least 3 months.
+2.  **Failed Prior Treatments**: The patient must have undergone previous treatments such as medication or endoscopic procedures that did not provide relief from symptoms.
+3.  **Contraindications to Conservative Care**: The patient must have a medical condition that makes conservative care unsafe, such as:
+    *   Severe liver or pancreatic disease
+    *   History of abdominal surgery or trauma
+    *   Chronic illness requiring frequent hospitalizations
+
+**Exclusion Criteria**
+
+The following conditions will exclude coverage:
+
+1.  **Active Infections**: The patient must not have an active infection that requires antibiotic treatment.
+2.  **Pregnancy**: Coverage is excluded for patients who are pregnant or planning to become pregnant.
+3.  **Severe Comorbidities**: Coverage is excluded if the patient has severe comorbidities such as:
+    *   Unstable angina
+    *   Heart failure
+    *   Chronic kidney disease stage 4-5
+4.  **Lack of Conservative Treatment**: Coverage is excluded if the patient fails to undergo required conservative treatments.
+5.  **Cosmetic Indications**: Coverage is excluded for patients who seek surgical intervention solely for cosmetic reasons.
+
+**Documentation Requirements**
+
+To support medical necessity, the following documentation is required:
+
+1.  **History and Physical Examination**: A thorough history and physical examination must be documented by a licensed healthcare provider within 30 days of referral.
+2.  **Diagnostic Test Results**: Results from diagnostic tests such as ultrasound, CT scan, or MRI must be submitted within 6 months of the patient's date of service.
+3.  **Treatment Logs**: Documentation of all treatments attempted for gallbladder disease must be provided, including medications, endoscopic procedures, and hospitalizations.
+4.  **Specialist Consultations**: Results from specialist consultations such as gastroenterology or surgery must be submitted within 30 days of referral.
+
+**Authorization Details**
+
+1.  **Valid for:** This policy is valid for 90 days from the date of issue.
+2.  **Requires Peer-to-Peer Review:** If denied, coverage requires peer-to-peer review by a medical director or designee.
+
+Note: This policy document is for illustrative purposes only and should not be used as actual prior authorization policy without consulting with a licensed healthcare provider and insurance company representatives.

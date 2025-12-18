@@ -1,0 +1,131 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Partial Knee Replacement
+CPT Code: 27446
+
+======================================================================
+
+## PRIOR AUTHORIZATION POLICY: PARTIAL KNEE ARTHROPLASTY (UNIFORMCOMPARTMENTAL KNEE REPLACEMENT)
+
+**Policy Number:** XYZ-PKA-001
+**Effective Date:** January 1, 2024
+**Last Reviewed:** October 15, 2023
+**Applies To:** All Commercial, Medicare Advantage, and Exchange plans. (Self-funded plans may vary).
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Partial Knee Arthroplasty (PKA) / Unicompartmental Knee Arthroplasty (UKA)
+*   **CPT Code(s):** 27446 - Arthroplasty, knee, condyle and plateau; medial OR lateral compartment with or without patella resurfacing (e.g., unicompartmental prosthesis).
+*   **Brief Clinical Description:** Partial Knee Arthroplasty (PKA), also known as Unicompartmental Knee Arthroplasty (UKA), is a surgical procedure to replace only the diseased or damaged compartment of the knee joint (medial, lateral, or patellofemoral) while preserving the healthy articular cartilage, ligaments (anterior cruciate ligament [ACL], posterior cruciate ligament [PCL]), and meniscus in the other compartments. This procedure is primarily indicated for patients with isolated unicompartmental osteoarthritis where conservative management has failed to provide adequate relief.
+
+---
+
+### 2. COVERAGE CRITERIA (Medical Necessity)
+
+**Partial Knee Arthroplasty (CPT 27446) is considered medically necessary when *ALL* of the following criteria are met:**
+
+1.  **Symptom Duration Requirements:**
+    *   The patient must have documented persistent, functionally limiting knee pain and/or disability in the affected compartment for a minimum duration of **six (6) months**.
+
+2.  **Conservative Treatment Requirements:**
+    *   Documentation of a minimum of **six (6) months** of *structured, consistent, and documented* non-operative management targeting the affected knee, which has failed to provide sustained significant improvement in pain and function. This must include, but is not limited to:
+        *   **Physical Therapy (PT):** A documented course of supervised physical therapy focusing on quadriceps strengthening, hamstring flexibility, gait training, balance, and proprioception, for a minimum of **12 weeks** within the 6-month conservative treatment period. Home exercise programs alone are not sufficient documentation.
+        *   **Pharmacological Management:** Documented trial of appropriate oral analgesics (e.g., NSAIDs, acetaminophen) for a minimum of **8 weeks**, or physician-documented contraindication to such medications.
+        *   **Intra-articular Injections:** At least one (1) course of intra-articular corticosteroid injection into the affected compartment within the last 6-12 months with only temporary or no relief of symptoms (relief lasting less than 4 weeks), OR at least one (1) course of hyaluronic acid (viscosupplementation) injection with only temporary or no relief of symptoms.
+        *   **Assistive Devices:** Documented trial of ambulatory assistive devices (e.g., cane, walker, knee brace) for a minimum of **4 weeks**, with limited or no functional benefit.
+        *   **Weight Management:** For patients with a Body Mass Index (BMI) ≥ 30 kg/m², documented participation in a supervised weight reduction program or counseling, unless medically contraindicated.
+
+3.  **Clinical Documentation Required:**
+    *   Detailed history and physical examination notes by the requesting orthopedic surgeon within 90 days of the authorization request, confirming:
+        *   Localized pain and tenderness specific to one compartment of the knee.
+        *   Functional limitations impacting activities of daily living (ADLs), work, or recreation (e.g., difficulty walking, climbing stairs, sleeping due to pain).
+        *   Range of motion assessment, stability testing (ACL, PCL, collateral ligaments must be intact and stable), and specific provocative tests that reproduce symptoms in the affected compartment.
+        *   Documentation of previous conservative treatment interventions, dates, duration, and patient response/adherence.
+
+4.  **Imaging Requirements:**
+    *   Recent weight-bearing radiographs of the affected knee (anteroposterior [AP], lateral, and Merchant/sunrise views) performed within **six (6) months** of the authorization request. These must demonstrate:
+        *   Radiographic evidence of isolated, significant osteoarthritis (e.g., Kellgren-Lawrence grade III or IV) primarily affecting a single compartment (medial, lateral, or patellofemoral).
+        *   Relative preservation of the articular cartilage in the *unaffected* compartments.
+        *   No evidence of significant tricompartmental osteoarthritis.
+        *   Alignment assessment consistent with unicompartmental disease.
+    *   Magnetic Resonance Imaging (MRI) is not routinely required but may be considered if clinically indicated to assess ligamentous integrity or specific cartilage lesions, and must be performed within **twelve (12) months** of the request.
+
+5.  **Severity Criteria:**
+    *   **Pain Scale:** Persistent average pain score of ≥ 6/10 on a Visual Analog Scale (VAS) or Numeric Pain Rating Scale (NPRS) despite conservative management.
+    *   **Functional Assessment:** Objective evidence of moderate to severe functional impairment documented by a validated knee-specific outcome score within **three (3) months** of the request (e.g., WOMAC total score ≥ 40/100, Oxford Knee Score ≤ 30/48, KOOS score demonstrating significant impairment in pain, symptoms, ADL, sport/recreation, or quality of life subscales).
+
+6.  **Laboratory Tests:**
+    *   While not typically a direct requirement for PKA authorization, any clinically indicated laboratory tests (e.g., CBC, ESR, CRP, rheumatoid factor, ANA) to rule out inflammatory arthropathy or infection should be performed and reviewed prior to surgery if suspected.
+
+7.  **Physician Qualifications:**
+    *   The procedure must be performed by an orthopedic surgeon who is board-certified or board-eligible in orthopedic surgery and has demonstrated experience in knee arthroplasty procedures.
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA (Further Considerations)
+
+*   **Patient Selection Criteria:**
+    *   **Age:** While commonly performed in older adults, younger patients with post-traumatic or avascular necrosis-related isolated unicompartmental osteoarthritis may be considered if all other criteria are met.
+    *   **Body Mass Index (BMI):** Generally, a BMI ≤ 35 kg/m² is preferred. For patients with a BMI between 35-40 kg/m², shared decision-making regarding increased surgical risks and potential for less optimal outcomes must be documented. BMI > 40 kg/m² is typically a relative contraindication.
+    *   **Ligamentous Stability:** Intact and stable anterior cruciate ligament (ACL) and posterior cruciate ligament (PCL) are critical for successful PKA. Collateral ligaments must also be stable.
+    *   **Fixed Deformity:** Absence of significant fixed varus or valgus deformity (generally < 10-15 degrees) that cannot be corrected intraoperatively. Absence of significant flexion contracture (> 15 degrees).
+    *   **Patient Expectations:** Realistic patient expectations regarding the surgical outcome and commitment to post-operative rehabilitation.
+
+*   **Failed Prior Treatments:**
+    *   Comprehensive documentation demonstrating adherence to and inadequate response from all required conservative treatments (as outlined in Section 2.2). The failure must be due to persistent pain and/or functional limitation directly attributable to the unicompartmental osteoarthritis, rather than non-adherence or other co-existing conditions.
+
+*   **Contraindications to Conservative Care:**
+    *   Rarely, rapid progression of unicompartmental disease leading to acute mechanical instability not amenable to bracing, or unmanageable pain despite aggressive conservative measures, may warrant earlier surgical intervention. Such cases require exceptional clinical justification and documentation.
+
+---
+
+### 4. EXCLUSION CRITERIA
+
+**Partial Knee Arthroplasty (CPT 27446) will NOT be authorized if any of the following are present:**
+
+*   **Active Infection:** Active local (e.g., septic arthritis, osteomyelitis, cellulitis near surgical site) or systemic infection.
+*   **Pregnancy:** Active pregnancy (elective procedures are deferred).
+*   **Severe Uncontrolled Comorbidities:** Uncontrolled diabetes (HbA1c > 8.0%), unstable cardiovascular disease (e.g., recent myocardial infarction < 6 months, unstable angina), severe uncontrolled pulmonary disease, severe bleeding disorders that cannot be medically managed, or other severe medical conditions that significantly increase surgical or anesthetic risk (e.g., ASA Physical Status Classification system III or IV without comprehensive medical clearance and risk assessment).
+*   **Lack of Conservative Treatment:** Insufficient documentation of completed or attempted conservative treatment measures as specified in Section 2.2.
+*   **Multicompartmental Disease:** Radiographic or clinical evidence of significant osteoarthritis affecting two or more compartments of the knee.
+*   **Inflammatory Arthropathy:** Primary diagnosis of inflammatory arthropathy (e.g., rheumatoid arthritis, psoriatic arthritis, lupus) affecting the knee, unless there is documented rare, isolated unicompartmental involvement where PKA is deemed appropriate by the treating rheumatologist and orthopedic surgeon. Total knee arthroplasty is generally preferred for inflammatory arthritis.
+*   **Ligamentous Instability:** Gross instability of the knee due to insufficient or deficient anterior cruciate ligament (ACL), posterior cruciate ligament (PCL), or significant collateral ligament laxity that cannot be managed with concomitant reconstruction.
+*   **Fixed Deformity:** Significant fixed varus or valgus deformity (> 15 degrees) or fixed flexion contracture (> 15 degrees).
+*   **Neuropathic Arthropathy (Charcot Joint).**
+*   **Severe Osteoporosis:** Bone quality insufficient to allow for secure prosthesis fixation.
+*   **Malignancy:** Active malignancy near the knee joint.
+*   **Cosmetic Indications:** This procedure is never considered for cosmetic purposes.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following documentation must be submitted with the prior authorization request:
+
+*   **Comprehensive History and Physical Examination:** Detailed H&P notes from the requesting orthopedic surgeon (within 90 days), including a chief complaint, history of present illness, past medical/surgical history, social history, review of systems, and a thorough musculoskeletal examination of the knee (range of motion, stability, tenderness, strength, neurovascular assessment, gait).
+*   **Diagnostic Test Results:**
+    *   Full reports of all required weight-bearing knee X-rays (AP, lateral, Merchant/sunrise views), including interpretation by a radiologist.
+    *   Reports of any other relevant imaging (e.g., MRI) if performed, with radiologist interpretation.
+*   **Conservative Treatment Logs:** Detailed, dated records of all conservative treatments, including:
+    *   Specific interventions (e.g., names and dosages of medications, type and duration of physical therapy, details of injections including medication, site, date).
+    *   Start and end dates of each intervention.
+    *   Documentation of patient adherence and response (or lack thereof) to each treatment.
+    *   Objective outcome measures (e.g., pain scores, functional assessment scores) before and after conservative treatments.
+*   **Specialist Consultations:**
+    *   Notes from primary care physician or other specialists (e.g., cardiology, endocrinology) for medical clearance if significant comorbidities are present.
+    *   Operative reports from any prior knee surgeries.
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **Validity Period:** Approved prior authorizations for Partial Knee Arthroplasty (CPT 27446) are valid for **ninety (90) calendar days** from the date of approval. If the procedure is not performed within this timeframe, a new prior authorization request will be required.
+*   **Peer-to-Peer Review:** If an initial request for prior authorization is denied, the requesting physician may initiate a peer-to-peer discussion with a Medical Director of [Insurer Name] within **ten (10) business days** of the denial notification. This discussion allows the physician to present additional clinical information and rationale for the requested service.
+*   **Appeal Rights:** Members and/or their authorized representatives have the right to appeal coverage decisions in accordance with their specific plan's grievance and appeals procedures. Detailed information regarding appeal rights and instructions will be provided with any written denial notification.
+
+---
+
+*This policy is subject to change. Members are encouraged to verify coverage with their specific plan benefits. This policy does not guarantee benefits.*

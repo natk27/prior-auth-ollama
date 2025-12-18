@@ -1,0 +1,67 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Physical Therapy
+CPT Code: 97110
+
+======================================================================
+
+**PROCEDURE OVERVIEW**
+
+Procedure Name: Physical Therapy (PT)
+CPT Code: 97110
+
+Clinical Description:
+The physical therapy procedure, CPT code 97110, is a medically necessary service provided to alleviate pain, stiffness, and limited mobility associated with musculoskeletal conditions. This service involves the application of manual therapies, exercises, and modalities to restore function, reduce pain, and promote healing.
+
+**COVERAGE CRITERIA (Must meet ALL)**
+
+To be covered under this policy, the following criteria must be met:
+
+1. **Conservative Treatment Requirements**: The patient must have exhausted all conservative treatment options for at least 12 weeks prior to authorization for physical therapy.
+2. **Symptom Duration Requirements**: The patient's symptoms must persist for a minimum of 6 weeks before authorization can be granted for physical therapy.
+3. **Clinical Documentation Required**:
+	* A comprehensive history and physical examination documenting the patient's condition, including date range of symptoms.
+	* Diagnostic test results (e.g., X-rays, MRIs) within the last 12 months that support the need for physical therapy.
+4. **Imaging Requirements**: The following imaging tests are required within the last 6 months:
+	* X-rays: Two or more sets, with the most recent set dated within the last 6 months.
+	* MRI: One or two sets, with the most recent set dated within the last 12 months.
+5. **Severity Criteria**:
+	* Pain scales (NRS 0-10) must be 4 or higher to justify physical therapy.
+	* Functional assessments (e.g., FABQ) must demonstrate at least moderate impairment.
+
+**MEDICAL NECESSITY CRITERIA**
+
+To determine medical necessity, the following criteria will be used:
+
+1. **Patient Selection Criteria**: Physical therapy is medically necessary for patients with musculoskeletal conditions that have not responded to conservative treatment or are expected to have a favorable response.
+2. **Failed Prior Treatments**: The patient must have failed at least one conservative treatment option (e.g., NSAIDs, corticosteroid injections) within the last 12 months before authorization can be granted for physical therapy.
+3. **Contraindications to Conservative Care**:
+	* Active infections that require immediate medical attention.
+	* Pregnancy or postpartum status (unless medically necessary).
+	* Severe comorbidities (e.g., diabetes, kidney disease) that may contraindicate physical therapy.
+
+**EXCLUSION CRITERIA**
+
+The following exclusions will apply:
+
+1. **Active Infections**: Physical therapy is excluded for patients with active infections requiring immediate medical attention.
+2. **Pregnancy**: Physical therapy is excluded for pregnant women unless medically necessary and documented by a healthcare provider.
+3. **Severe Comorbidities**: Physical therapy may be excluded if the patient has severe comorbidities that contraindicate physical therapy (e.g., diabetes, kidney disease).
+4. **Lack of Conservative Treatment**: Physical therapy is excluded for patients who have not exhausted all conservative treatment options within the required timeframe.
+5. **Cosmetic Indications**: Physical therapy is excluded for cosmetic purposes only.
+
+**DOCUMENTATION REQUIREMENTS**
+
+The following documentation must be provided:
+
+1. **History and Physical Examination**: A comprehensive history and physical examination documenting the patient's condition, including date range of symptoms.
+2. **Diagnostic Test Results**: Diagnostic test results (e.g., X-rays, MRIs) within the last 12 months that support the need for physical therapy.
+3. **Treatment Logs**: Treatment logs documenting the patient's progress, including dates and outcomes of physical therapy sessions.
+4. **Specialist Consultations**: Documentation from specialist consultations (e.g., orthopedic surgeon, rheumatologist) supporting the need for physical therapy.
+
+**AUTHORIZATION DETAILS**
+
+This policy is valid for 90 days from the date of authorization. If denied, the member must obtain a second opinion from an independent reviewer to support their appeal.
+
+Note: This is a sample insurance prior authorization policy and should not be used in actual practice without consulting with medical professionals and healthcare experts to ensure it meets specific requirements and regulations.

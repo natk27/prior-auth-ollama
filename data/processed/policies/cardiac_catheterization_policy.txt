@@ -1,0 +1,129 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Cardiac Catheterization
+CPT Code: 93458
+
+======================================================================
+
+## Prior Authorization Policy: Diagnostic Cardiac Catheterization (Coronary Angiography)
+
+**Policy Number:** MED-PA-CARD-0012
+**Effective Date:** January 1, 2024
+**Review Date:** October 1, 2024
+**Product Type:** All Commercial, Medicare Advantage, and Medicaid Plans (unless superseded by state/federal mandates)
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Diagnostic Cardiac Catheterization (Coronary Angiography)
+*   **CPT Code(s):** 93458 (Catheter placement in coronary artery(s) for coronary angiography, including all images, introduction of catheter(s) and/or guide wire(s) for selective access, and all associated injection procedures, radiological supervision and interpretation; with right heart catheterization, if performed).
+*   **Brief Clinical Description:** Diagnostic cardiac catheterization, often referred to as coronary angiography, is an invasive medical procedure used to visualize the coronary arteries and assess heart function. A thin, flexible tube (catheter) is inserted into a blood vessel (typically in the groin or wrist) and guided to the heart. A contrast dye is then injected into the coronary arteries, allowing X-ray images (angiograms) to be taken. This procedure helps to identify blockages (stenoses), assess their severity, evaluate heart chamber pressures, and overall cardiac function, aiding in the diagnosis and management of coronary artery disease (CAD).
+
+---
+
+### 2. COVERAGE CRITERIA
+
+Diagnostic Cardiac Catheterization (CPT 93458) is considered medically necessary and may be approved for prior authorization when **ALL** of the following criteria are met for patients presenting with stable symptoms:
+
+*   **Conservative Treatment Requirements:**
+    *   **Pharmacological Management:** Documented trial of optimal anti-anginal medical therapy for a *minimum of 3 months* at maximally tolerated doses, unless contraindicated or patient is intolerant (e.g., two or more classes of anti-anginal medications such as beta-blockers, calcium channel blockers, long-acting nitrates, Ranolazine, in combination with lipid-lowering therapy and antiplatelet agents).
+    *   **Lifestyle Modification:** Documented adherence to comprehensive risk factor modification including, but not limited to, smoking cessation, dietary changes, and a supervised exercise program (or cardiac rehabilitation) for a *minimum of 3 months*.
+    *   **Cardiac Rehabilitation:** For patients with stable angina, documented participation in a supervised cardiac rehabilitation program for a *minimum of 12 weeks*, unless medically contraindicated (e.g., severe physical limitations, unstable medical conditions precluding exercise).
+
+*   **Symptom Duration Requirements:**
+    *   Documented stable anginal symptoms (e.g., chest pain, pressure, discomfort, dyspnea on exertion) for a *minimum of 3 months* despite adherence to the conservative treatment requirements listed above.
+
+*   **Clinical Documentation Required:**
+    *   Detailed history and physical examination performed by a cardiologist within the last *30 days*, outlining the nature, frequency, duration, and severity of anginal symptoms (PQRST assessment), functional limitations, and response to medical therapy.
+    *   Assessment of cardiovascular risk factors (e.g., diabetes, hypertension, hyperlipidemia, smoking history, family history of premature CAD).
+    *   Documentation of prior cardiac history, including any previous myocardial infarctions (MIs), revascularization procedures (PCI/CABG), or heart failure.
+
+*   **Imaging Requirements:**
+    *   Recent (within *6 months*) objective evidence of moderate-to-severe inducible myocardial ischemia or high-risk features on non-invasive stress testing, documented by one of the following:
+        *   **Stress Myocardial Perfusion Imaging (MPI):** Showing a moderate-sized (e.g., $\ge$10% of left ventricle) or large area of reversible ischemia.
+        *   **Stress Echocardiography:** Documenting moderate-to-severe regional wall motion abnormalities or global left ventricular dysfunction at low-to-moderate workload.
+        *   **Stress Cardiac Magnetic Resonance Imaging (CMR):** Demonstrating moderate-to-severe inducible ischemia.
+        *   **Cardiac CT Angiography (CCTA):** Demonstrating significant coronary stenosis (e.g., $\ge$70% luminal narrowing) in a major epicardial vessel, or $\ge$50% in the left main coronary artery, AND symptoms consistent with ischemia.
+        *   **Exercise Electrocardiogram (ECG):** With high-risk features (e.g., ST-segment depression $\ge$2mm in multiple leads, occurring at low workload, or persistent for $\ge$5 minutes after cessation of exercise).
+
+*   **Severity Criteria:**
+    *   Canadian Cardiovascular Society (CCS) Classification of Angina Pectoris Class II or higher *despite optimal medical therapy*.
+    *   Significant limitation in daily activities due to anginal symptoms or documented objective evidence of ischemia.
+
+*   **Laboratory Tests:**
+    *   Recent (within *30 days*) baseline laboratory values including Complete Blood Count (CBC), Renal Function Panel (BUN, Creatinine, eGFR), Electrolytes, Glucose, and Lipid Panel.
+    *   Coagulation profile (PT/INR, PTT) if the patient is on anticoagulant therapy.
+
+*   **Physician Qualifications:**
+    *   The physician performing the procedure must be Board Certified or Board Eligible in Interventional Cardiology or Cardiovascular Disease and possess appropriate hospital privileges for performing diagnostic cardiac catheterization.
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+In addition to meeting the Coverage Criteria above, Cardiac Catheterization (CPT 93458) is considered medically necessary in the following clinical scenarios:
+
+*   **Patient Selection Criteria:**
+    *   Patients with stable angina (CCS Class II or higher) unresponsive to optimal medical therapy who have objective evidence of moderate to severe ischemia on non-invasive testing and are potential candidates for coronary revascularization (PCI or CABG).
+    *   Patients with suspected Acute Coronary Syndrome (ACS), including unstable angina or NSTEMI, where an expedited diagnosis and potential intervention are required. *Note: Emergent cases of STEMI or hemodynamically unstable ACS typically do not require prior authorization but are subject to retrospective review for medical necessity.*
+    *   Patients with new onset or worsening heart failure where ischemic heart disease is suspected as the primary etiology.
+    *   Patients with known or suspected significant coronary artery disease undergoing pre-operative assessment for high-risk non-cardiac surgery, where the results of the catheterization would alter perioperative management.
+    *   Evaluation for recurrent ventricular arrhythmias or unexplained syncope where ischemic heart disease is suspected to be the underlying cause.
+    *   Patients with equivocal non-invasive test results (e.g., indeterminate stress test) but high clinical suspicion for CAD due to multiple risk factors or atypical symptoms, where the results would significantly impact management.
+
+*   **Failed Prior Treatments:**
+    *   Documented failure of a *minimum of 3 months* of optimal anti-anginal medical therapy and comprehensive lifestyle modifications to adequately control symptoms and/or improve objective signs of myocardial ischemia.
+
+*   **Contraindications to Conservative Care:**
+    *   Documented intolerance or severe adverse effects to at least two classes of anti-anginal medications preventing adequate medical therapy.
+    *   Rapidly progressive symptoms (e.g., escalating angina frequency/severity) despite initiation of standard medical therapy, which may represent an evolving unstable clinical syndrome.
+    *   High-risk features on non-invasive testing (e.g., very large area of ischemia, severe left ventricular dysfunction associated with ischemia, exercise-induced hypotension).
+
+---
+
+### 4. EXCLUSION CRITERIA
+
+Diagnostic Cardiac Catheterization (CPT 93458) is **NOT** covered and will be denied authorization in the presence of any of the following:
+
+*   **Lack of Conservative Treatment:** No documented trial of optimal medical therapy and/or lifestyle modifications as per coverage criteria, unless emergent/urgent indications (e.g., STEMI, unstable NSTEMI) apply.
+*   **Cosmetic/Screening Indications:** Performed solely for screening purposes in asymptomatic individuals without objective evidence of ischemia or high-risk clinical features.
+*   **Severe Comorbidities:** Patients with severe, uncorrectable comorbidities (e.g., end-stage organ failure with short life expectancy, severe irreversible neurological impairment) where the risks of the procedure outweigh any potential clinical benefit, and revascularization is not a viable option.
+*   **Active Infections:** Current active systemic infection, or localized infection at the intended access site, which must be resolved prior to the procedure unless the benefit of emergent diagnosis clearly outweighs the infectious risk.
+*   **Pregnancy:** Relative contraindication due to radiation exposure unless the potential life-saving benefit clearly outweighs the fetal risk, and less invasive diagnostic alternatives are exhausted or deemed insufficient.
+*   **Patient Refusal:** Patient declines other less invasive diagnostic options or refuses to participate in prescribed conservative management strategies without a valid medical reason.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following specific documentation must be submitted with the prior authorization request:
+
+*   **History and Physical Examination:** A comprehensive and current (within 30 days) history and physical examination from the requesting cardiologist, detailing:
+    *   Chief complaint and detailed history of present illness related to cardiac symptoms.
+    *   Cardiovascular risk factors.
+    *   Relevant past medical, surgical, and social history.
+    *   All current medications, dosages, and compliance.
+    *   Physical exam findings relevant to cardiovascular status.
+*   **Diagnostic Test Results:**
+    *   Full reports of all relevant non-invasive cardiac imaging (e.g., stress MPI, stress echo, CCTA, stress CMR) within the last 6 months, including images if requested for review.
+    *   Most recent Electrocardiogram (ECG).
+    *   Laboratory test results as outlined in Section 2 (within 30 days).
+*   **Treatment Logs:**
+    *   Detailed records documenting the specific anti-anginal medications prescribed, dosages, duration of therapy, patient response, and any reported side effects or intolerances.
+    *   Documentation of patient participation in or adherence to lifestyle modifications and/or cardiac rehabilitation programs.
+*   **Specialist Consultations:**
+    *   Consultation notes from a Board Certified cardiologist recommending the procedure, if the request is not directly from the performing cardiologist.
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **Authorization Validity:** Approved prior authorizations for Diagnostic Cardiac Catheterization (CPT 93458) are valid for **90 days** from the date of approval. If the procedure is not performed within this timeframe, a new prior authorization request will be required.
+*   **Peer-to-Peer Review:** In the event of a denial for medical necessity, the requesting physician or their authorized clinical representative has the right to request a peer-to-peer discussion with a medical director or physician reviewer from the health plan, who is of the same or similar specialty, to discuss the clinical rationale.
+*   **Appeal Rights:** Members and/or their authorized representatives have the right to appeal adverse benefit determinations. Information regarding the appeals process will be provided in the denial notification letter.
+
+---
+
+**Disclaimer:** This policy is intended for informational purposes and is subject to change. Coverage is ultimately determined by the terms of the individual member's benefit plan, medical necessity, and applicable state and federal regulations. Specific member benefits may vary.

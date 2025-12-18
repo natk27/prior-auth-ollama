@@ -1,0 +1,84 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: MRI Knee
+CPT Code: 73721
+
+======================================================================
+
+**MRI Knee Prior Authorization Policy**
+
+**Procedure Overview**
+
+The following policy applies to the provision of Magnetic Resonance Imaging (MRI) services for knee-related conditions, specifically CPT code 73721.
+
+**Clinical Description**
+The MRI procedure involves the use of a magnetic field and radio waves to produce detailed images of the knee joint. This diagnostic imaging service is used to evaluate and monitor various knee-related conditions, including osteoarthritis, ligament sprains, and meniscal tears.
+
+**Coverage Criteria (Must Meet All)**
+
+To be covered under this policy, the following criteria must be met:
+
+1. **Conservative Treatment Requirements**: The patient must have attempted conservative treatment for a minimum of 12 weeks, including:
+	* Physical therapy sessions (minimum 2 times per week)
+	* Pain management medication (prescription strength)
+	* Lifestyle modifications (e.g., weight loss, exercise modification)
+2. **Symptom Duration Requirements**:
+	* The patient must have experienced knee pain or symptoms for a minimum of 6 weeks.
+	* The duration of symptoms must be documented in the patient's medical record.
+3. **Clinical Documentation Required**: The following documentation is required to support the need for an MRI:
+	* A detailed history and physical examination performed by the treating physician
+	* Diagnostic test results (e.g., X-rays, EMG)
+	* Treatment logs documenting conservative treatment efforts
+	* Specialist consultations with orthopedic or rheumatology specialists
+4. **Imaging Requirements**:
+	* The MRI must be ordered by a licensed physician.
+	* The imaging service provider must have expertise in musculoskeletal imaging.
+5. **Severity Criteria**: The patient's condition must meet the following severity criteria:
+	* Pain scales: 6 or higher on a 10-point scale
+	* Functional assessments: limited mobility (American College of Rheumatology [ACR] score ≥ 3)
+
+**Medical Necessity Criteria**
+
+To determine medical necessity for an MRI, the following criteria must be met:
+
+1. **Patient Selection Criteria**: The patient must have:
+	* A primary diagnosis of osteoarthritis, ligament sprain, or meniscal tear
+	* Failed conservative treatment within the past 12 weeks
+2. **Failed Prior Treatments**: The patient must have:
+	* Received conservative treatment for a minimum of 12 weeks without improvement
+	* Experienced significant pain or functional impairment (e.g., ACR score ≥ 4)
+3. **Contraindications to Conservative Care**: The patient must have:
+	* Severe comorbidities that preclude conservative treatment (e.g., diabetes, hypertension)
+
+**Exclusion Criteria**
+
+The following conditions will not be covered under this policy:
+
+1. **Active Infections**: The patient must not have an active infection in the knee joint.
+2. **Pregnancy (if Applicable)**: Pregnant patients will require prior authorization for MRI services.
+3. **Severe Comorbidities**: Patients with severe comorbidities (e.g., diabetes, hypertension) may be excluded from coverage if conservative treatment is deemed ineffective or contraindicated.
+4. **Lack of Conservative Treatment**: The patient must have attempted conservative treatment for a minimum of 12 weeks before being eligible for an MRI.
+5. **Cosmetic Indications**: The patient's condition must meet the medical necessity criteria above; cosmetic indications will not be covered.
+
+**Documentation Requirements**
+
+The following documentation is required to support the need for an MRI:
+
+1. **History and Physical Examination**: A detailed history and physical examination performed by the treating physician.
+2. **Diagnostic Test Results**: Diagnostic test results (e.g., X-rays, EMG).
+3. **Treatment Logs**: Treatment logs documenting conservative treatment efforts.
+4. **Specialist Consultations**: Specialist consultations with orthopedic or rheumatology specialists.
+
+**Authorization Details**
+
+1. **Valid For**: This policy is valid for 90 days from the date of authorization.
+2. **Requires Peer-to-Peer Review**: If denied, a peer-to-peer review will be required to ensure that the decision not to authorize coverage was made in accordance with this policy.
+
+By signing below, the treating physician acknowledges that they have reviewed and understood this prior authorization policy and will provide the necessary documentation to support the need for an MRI.
+
+**Treating Physician Signature**: _____________________________
+**Date**: _______________________________________
+
+**Insurance Company Representative Signature**: _____________________________
+**Date**: _______________________________________

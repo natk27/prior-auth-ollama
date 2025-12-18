@@ -1,0 +1,71 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Epidural Steroid Injection
+CPT Code: 62311
+
+======================================================================
+
+**Epidural Steroid Injection (CPT Code: 62311) Policy**
+
+**PROCEDURE OVERVIEW**
+
+The Epidural Steroid Injection (ESI) procedure is a minimally invasive injection of corticosteroids into the epidural space to relieve inflammation and pain associated with nerve root compression. This policy outlines the coverage criteria, medical necessity criteria, exclusion criteria, and documentation requirements for this procedure.
+
+**COVERAGE CRITERIA**
+
+To be eligible for coverage under this policy, the patient must meet the following criteria:
+
+1. **Conservative Treatment Requirements**: The patient must have undergone at least 12 weeks of conservative treatment, including physical therapy, medication management, and lifestyle modifications.
+2. **Symptom Duration Requirements**: The patient's symptoms must have persisted or worsened for a minimum of 6 weeks despite conservative treatment.
+3. **Clinical Documentation Required**:
+	* A history and physical examination dated within the past 30 days.
+	* Diagnostic test results (e.g., MRI, CT scan) that demonstrate nerve root compression and inflammation, dated within the past 60 days.
+	* Treatment logs documenting conservative treatment received, including dates and duration of therapy.
+4. **Imaging Requirements**:
+	* A recent MRI or CT scan showing evidence of nerve root compression and inflammation, performed within the past 60 days.
+	* The imaging study must be clearly readable and demonstrate the presence of foraminal stenosis or other anatomical abnormalities contributing to pain.
+5. **Severity Criteria**:
+	* The patient's pain score must be ≥ 4/10 on a numerical rating scale (NRS) at baseline, with an increase of ≥ 2 points post-conservative treatment.
+	* The patient's functional assessment must show significant improvement in the past 6 weeks, as measured by the Oswestry Disability Index (ODI) or similar validated tool.
+
+**MEDICAL NECESSITY CRITERIA**
+
+To determine medical necessity for this procedure, the following criteria must be met:
+
+1. **Patient Selection Criteria**: The patient must have failed conservative treatment and demonstrate ongoing symptoms that significantly impact daily life.
+2. **Failed Prior Treatments**: The patient must have received at least two courses of conservative treatment (physical therapy, medication management, and lifestyle modifications) for a minimum of 6 weeks each, with no improvement in symptoms.
+3. **Contraindications to Conservative Care**:
+	* The patient's condition is unlikely to improve with conservative treatment due to severe comorbidities or co-existing conditions (e.g., diabetes, hypertension).
+	* The patient has failed multiple courses of physical therapy or other conservative treatments.
+
+**EXCLUSION CRITERIA**
+
+The following conditions exclude coverage for this procedure:
+
+1. **Active Infections**: The patient must be free from active infections, including urinary tract infections, skin infections, or systemic infections.
+2. **Pregnancy**: If applicable, the patient must be in a non-pregnant state, as ESI is contraindicated during pregnancy due to potential fetal harm.
+3. **Severe Comorbidities**: The patient must not have severe comorbidities that would increase the risk of complications from the procedure (e.g., bleeding disorders, liver disease).
+4. **Lack of Conservative Treatment**: If the patient has not received adequate conservative treatment, coverage for this procedure may be denied.
+5. **Cosmetic Indications**: ESI is only approved for pain management; cosmetic indications, such as buttock contouring or fat grafting, are excluded.
+
+**DOCUMENTATION REQUIREMENTS**
+
+To support coverage for this procedure, the following documentation is required:
+
+1. **History and Physical Examination**:
+	* The patient's medical history, including current medications, allergies, and past surgical procedures.
+	* A thorough physical examination, including a neurological assessment and pain evaluation.
+2. **Diagnostic Test Results**:
+	* Imaging studies (MRI or CT scan) that demonstrate nerve root compression and inflammation.
+	* Laboratory results that support the presence of inflammatory markers (e.g., CRP, ESR).
+3. **Treatment Logs**:
+	* Documentation of conservative treatment received, including dates and duration of therapy.
+4. **Specialist Consultations**:
+	* A consultation with a pain management specialist or primary care physician, documenting the patient's symptoms, diagnosis, and proposed treatment plan.
+
+**AUTHORIZATION DETAILS**
+
+This policy is valid for 90 days from the date of authorization. If coverage is denied, a peer-to-peer review will be conducted to verify the decision.
+
+Note: This policy is a sample and should not be used without consulting with a medical professional or insurance expert to ensure it meets specific regulatory requirements and company policies.

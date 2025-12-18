@@ -1,0 +1,81 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Colonoscopy
+CPT Code: 45378
+
+======================================================================
+
+** colonoscopy prior authorization policy **
+
+** Procedure Overview**
+
+The following procedure is being requested:
+
+*   **Procedure Name:** Colonoscopy
+*   **CPT Code:** 45378
+
+Colonoscopy is a medical diagnostic procedure where a flexible tube with a camera and light on the end (colonoscope) is inserted through the rectum to visually examine the colon, rectum, and anus for polyps, cancer, or other abnormalities.
+
+** Coverage Criteria (Must meet ALL)**
+
+1.  **Conservative Treatment Requirements:**
+    *   Patients must have completed at least 12 weeks of physical therapy prior to authorization for colonoscopy.
+2.  **Symptom Duration Requirements:**
+    *   Patients must have experienced symptoms for a minimum of 6 weeks prior to authorization.
+3.  **Clinical Documentation Required:**
+    *   A comprehensive medical history and current health status, including any recent changes or worsening of symptoms.
+    *   Results from diagnostic tests such as blood work, imaging studies (e.g., CT scans), and urinalysis, if applicable.
+4.  **Imaging Requirements:**
+    *   Recent (within the past 6 months) imaging studies to rule out other conditions that may cause similar symptoms (e.g., inflammatory bowel disease).
+5.  **Severity Criteria:**
+    *   Patients must demonstrate moderate to severe symptoms, as indicated by a symptom score of 5 or higher on the Modified Bowel Symptom Questionnaire (MBSQ).
+
+** Medical Necessity Criteria**
+
+1.  **Patient Selection Criteria:**
+    *   Colonoscopy is medically necessary for patients with:
+        *   Abdominal pain
+        *   Weight loss
+        *   Blood in stool or black tarry stools
+        *   Changes in bowel habits (e.g., diarrhea, constipation)
+        *   Recent gastrointestinal bleeding
+    *   Patients who have failed conservative treatment (12 weeks of physical therapy and/or symptom management) for symptoms that may be related to an underlying colon condition.
+2.  **Failed Prior Treatments:**
+    *   Patients must have completed at least one course of conservative treatment (physical therapy, medication, dietary changes) without improvement in their symptoms.
+3.  **Contraindications to Conservative Care:**
+    *   Colonoscopy is contraindicated for patients with:
+        *   Active infections
+        *   Severe comorbidities that may complicate the procedure or recovery (e.g., heart disease, kidney disease)
+        *   Recent surgery or medical procedures in the abdominal region
+
+** Exclusion Criteria**
+
+1.  **Active Infections:**
+    *   Patients with active infections, such as inflammatory bowel disease (IBD) or infectious colitis.
+2.  **Pregnancy:**
+    *   Colonoscopy is not recommended during pregnancy due to the risk of complications and radiation exposure.
+3.  **Severe Comorbidities:**
+    *   Patients with severe comorbidities that may complicate the procedure or recovery, such as heart disease, kidney disease, or liver disease.
+4.  **Lack of Conservative Treatment:**
+    *   Patients who have not completed a minimum of 12 weeks of conservative treatment (physical therapy and symptom management).
+5.  **Cosmetic Indications:**
+    *   Colonoscopy is not covered for cosmetic purposes, such as removing polyps for aesthetic reasons.
+
+** Documentation Requirements**
+
+1.  **History and Physical Examination:**
+    *   A comprehensive medical history and current health status.
+2.  **Diagnostic Test Results:**
+    *   Results from diagnostic tests such as blood work, imaging studies (e.g., CT scans), and urinalysis, if applicable.
+3.  **Treatment Logs:**
+    *   Records of conservative treatment (physical therapy, medication, dietary changes) and response to treatment.
+4.  **Specialist Consultations:**
+    *   Results from specialist consultations, such as gastroenterology or radiology.
+
+** Authorization Details**
+
+1.  **Valid for:** 90 days
+2.  **Requires Peer-to-Peer Review:** If denied, a peer-to-peer review will be required to justify the decision.
+
+Note that this policy is for demonstration purposes only and should not be used in actual insurance claims processes without proper medical professional guidance and approval from relevant authorities.

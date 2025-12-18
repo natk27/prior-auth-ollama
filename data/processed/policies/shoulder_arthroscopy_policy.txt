@@ -1,0 +1,120 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Shoulder Arthroscopy
+CPT Code: 29806
+
+======================================================================
+
+## Prior Authorization Policy: Shoulder Arthroscopy (CPT 29806)
+
+**Policy Number:** [Insert Policy Number Here]
+**Effective Date:** January 1, 2024
+**Review Date:** [Insert Annual Review Date]
+**Product Type:** All Commercial, Medicare Advantage, and ACA Plans (unless otherwise specified by specific plan benefits)
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Shoulder Arthroscopy, Diagnostic and/or Surgical (e.g., debridement, synovectomy, removal of loose body)
+*   **CPT Code(s):** 29806 (Arthroscopy, shoulder, diagnostic, with or without synovial biopsy, with or without chondroplasty; or surgical arthroscopy, shoulder, debridement, extensive). *Note: This policy applies to initial authorization for the arthroscopic approach. If additional CPT codes for specific repairs (e.g., rotator cuff repair 29827/29828, labral repair 29807) are planned, separate or additional criteria may apply.*
+*   **Brief Clinical Description:** Shoulder arthroscopy is a minimally invasive surgical procedure used to diagnose and treat a variety of shoulder problems. A small camera (arthroscope) is inserted into the shoulder joint through a small incision, allowing the surgeon to visualize the joint structures on a monitor. Additional small incisions are made to insert surgical instruments to perform procedures such as removing loose bodies, debriding frayed cartilage or synovium, treating inflammatory conditions, or addressing impingement.
+
+---
+
+### 2. COVERAGE CRITERIA (Must meet ALL of the following criteria for approval)
+
+To be considered medically necessary and eligible for coverage, all of the following conditions must be met:
+
+*   **A. Conservative Treatment Requirements:**
+    *   **Duration:** A minimum of **12 consecutive weeks** of documented, supervised, and physician-directed conservative management immediately prior to the request for authorization.
+    *   **Types of Treatment (must include a minimum of three distinct modalities, including physical therapy):**
+        1.  **Structured Physical Therapy (PT):** A documented, individualized, and supervised physical therapy program, occurring at least 2-3 times per week for the duration, focusing on:
+            *   Restoration of range of motion (ROM).
+            *   Shoulder and scapular strengthening (e.g., rotator cuff, deltoid, periscapular muscles).
+            *   Proprioceptive training.
+            *   Pain modulation techniques.
+            *   *Documentation must include initial and progress notes demonstrating patient adherence and lack of significant improvement.*
+        2.  **Pharmacological Management:** Consistent use of prescribed or over-the-counter anti-inflammatory medications (e.g., NSAIDs) for a minimum of 4 weeks, unless medically contraindicated.
+        3.  **Activity Modification:** Documented patient education and adherence to limiting aggravating activities (e.g., overhead reaching, heavy lifting) for a minimum of 6 weeks.
+        4.  **Rest:** Prescribed periods of rest and avoidance of sport-specific or occupational activities exacerbating symptoms.
+        5.  **Injections (if appropriate):** At least one, but no more than two, image-guided (ultrasound or fluoroscopy) corticosteroid injections into the affected shoulder joint or subacromial space, administered no less than 6 weeks apart, with transient or no sustained improvement in symptoms.
+*   **B. Symptom Duration Requirements:**
+    *   A minimum of **6 consecutive months** of persistent, functionally limiting shoulder pain and/or dysfunction despite documented adherence to conservative management as outlined in 2.A.
+*   **C. Clinical Documentation Required:**
+    *   Detailed history and physical examination from the requesting orthopedic surgeon, performed within the last 90 days, specifically addressing:
+        *   Onset, duration, and character of pain.
+        *   Specific aggravating and alleviating factors.
+        *   Impact on activities of daily living (ADLs) and functional limitations.
+        *   Comprehensive physical examination including range of motion (active and passive), strength testing, palpation, and relevant special provocative tests (e.g., Neer, Hawkins, Jobe, O'Brien, apprehension/relocation tests) with findings.
+        *   Documentation of previous treatments and response/non-response.
+*   **D. Imaging Requirements:**
+    *   **X-rays:** Recent (within 12 months) anterior-posterior (AP), lateral, and axillary views of the affected shoulder, demonstrating no significant acute fracture, advanced glenohumeral osteoarthritis (Kellgren-Lawrence grade III or IV), or other conditions that would preclude arthroscopic intervention or require a different surgical approach.
+    *   **Magnetic Resonance Imaging (MRI) or Magnetic Resonance Arthrography (MRA):** Recent (within 6 months) MRI or MRA of the affected shoulder, performed with appropriate protocols, demonstrating structural pathology directly correlating with the patient's symptoms and physical exam findings, such as:
+        *   Articular cartilage lesions (Grade III or IV chondromalacia).
+        *   Significant synovitis.
+        *   Loose intra-articular bodies.
+        *   Labral tears (e.g., SLAP lesion, Bankart lesion).
+        *   Rotator cuff tendinopathy with partial-thickness tear (greater than 50% thickness) or full-thickness tear (if diagnostic arthroscopy is for assessment prior to potential repair).
+        *   Signs of subacromial impingement (e.g., bursitis, spurring).
+        *   *Imaging reports must be submitted, and images may be requested for review.*
+*   **E. Severity Criteria:**
+    *   **Pain:** Persistent shoulder pain documented by a Visual Analog Scale (VAS) score consistently $\ge$ 6/10, or a Numeric Rating Scale (NRS) score consistently $\ge$ 6/10, despite conservative management.
+    *   **Functional Impairment:** Documented and objectively measured impairment in at least **3 distinct activities of daily living (ADLs)** or occupational activities that significantly impact quality of life (e.g., inability to sleep comfortably, difficulty with overhead reaching, dressing, showering, carrying objects, driving) and which are directly attributable to the shoulder pathology. Use of validated outcome scores (e.g., DASH, ASES, SPADI) demonstrating moderate to severe impairment (e.g., DASH score > 30, ASES score < 70).
+*   **F. Laboratory Tests:**
+    *   Not typically required for authorization of elective shoulder arthroscopy unless an infectious or systemic inflammatory process is suspected based on clinical presentation. If indicated, results of relevant labs (e.g., CBC, ESR, CRP) must be provided.
+*   **G. Physician Qualifications:**
+    *   The procedure must be performed by an orthopedic surgeon who is Board-Certified or Board-Eligible in Orthopedic Surgery and holds appropriate hospital privileges for shoulder arthroscopy.
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+The proposed shoulder arthroscopy must be considered medically necessary when ALL of the Coverage Criteria (Section 2) are met, and specifically:
+
+*   **A. Patient Selection Criteria:** The patient is an appropriate surgical candidate with acceptable anesthetic risk, is cooperative and motivated to participate in post-operative rehabilitation, and has realistic expectations regarding surgical outcomes.
+*   **B. Failed Prior Treatments:** There is clear and comprehensive documentation that all appropriate non-surgical interventions have been attempted and failed to provide significant, sustained relief of symptoms or improvement in functional status.
+*   **C. Contraindications to Conservative Care:** While rare for elective arthroscopy, documentation that conservative care is contraindicated due to specific patient factors (e.g., severe adverse reaction to NSAIDs, acute progressive neurological deficit if present) would support immediate surgical consideration, provided all other criteria are met.
+
+---
+
+### 4. EXCLUSION CRITERIA (The following conditions will result in a denial of coverage)
+
+Shoulder Arthroscopy (CPT 29806) is considered NOT medically necessary and will be denied for coverage if any of the following are present:
+
+*   **A. Active Infection:** Presence of active local (e.g., septic arthritis, osteomyelitis) or systemic infection.
+*   **B. Pregnancy:** Elective surgery for pregnant individuals, unless deemed an emergency for the health of the mother or fetus.
+*   **C. Severe Uncontrolled Comorbidities:** Uncontrolled and severe medical comorbidities (e.g., uncontrolled diabetes, severe cardiovascular disease, severe respiratory disease, uncontrolled coagulopathy) that pose excessive surgical or anesthetic risk and have not been medically optimized.
+*   **D. Lack of Documented Conservative Treatment:** Incomplete or absent documentation of adherence to or failure of the required conservative treatment outlined in Section 2.A.
+*   **E. Cosmetic Indications:** Request for procedure solely for cosmetic enhancement or for non-functional complaints.
+*   **F. Inadequate Correlation:** Imaging findings (MRI/MRA) that do not correlate with the patient's reported symptoms and physical examination findings.
+*   **G. Advanced Osteoarthritis:** Primary indication for surgery is advanced glenohumeral osteoarthritis (Kellgren-Lawrence Grade III or IV) which would typically require arthroplasty.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following documentation must be submitted with the prior authorization request:
+
+*   **A. History and Physical Examination:** Comprehensive H&P notes from the requesting orthopedic surgeon, dated within 90 days of the request, addressing all clinical details as outlined in Section 2.C.
+*   **B. Diagnostic Test Results:**
+    *   Full reports of recent X-rays (within 12 months) and MRI/MRA (within 6 months) of the affected shoulder.
+    *   Access to actual imaging studies (DICOM images) may be requested for independent review.
+*   **C. Treatment Logs:**
+    *   Detailed physical therapy notes (initial evaluation, progress notes, discharge summary if applicable) including dates of attendance, specific interventions, patient adherence, and objective measurements of progress (or lack thereof).
+    *   Documentation of pharmacological management (medication names, dosages, duration of use, and response).
+    *   Reports of any corticosteroid injections (including date, substance, dosage, image guidance used, and patient response).
+*   **D. Specialist Consultations:**
+    *   Reports from other specialists (e.g., pain management, rheumatology) if they were involved in the conservative management of the shoulder condition.
+*   **E. Functional Outcome Scores:** Documentation of validated functional outcome scores (e.g., DASH, ASES, SPADI) at baseline and follow-up, demonstrating the level of impairment.
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **Authorization Validity:** Approved prior authorizations for Shoulder Arthroscopy (CPT 29806) are valid for **90 calendar days** from the date of approval. If the procedure is not performed within this timeframe, a new prior authorization request will be required.
+*   **Peer-to-Peer Review:** In the event of a denial, the requesting physician or an authorized clinical representative may request a peer-to-peer review with a Medical Director of [Insurance Company Name] or an equivalently qualified peer reviewer within [e.g., 10 business days] of the denial notification.
+*   **Appeal Rights:** Members and/or their authorized representatives have the right to appeal adverse benefit determinations. Detailed instructions on how to initiate an appeal are provided in the denial notification and in the member's plan documents.
+
+---

@@ -1,0 +1,128 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Cervical Discectomy
+CPT Code: 63075
+
+======================================================================
+
+## PRIOR AUTHORIZATION POLICY FOR CERVICAL DISCECTOMY (POSTERIOR APPROACH)
+
+**Policy Number:** ORTHO-SPINE-CD001
+**Effective Date:** October 26, 2023
+**Last Reviewed:** October 26, 2023
+
+This policy outlines the medical necessity criteria for Cervical Discectomy (Posterior Approach) to ensure appropriate utilization of services. All requests for this procedure require prior authorization.
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Cervical Discectomy (Posterior Approach), Single Segment
+*   **CPT Code(s):** 63075
+*   **Brief Clinical Description:**
+    Cervical Discectomy (Posterior Approach) is a surgical procedure performed to decompress a cervical nerve root and/or spinal cord by removing herniated disc material, osteophytes (bone spurs), or other compressive elements through an incision in the back of the neck. The primary goal is to alleviate symptoms such as radiating arm pain, numbness, or weakness (radiculopathy) resulting from nerve root impingement, or, less commonly for this approach, mild symptoms related to spinal cord compression (myelopathy). This procedure may involve a posterior cervical foraminotomy or laminectomy to gain access for disc material removal.
+
+---
+
+### 2. COVERAGE CRITERIA (All criteria listed below MUST be met for approval)
+
+A Cervical Discectomy (Posterior Approach) for CPT 63075 is considered medically necessary when *all* of the following criteria are met:
+
+1.  **Symptom Duration Requirements:**
+    *   Persistent, functionally impairing cervical radiculopathy (pain, numbness, tingling, or weakness radiating into the arm or hand) for a minimum of **8 consecutive weeks**, OR
+    *   Progressive neurological deficit (e.g., motor weakness worsening from 4/5 to 3/5 or less) despite conservative treatment, OR
+    *   Symptoms of cervical myelopathy (e.g., gait disturbance, fine motor skill impairment, spasticity, hyperreflexia) that correlate with imaging findings, provided the primary compression is amenable to posterior decompression.
+
+2.  **Conservative Treatment Requirements:**
+    *   Failure of a *minimum of 6 weeks* (for non-progressive symptoms) or *4 weeks* (for moderate, non-progressive neurological deficits) of documented, structured, and supervised conservative management, which MUST include a trial of at least **two distinct modalities** from the following:
+        *   **Physical Therapy:** Minimum of 4 weeks, with at least 8-10 sessions, focusing on cervical traction, posture correction, strengthening, and range of motion exercises.
+        *   **Pharmacotherapy:** Documented trial of appropriate non-steroidal anti-inflammatory drugs (NSAIDs) for at least 4 weeks (unless medically contraindicated), and/or muscle relaxants, and/or neuropathic pain agents.
+        *   **Spinal Injections:** At least one cervical epidural steroid injection (ESI) or selective nerve root block (SNRB) that provided only temporary or no significant relief.
+        *   **Chiropractic Manipulation/Osteopathic Manipulative Treatment:** Minimum of 4 weeks, with at least 8-10 sessions.
+        *   **Activity Modification:** Documented attempt to modify activities to reduce cervical spine stress.
+    *   **Exceptions to Conservative Treatment Duration:** Acute, severe, or rapidly progressive neurological deficits (e.g., significant motor weakness <3/5, bowel/bladder dysfunction, or worsening myelopathy) may bypass the full conservative treatment duration requirement.
+
+3.  **Clinical Documentation Required:**
+    *   Comprehensive physician office notes, including a detailed history and physical examination performed by a board-certified or board-eligible orthopedic surgeon or neurosurgeon specializing in spinal disorders.
+    *   Detailed neurological examination documenting specific dermatomal sensory deficits, myotomal motor weakness (graded 0-5), and reflex changes, correlating with imaging findings.
+    *   Documentation of functional impairment (e.g., inability to perform activities of daily living, work limitations, sleep disturbance) directly attributable to the cervical condition.
+
+4.  **Imaging Requirements:**
+    *   **MRI of the Cervical Spine:** Performed within the last **6 months** prior to the authorization request (or within the last 12 months if stable symptoms and no new injury), demonstrating objective evidence of nerve root and/or spinal cord compression (e.g., lateral disc herniation, posterior osteophyte, foraminal stenosis) at the proposed surgical level that directly correlates with the patient's symptoms and neurological findings.
+    *   **CT Myelogram:** If MRI is contraindicated (e.g., pacemaker, metal implants) or inconclusive, a CT Myelogram performed within the last **6 months** demonstrating equivalent findings.
+    *   **Plain Radiographs (X-rays):** Recent (within 12 months) cervical spine X-rays (AP, lateral, flexion/extension views) to evaluate alignment, instability, and degenerative changes.
+
+5.  **Severity Criteria:**
+    *   **Pain Scales:** Documented average pain score of Visual Analog Scale (VAS) ≥ 6/10, or Numeric Rating Scale (NRS) ≥ 6/10 at the time of consultation, OR
+    *   **Functional Assessment:** Neck Disability Index (NDI) score ≥ 40% indicating moderate to severe disability, OR
+    *   **Neurological Deficit:** Objective evidence of motor weakness (grade < 4/5) in a specific myotome correlating with imaging, or progressive neurological deficit.
+
+6.  **Laboratory Tests:**
+    *   No specific laboratory tests are required for medical necessity *unless* to rule out other etiologies (e.g., inflammatory arthritis, infection, metabolic disorders) or as part of a routine pre-surgical medical clearance assessment.
+
+7.  **Physician Qualifications:**
+    *   The procedure must be performed by a board-certified or board-eligible orthopedic surgeon or neurosurgeon with documented experience in spinal surgery.
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+The proposed Cervical Discectomy (Posterior Approach) must be demonstrably medically necessary, meaning it is appropriate and consistent with generally accepted standards of medical practice.
+
+*   **Patient Selection Criteria:**
+    *   Patients with intractable or functionally limiting cervical radiculopathy primarily due to posterolateral disc herniation or foraminal stenosis correlating with clinical presentation and imaging.
+    *   Patients with progressive neurological deficits (motor weakness, sensory loss, reflex changes).
+    *   Patients with cervical myelopathy where posterior decompression is deemed the most appropriate and effective surgical approach based on the location and nature of the compression.
+*   **Failed Prior Treatments:**
+    *   All required conservative treatments (as detailed in Section 2, Criterion 2) have been adequately attempted and failed to provide sustained relief of symptoms or halt neurological progression.
+*   **Contraindications to Conservative Care:**
+    *   Acute, severe, or rapidly progressive neurological deficits (e.g., rapidly worsening motor weakness <3/5, severe myelopathy).
+    *   Intractable pain despite maximal conservative management, significantly impacting quality of life and functional status.
+
+---
+
+### 4. EXCLUSION CRITERIA (The procedure will NOT be covered if any of the following are present)
+
+*   Lack of documented conservative treatment meeting the duration and modality requirements (unless an exception applies, see Section 2, Criterion 2).
+*   Active systemic or localized infection at the surgical site.
+*   Current pregnancy (relative contraindication requiring careful risk-benefit analysis by treating physician).
+*   Uncontrolled severe comorbidities that pose an unacceptably high surgical risk (e.g., uncontrolled diabetes, severe bleeding disorder, severe cardiovascular instability) that have not been medically optimized.
+*   Symptoms that are vague, non-specific, or do not clearly correlate with objective imaging findings or neurological examination.
+*   Primary indication is solely for chronic axial neck pain without radicular symptoms or objective neurological deficit.
+*   Pre-existing psychological conditions (e.g., severe depression, somatoform disorder, substance abuse) that are not adequately managed and may significantly impact surgical outcome, unless a psychiatric evaluation confirms that surgery is still appropriate and beneficial.
+*   Insufficient diagnostic information to clearly identify the etiology of symptoms.
+*   Cosmetic or elective indications.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following documentation MUST be submitted for prior authorization review:
+
+*   **History and Physical Examination:** Detailed narrative notes from the requesting spine surgeon (orthopedic or neurosurgeon) including:
+    *   Chief complaint and history of present illness, including duration and intensity of symptoms.
+    *   Comprehensive pain assessment (location, character, aggravating/alleviating factors, pain scales).
+    *   Detailed neurological examination findings (motor strength, sensation, reflexes, gait, balance).
+    *   Functional assessment and impact on daily activities, work, and sleep.
+    *   Past medical and surgical history, allergies, and current medications.
+*   **Diagnostic Test Results:**
+    *   Full radiology reports for all relevant imaging (MRI cervical spine, CT Myelogram, cervical X-rays) clearly identifying the level(s) of compression and correlating with symptoms.
+    *   Full reports for any Electromyography (EMG) and Nerve Conduction Studies (NCS) if performed, demonstrating radiculopathy at the corresponding level.
+*   **Treatment Logs and Records:**
+    *   Documentation of all conservative treatments attempted, including:
+        *   Dates, duration, frequency, and specific types of therapies (e.g., physical therapy notes with progress, chiropractic records).
+        *   Medications prescribed, dosages, duration of use, and documented efficacy/side effects.
+        *   Records of spinal injections, including agent used, location, date, and patient's response/duration of relief.
+*   **Specialist Consultations:**
+    *   Any relevant consultation notes from other specialists (e.g., pain management, neurologists, physical therapists).
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **Validity Period:** Approved authorizations for Cervical Discectomy (Posterior Approach) are valid for **90 calendar days** from the date of approval. If the procedure is not performed within this timeframe, a new prior authorization request will be required, and all criteria must be re-evaluated.
+*   **Peer-to-Peer Review:** In the event of an initial denial, the requesting physician may request a peer-to-peer discussion with a medical director within **15 calendar days** of the denial notification to discuss the clinical rationale for the request.
+*   **Appeal Rights:** If prior authorization is denied following a peer-to-peer review, the member and/or the requesting provider on behalf of the member (with appropriate consent) has the right to appeal the decision through the standard internal and external review processes as outlined in the member's plan benefits and state regulations. This typically includes a Level 1 and Level 2 internal appeal, followed by an independent external review.
+
+---

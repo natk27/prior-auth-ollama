@@ -1,0 +1,62 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Trigger Point Injections
+CPT Code: 20552
+
+======================================================================
+
+**Trigger Point Injections Insurance Policy**
+
+**Procedure Overview**
+
+* Procedure Name: Trigger Point Injections (CPT Code: 20552)
+* Clinical Description: Trigger point injections are a medical treatment used to relieve pain and inflammation by injecting a local anesthetic or corticosteroid into specific areas of the body. This procedure is typically performed by a licensed physician, such as an orthopedist or rheumatologist.
+
+**Coverage Criteria (Must meet ALL)**
+
+To be eligible for coverage under this policy, the patient must meet the following criteria:
+
+1. **Conservative Treatment Requirements**: The patient must have undergone at least 12 weeks of physical therapy to address conservative treatment options.
+2. **Symptom Duration Requirements**: The patient must have experienced symptoms for a minimum of 6 weeks prior to initiating trigger point injections.
+3. **Clinical Documentation Required**:
+	* A comprehensive medical history and physical examination report, including relevant imaging studies (MRI or X-ray).
+	* Clinical documentation of failed conservative treatment options, including dates and duration.
+4. **Imaging Requirements**: Recent imaging studies (MRI or X-ray) within the past 12 months to confirm the diagnosis and rule out other causes of symptoms.
+5. **Severity Criteria**:
+	* Patient must have a minimum pain score of 3-5 on a 0-10 scale using the Numeric Rating Scale (NRS).
+	* Patient must demonstrate functional impairment, as measured by the SF-36 or similar validated tool.
+
+**Medical Necessity Criteria**
+
+To determine medical necessity for trigger point injections, the following criteria will be used:
+
+1. **Patient Selection Criteria**: Trigger point injections are considered medically necessary for patients who have not responded to conservative treatment options and have a confirmed diagnosis of musculoskeletal pain or inflammation.
+2. **Failed Prior Treatments**: The patient must have failed at least 12 weeks of physical therapy, including exercises, manual therapy, and modalities.
+3. **Contraindications to Conservative Care**: Trigger point injections are not recommended for patients with active infections, pregnancy, severe comorbidities (e.g., diabetes, hypertension), or those who have not attempted conservative treatment options.
+
+**Exclusion Criteria**
+
+The following exclusions apply:
+
+1. **Active Infections**: Trigger point injections are not covered for patients with active infections, such as osteomyelitis or septic arthritis.
+2. **Pregnancy (if applicable)**: Trigger point injections are not covered during pregnancy due to the risk of complications.
+3. **Severe Comorbidities**: Trigger point injections are not recommended for patients with severe comorbidities that may increase the risk of adverse effects.
+4. **Lack of Conservative Treatment**: Trigger point injections are not covered if the patient has not attempted conservative treatment options, including physical therapy and medication management.
+5. **Cosmetic Indications**: Trigger point injections are only covered for treatment of pain or inflammation related to musculoskeletal conditions, and not for cosmetic purposes.
+
+**Documentation Requirements**
+
+The following documentation is required:
+
+1. **History and Physical Examination**: A comprehensive medical history and physical examination report, including relevant imaging studies.
+2. **Diagnostic Test Results**: Recent diagnostic test results (MRI or X-ray) within the past 12 months to confirm the diagnosis.
+3. **Treatment Logs**: Documentation of failed conservative treatment options, including dates and duration.
+4. **Specialist Consultations**: A summary of specialist consultations, including dates and details.
+
+**Authorization Details**
+
+1. **Valid for**: Trigger point injections are covered under this policy for a period of 90 days from the date of authorization.
+2. **Requires Peer-to-Peer Review**: If denied coverage, an additional peer-to-peer review will be required to ensure medical necessity.
+
+Please note that this is a sample insurance policy and should not be used as is without modification or review by a licensed healthcare professional.

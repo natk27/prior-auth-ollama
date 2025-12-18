@@ -1,0 +1,94 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Breast Biopsy
+CPT Code: 19083
+
+======================================================================
+
+**Procedure Overview**
+
+ Procedure Name: Breast Biopsy
+ CPT Code: 19083
+
+A breast biopsy is a medical procedure used to diagnose breast cancer or other conditions. The procedure involves removing a small sample of tissue from the breast for examination under a microscope. This policy outlines the coverage criteria, medical necessity criteria, exclusion criteria, documentation requirements, and authorization details for breast biopsies.
+
+**Coverage Criteria (Must meet ALL)**
+
+1. Conservative treatment requirements:
+   - Patients must have undergone at least 12 weeks of physical therapy to alleviate symptoms such as pain or discomfort in the affected breast.
+   - Physical therapy must be documented in patient records, including date of start and end, number of sessions attended, and symptoms managed.
+
+2. Symptom duration requirements:
+   - Patients must have experienced symptoms for a minimum of 6 weeks prior to the date of the breast biopsy.
+
+3. Clinical documentation required:
+   - A comprehensive medical history, including any previous diagnoses or treatments related to breast conditions.
+   - Current medication list, including any medications that may interact with biopsies or other procedures.
+   - Results from diagnostic tests such as mammograms, ultrasounds, or MRIs performed within the past 6 months.
+
+4. Imaging requirements:
+   - A recent mammogram taken no more than 3 months prior to the date of the breast biopsy (digital breast tomography or DBT images are acceptable).
+   - If an ultrasound or MRI was performed, documentation must include the date and results of these tests.
+
+5. Severity criteria:
+   - Pain scales: Patients must have a pain score of at least 4/10 on the Numeric Rating Scale (NRS) prior to the biopsy.
+   - Functional assessments: Patients must be unable to perform daily activities or have significant limitations in their ability to perform tasks due to breast symptoms.
+
+**Medical Necessity Criteria**
+
+1. Patient selection criteria:
+   - Breast biopsies are medically necessary for patients with a history of breast cancer, suspicious breast lesions, or other conditions that require tissue diagnosis.
+   - Biopsies may be performed on patients without a known diagnosis, but only if there is strong evidence of breast pathology.
+
+2. Failed prior treatments:
+   - If a patient has undergone treatment for breast symptoms and has not experienced significant improvement (defined as at least 75% reduction in pain or symptoms), a biopsy may be medically necessary.
+
+3. Contraindications to conservative care:
+   - Patients with active infections, severe comorbidities (e.g., uncontrolled diabetes, heart disease), or other conditions that would make it unsafe for them to undergo a breast biopsy are excluded from coverage.
+   - Patients who have not received adequate conservative treatment (defined as 12 weeks of physical therapy) are also excluded.
+
+**Exclusion Criteria**
+
+1. Active infections:
+   - Breast biopsies are excluded for patients with active infections, such as mastitis or abscesses.
+
+2. Pregnancy:
+   - Breast biopsies are excluded during pregnancy due to potential risks associated with biopsy procedures.
+
+3. Severe comorbidities:
+   - Biopsies are excluded for patients with severe comorbidities that would make it unsafe for them to undergo the procedure (e.g., uncontrolled diabetes, heart disease).
+
+4. Lack of conservative treatment:
+   - Patients who have not received adequate conservative treatment (defined as 12 weeks of physical therapy) are excluded from coverage.
+
+5. Cosmetic indications:
+   - Biopsies are excluded if they are performed solely for cosmetic reasons or to enhance the appearance of the breast.
+
+**Documentation Requirements**
+
+1. History and physical examination:
+   - A comprehensive medical history, including any previous diagnoses or treatments related to breast conditions.
+   - Current medication list, including any medications that may interact with biopsies or other procedures.
+   - Results from diagnostic tests such as mammograms, ultrasounds, or MRIs performed within the past 6 months.
+
+2. Diagnostic test results:
+   - A recent mammogram taken no more than 3 months prior to the date of the breast biopsy (digital breast tomography or DBT images are acceptable).
+   - If an ultrasound or MRI was performed, documentation must include the date and results of these tests.
+
+3. Treatment logs:
+   - Documentation must include dates of treatment sessions attended, symptoms managed, and any changes in medication.
+   - Patients who have undergone physical therapy must provide documentation of at least 12 weeks of treatment.
+
+4. Specialist consultations:
+   - Results from specialist consultations with breast specialists or other relevant medical professionals.
+   - Referrals for consultation must be documented in patient records, including date of referral and details of the discussion.
+
+**Authorization Details**
+
+1. Valid period: This policy is valid for a period of 90 days from the date of issuance.
+2. Peer-to-peer review:
+   - If an authorization request is denied, the patient may request peer-to-peer review to discuss the decision.
+   - The reviewer will contact the treating physician or other relevant medical professionals to re-evaluate the request.
+
+By following this policy, we aim to ensure that patients receive necessary breast biopsies while minimizing unnecessary procedures.

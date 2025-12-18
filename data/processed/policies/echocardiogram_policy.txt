@@ -1,0 +1,124 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Echocardiogram
+CPT Code: 93306
+
+======================================================================
+
+## PRIOR AUTHORIZATION POLICY: TRANSTHORACIC ECHOCARDIOGRAM WITH DOPPLER
+
+**POLICY NUMBER:** MED.DIAG.123.V6.2024
+**EFFECTIVE DATE:** October 1, 2024
+**REVIEW DATE:** October 1, 2025
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Transthoracic Echocardiogram with Doppler
+*   **CPT Code(s):** 93306 (Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, complete with spectral Doppler echocardiography, and color flow Doppler echocardiography)
+*   **Brief Clinical Description:** A non-invasive ultrasound procedure that uses sound waves to create moving images of the heart. It provides detailed information about the heart's size, shape, pumping function, and the condition of the heart valves, as well as blood flow through the heart chambers and valves. This complete study includes 2D imaging, M-mode, spectral Doppler, and color flow Doppler.
+
+---
+
+### 2. COVERAGE CRITERIA (Must meet ALL applicable criteria)
+
+Prior authorization for CPT code 93306 will be approved when ALL of the following criteria are met, in addition to the Medical Necessity Criteria in Section 3:
+
+*   **Initial Clinical Assessment Requirements:** The patient must have undergone a comprehensive initial clinical assessment including, but not limited to, a detailed history and physical examination, and basic diagnostic workup *prior* to requesting an echocardiogram.
+    *   **Abnormal Cardiac Auscultation:** Documentation of a new onset or significantly changed cardiac murmur, gallop rhythm (S3 or S4), or significant friction rub identified by a licensed physician within the last **3 months**.
+    *   **Electrocardiogram (EKG) Findings:** Documentation of a resting 12-lead EKG performed within the last **90 days** showing new onset or worsening abnormalities suggestive of cardiac pathology, such as:
+        *   Significant arrhythmias (e.g., atrial fibrillation with rapid ventricular response, sustained ventricular tachycardia, new complete heart block).
+        *   Evidence of myocardial infarction (e.g., Q-waves, significant ST-T changes).
+        *   Significant left ventricular hypertrophy (LVH) with strain pattern.
+        *   New bundle branch block (LBBB or RBBB).
+*   **Symptom Duration and Characteristics:** The patient presents with new onset or significantly worsening of one or more of the following symptoms:
+    *   **Dyspnea:** New onset or worsening dyspnea on exertion or at rest, significantly impacting daily activities (e.g., NYHA Functional Class II or higher), for a minimum duration of **4 weeks** despite initial medical management or evaluation.
+    *   **Chest Pain:** New onset or worsening typical or atypical chest pain suggestive of cardiac origin (e.g., Canadian Cardiovascular Society Angina Class II or higher), for a minimum duration of **4 weeks** despite initial medical management.
+    *   **Palpitations:** New onset or worsening symptomatic palpitations (e.g., associated with syncope, presyncope, or significant anxiety), for a minimum duration of **4 weeks**.
+    *   **Syncope or Presyncope:** Unexplained episodes of syncope or recurrent presyncope (more than one episode) without a clear non-cardiac etiology, occurring within the last **6 months**.
+    *   **Peripheral Edema:** New onset or worsening bilateral lower extremity edema or signs of fluid overload suggestive of cardiac decompensation, for a minimum duration of **2 weeks**.
+*   **Clinical Documentation Required:**
+    *   Detailed History and Physical Examination performed by the ordering physician within the last **30 days**, specifically addressing cardiac findings and the rationale for the echocardiogram.
+    *   Result report of a 12-lead resting EKG performed within the last **90 days**.
+    *   Result report of a Chest X-ray (CXR) performed within the last **6 months** demonstrating cardiomegaly, pulmonary vascular congestion, or other findings suggestive of cardiac pathology (if performed).
+*   **Laboratory Test Results (if applicable to clinical scenario):**
+    *   **B-type Natriuretic Peptide (BNP) or N-terminal pro-BNP (NT-proBNP):** Elevated levels within the last **30 days** (e.g., BNP > 100 pg/mL or NT-proBNP > 300 pg/mL) suggestive of heart failure, where heart failure is suspected.
+    *   **Troponin Levels:** Elevated troponin levels within the last **7 days** if acute coronary syndrome or myocardial injury is suspected.
+    *   **Thyroid Stimulating Hormone (TSH):** Abnormal TSH levels within the last **90 days** if thyroid-related cardiac dysfunction is suspected.
+*   **Physician Qualifications:** The echocardiogram must be ordered by a licensed physician (MD/DO) qualified to assess cardiac conditions (e.g., primary care physician, internal medicine physician, cardiologist, emergency medicine physician).
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+The echocardiogram must be medically necessary based on one or more of the following clinical scenarios:
+
+*   **Evaluation of Suspected Valvular Heart Disease:**
+    *   New systolic or diastolic murmur, or significant change in a known murmur.
+    *   Signs or symptoms of valvular dysfunction (e.g., dyspnea, syncope, chest pain) with suspicion of stenosis or regurgitation.
+    *   Known history of valvular heart disease requiring assessment for progression or complications (e.g., prosthetic valve evaluation, endocarditis surveillance).
+*   **Evaluation of Suspected Heart Failure or Cardiomyopathy:**
+    *   Clinical signs and symptoms of heart failure (e.g., dyspnea, fatigue, edema) with supportive EKG or CXR findings.
+    *   Elevated cardiac biomarkers (BNP/NT-proBNP) in the setting of suspected heart failure.
+    *   Family history of cardiomyopathy warranting screening in symptomatic individuals.
+*   **Assessment of Myocardial Ischemia/Infarction or Complications:**
+    *   Evaluation of regional wall motion abnormalities in the setting of suspected or known acute coronary syndrome (ACS) or myocardial infarction (MI) where other imaging is not definitive or contraindicated.
+    *   Assessment for mechanical complications of MI (e.g., ventricular septal defect, papillary muscle rupture).
+*   **Evaluation of Pericardial Disease:**
+    *   Suspected pericardial effusion, tamponade, or constrictive pericarditis based on clinical signs, symptoms, EKG, or CXR findings.
+*   **Evaluation of Cardiac Masses or Sources of Embolism:**
+    *   Suspicion of cardiac tumor, thrombus, or other mass based on clinical presentation or other imaging findings (e.g., stroke of unknown origin, systemic embolism).
+*   **Evaluation of Pulmonary Hypertension:**
+    *   Clinical suspicion of pulmonary hypertension with supportive findings from EKG, CXR, or other non-invasive tests.
+*   **Evaluation of Aortic Disease:**
+    *   Suspected aortic dissection or aneurysm in specific clinical settings where other imaging is inconclusive or not feasible.
+*   **Evaluation of Unexplained Syncope or Presyncope:**
+    *   Recurrent, unexplained syncope or presyncope, particularly in the presence of abnormal EKG findings or other cardiac risk factors.
+*   **Follow-up for Known Cardiac Conditions:**
+    *   Monitoring of known moderate-to-severe valvular heart disease, cardiomyopathy, or heart failure with documented significant clinical change or as recommended by established guidelines for specific conditions (e.g., annual or bi-annual for specific severities, *not* within 12 months for stable conditions without change).
+
+---
+
+### 4. EXCLUSION CRITERIA (If any of these criteria are met, authorization will be denied)
+
+Authorization for CPT code 93306 will be denied for, but not limited to, the following indications:
+
+*   **Routine Screening:** Routine screening in asymptomatic individuals without any documented cardiac risk factors, abnormal physical exam findings, or prior diagnostic abnormalities.
+*   **Pre-Operative Evaluation:** Routine pre-operative screening for non-cardiac surgery in asymptomatic individuals deemed low-risk for cardiac complications, unless specific guidelines for high-risk surgical patients recommend it.
+*   **Repeat Echocardiogram (Frequency):**
+    *   Repeat echocardiogram within **12 months** of a prior complete echocardiogram for stable, chronic cardiac conditions (e.g., stable congestive heart failure, stable valvular heart disease, stable cardiomyopathy) in the absence of documented significant clinical change, worsening symptoms, or a change in management plan.
+    *   Repeat echocardiogram within **3 months** of a prior complete echocardiogram for any reason, unless there is an acute and significant change in clinical status, or new, emergent symptoms that warrant immediate re-evaluation.
+*   **Lack of Prior Diagnostic Workup:** Absence of a detailed history and physical examination, EKG, or other appropriate initial diagnostic evaluation as specified in Section 2, unless the clinical scenario is acute and requires immediate evaluation (e.g., suspected acute tamponade).
+*   **Cosmetic or Research Indications:** Ordered solely for cosmetic purposes, research protocols, or in the absence of clear medical necessity.
+*   **Insufficient Documentation:** Lack of comprehensive clinical documentation to support medical necessity according to the criteria outlined in this policy.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following documentation is required for prior authorization review:
+
+*   **History and Physical Examination:** A detailed narrative history and physical examination report by the ordering physician (or referring specialist) within **30 days** of the authorization request, including:
+    *   Detailed symptom description (onset, duration, frequency, severity, aggravating/alleviating factors).
+    *   Review of relevant medical history, comorbidities, and cardiac risk factors.
+    *   Comprehensive cardiac examination findings (auscultation, palpation, peripheral edema assessment).
+    *   Rationale for the echocardiogram and how it is expected to influence the patient's diagnosis and/or management plan.
+*   **Diagnostic Test Results:**
+    *   Full report of the 12-lead resting EKG performed within the last **90 days**.
+    *   Full report of Chest X-ray (CXR) performed within the last **6 months** (if available and relevant).
+    *   Full report of relevant laboratory test results (e.g., BNP, NT-proBNP, Troponin, TSH) performed within the required timeframe (as specified in Section 2).
+    *   Reports of any other relevant diagnostic studies (e.g., previous echocardiograms, stress tests) within the last 2 years.
+*   **Treatment Logs/Medication List:** If applicable, documentation of current and past medical management for the underlying cardiac condition, including medication regimens and dosages.
+*   **Specialist Consultations:** If a specialist (e.g., cardiologist) consultation has been performed, the full consultation note, including their assessment, recommendations, and rationale for the echocardiogram.
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **Authorization Validity Period:** Approved prior authorizations for CPT 93306 are valid for **90 calendar days** from the approval date. The procedure must be performed within this timeframe. If the procedure is not performed within this period, a new prior authorization request will be required.
+*   **Peer-to-Peer Review:** In the event of an initial denial based on medical necessity, the ordering physician or a designated clinical representative may request a peer-to-peer review with a Medical Director or physician reviewer within **10 business days** of the denial notification. During this review, additional clinical information can be provided and discussed.
+*   **Appeal Rights:** If an authorization request is denied after peer-to-peer review, the member and/or the provider, on behalf of the member, have the right to formally appeal the decision. Detailed instructions for the appeal process will be provided in the denial notification letter, outlining the timeframe and required documentation for submission. This process adheres to all applicable state and federal regulations.
+
+---

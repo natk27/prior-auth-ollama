@@ -1,0 +1,131 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Carpal Tunnel Release
+CPT Code: 64721
+
+======================================================================
+
+## PRIOR AUTHORIZATION POLICY: Carpal Tunnel Release (Open or Endoscopic)
+
+**Policy Number:** PA-ORTHO-CTS-001
+**Effective Date:** January 1, 2024
+**Review Date:** January 1, 2025
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Carpal Tunnel Release (Open or Endoscopic)
+*   **CPT Code(s):**
+    *   **64721:** Median nerve neurolysis, external, with or without internal neurolysis; open incision
+    *   **29848:** Arthroscopy, wrist, surgical; with release of transverse carpal ligament (endoscopic carpal tunnel release)
+*   **Brief Clinical Description:** Carpal Tunnel Release is a surgical procedure performed to relieve pressure on the median nerve in the carpal tunnel of the wrist. Carpal tunnel syndrome (CTS) results from compression of the median nerve as it passes through the carpal tunnel, leading to symptoms such as numbness, tingling, pain, and weakness in the distribution of the median nerve (thumb, index finger, middle finger, and radial half of the ring finger). The surgery involves cutting the transverse carpal ligament to enlarge the carpal tunnel and decompress the nerve. This can be performed via an open incision or endoscopically.
+
+---
+
+### 2. COVERAGE CRITERIA (Must meet ALL of the following for medical necessity)
+
+**Prior authorization is required for Carpal Tunnel Release (CPT 64721 or 29848). All criteria below must be documented and submitted for approval.**
+
+*   **2.1. Conservative Treatment Requirements:**
+    *   **Duration:** A minimum of twelve (12) consecutive weeks of structured, non-surgical conservative management must be documented as having been attempted and failed to provide significant symptomatic relief and functional improvement.
+    *   **Types (Must include a minimum of three of the following, at least one of which must be a corticosteroid injection):**
+        1.  **Night Splinting/Wrist Bracing:** Consistent use of a neutral wrist splint or brace for a minimum of 8 hours nightly, for at least 8 weeks.
+        2.  **Pharmacotherapy:** Documented trial of oral Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) for at least 4 weeks, *OR* other appropriate analgesics (e.g., acetaminophen) if NSAIDs are contraindicated, with inadequate relief.
+        3.  **Corticosteroid Injection:** At least one (1) properly administered corticosteroid injection into the carpal tunnel, providing only temporary relief (lasting less than 4-6 weeks) or no relief. A second injection may be considered if the first provided significant but short-lived relief, but subsequent surgical intervention typically requires failure of at least one injection.
+        4.  **Physical/Occupational Therapy:** A structured program of hand therapy, including nerve gliding exercises, tendon gliding exercises, ergonomic modifications, and activity modification, for a minimum of 6 weeks, with documentation of patient adherence and lack of sustained improvement.
+        5.  **Activity Modification/Ergonomic Review:** Documented attempts at modifying activities and/or workstation ergonomics to reduce repetitive strain or wrist hyperextension/flexion, with inadequate symptomatic relief.
+
+*   **2.2. Symptom Duration Requirements:**
+    *   Symptoms attributable to carpal tunnel syndrome (e.g., numbness, tingling, pain, weakness in the median nerve distribution) must be present for a minimum of three (3) months.
+
+*   **2.3. Clinical Documentation Required:**
+    *   Detailed physician notes (from the requesting surgeon) confirming the diagnosis of carpal tunnel syndrome based on:
+        *   Characteristic symptoms (nocturnal paresthesias, numbness/tingling in the median nerve distribution, pain, weakness, dropping objects).
+        *   Positive provocative tests (e.g., Phalen's sign, Tinel's sign at the wrist).
+        *   Evidence of thenar muscle weakness or atrophy, if present.
+        *   Documentation of the failure of conservative treatment measures, including specific dates, interventions, and patient response.
+
+*   **2.4. Electrodiagnostic Study Requirements:**
+    *   **Mandatory:** A formal electrodiagnostic study (Nerve Conduction Study (NCS) and Electromyography (EMG)) must be performed within the last twelve (12) months by a qualified physician (e.g., neurologist, physiatrist).
+    *   **Findings:** The study must objectively demonstrate evidence of median nerve compression at the wrist, consistent with carpal tunnel syndrome. This typically includes:
+        *   Prolonged median sensory and/or motor latencies across the wrist segment.
+        *   Reduced median nerve conduction velocities.
+        *   Evidence of axonal loss or denervation in the thenar muscles (abductor pollicis brevis) on EMG, if nerve compression is severe.
+    *   *Note:* Clinical diagnosis alone, without confirmatory electrodiagnostic studies, is generally insufficient for surgical authorization unless there are documented and compelling contraindications to performing such studies (e.g., severe coagulopathy, implantable cardiac devices that preclude EMG, limb amputation).
+
+*   **2.5. Severity Criteria:**
+    *   **Pain/Paresthesia:** Documented persistent pain or paresthesia (numbness/tingling) despite conservative treatment, causing significant distress (e.g., Visual Analog Scale (VAS) pain score consistently > 4/10 or similar objective measure).
+    *   **Functional Impairment:** Documented functional impairment impacting activities of daily living (ADLs), work, or sleep. This may be evidenced by:
+        *   Inability to perform fine motor tasks.
+        *   Difficulty with gripping or grasping.
+        *   Frequent dropping of objects.
+        *   Sleep disturbance due to symptoms.
+        *   A validated functional outcome score (e.g., QuickDASH score consistently > 30-40 points).
+
+*   **2.6. Laboratory Tests:**
+    *   Generally not required for the authorization of carpal tunnel release itself, unless there is a clinical suspicion of an underlying systemic condition contributing to CTS (e.g., hypothyroidism, rheumatoid arthritis, diabetes mellitus), in which case relevant laboratory tests and their results should be submitted if available.
+
+*   **2.7. Physician Qualifications:**
+    *   The performing surgeon must be a board-certified or board-eligible physician in Orthopedic Surgery or Plastic Surgery, with demonstrated experience in hand surgery.
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+**Carpal Tunnel Release is considered medically necessary when all of the Coverage Criteria (Section 2) are met AND:**
+
+*   **3.1. Patient Selection Criteria:** The patient has a confirmed diagnosis of carpal tunnel syndrome primarily affecting the median nerve at the wrist, supported by clinical evaluation and objective electrodiagnostic studies.
+*   **3.2. Failed Prior Treatments:** There is clear documentation of failure to improve after a minimum of twelve (12) weeks of structured conservative therapy as outlined in Section 2.1.
+*   **3.3. Contraindications to Continued Conservative Care (or Urgent Intervention):**
+    *   Rapidly progressing motor weakness or muscle atrophy (e.g., thenar atrophy) in the median nerve distribution, even if the duration of symptoms is less than 3 months.
+    *   Acute carpal tunnel syndrome due to trauma (e.g., fracture, crush injury, severe burn) causing severe median nerve compression.
+    *   Documented significant and irreversible nerve damage or impending paralysis, even if symptoms are less severe, as evidenced by electrodiagnostic studies.
+
+---
+
+### 4. EXCLUSION CRITERIA (If any of the following are present, the procedure is NOT covered)
+
+*   **4.1. Active Infection:** Active local infection at the proposed surgical site or uncontrolled systemic infection.
+*   **4.2. Pregnancy:** Elective surgical procedures are generally deferred until after pregnancy, unless emergent or urgent to prevent permanent nerve damage.
+*   **4.3. Severe Uncontrolled Comorbidities:** Severe uncontrolled medical comorbidities (e.g., uncontrolled diabetes mellitus (HbA1c >9.0%), severe cardiovascular disease, poorly managed bleeding disorders, uncontrolled hypertension) that significantly increase perioperative risks, until medically optimized and cleared by the treating physician(s).
+*   **4.4. Lack of Conservative Treatment:** Insufficient documentation of an adequate trial and failure of conservative treatment measures as outlined in Section 2.1.
+*   **4.5. Resolving Symptoms:** Symptoms that are resolving with conservative treatment, or have improved such that functional impairment is no longer significant.
+*   **4.6. Cosmetic/Elective:** The procedure is requested solely for cosmetic reasons, for patient preference without objective functional impairment, or if the primary cause of symptoms is clearly attributable to another condition (e.g., cervical radiculopathy, cubital tunnel syndrome, pronator teres syndrome) without concomitant severe CTS.
+*   **4.7. Insufficient Diagnostic Evidence:** Lack of objective electrodiagnostic evidence of median nerve compression at the wrist, unless specifically contraindicated and a strong clinical case for urgent intervention is presented.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+**The following documentation must be submitted with the prior authorization request:**
+
+*   **5.1. History and Physical Examination:**
+    *   Detailed clinical notes from the referring physician and the performing surgeon, including:
+        *   Comprehensive history of present illness: symptom onset, duration, character (e.g., numbness, tingling, pain, weakness), distribution (median nerve distribution), aggravating and alleviating factors, nocturnal exacerbation.
+        *   Relevant past medical history, surgical history, and medication list.
+        *   Thorough physical examination findings, including: sensory evaluation (light touch, two-point discrimination), motor strength (e.g., abductor pollicis brevis), presence of thenar atrophy, and results of provocative tests (Phalen's, Tinel's, Durkan's compression test).
+    *   Documentation of the patient's current functional limitations directly attributable to carpal tunnel syndrome.
+*   **5.2. Diagnostic Test Results:**
+    *   **Mandatory:** Complete report of the Nerve Conduction Study (NCS) and Electromyography (EMG) performed within the last 12 months, including specific objective findings confirming median nerve compression at the wrist.
+    *   Any other relevant imaging reports (e.g., Ultrasound, MRI of the wrist) if performed to rule out other pathology or provide additional diagnostic information.
+*   **5.3. Treatment Logs:**
+    *   Detailed and dated records of all conservative treatments attempted, including:
+        *   Specific interventions (e.g., type of brace, name and dosage of medication, specific physical/occupational therapy exercises).
+        *   Dates and duration of each treatment.
+        *   Patient adherence to the treatment plan.
+        *   Objective assessment of the patient's response and outcome for each treatment (e.g., symptom relief, functional improvement, continued pain/paresthesia).
+    *   Documentation of any corticosteroid injections (date, medication, dosage, site, and outcome).
+*   **5.4. Specialist Consultations:**
+    *   Consultation notes from the requesting surgeon (if different from the referring physician), detailing their assessment and treatment plan.
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **6.1. Validity Period:** An approved prior authorization for Carpal Tunnel Release is valid for ninety (90) calendar days from the approval date. If the surgical procedure is not performed within this timeframe, a new prior authorization request must be submitted for review.
+*   **6.2. Peer-to-Peer Review:** In the event of an initial denial, the ordering physician has the right to request a peer-to-peer discussion with a Medical Director of the health plan within ten (10) business days of the denial notification. This discussion provides an opportunity to present additional clinical information or clarify aspects of the submitted documentation.
+*   **6.3. Appeal Rights:** Both the patient and the provider have the right to appeal a denial of prior authorization. The appeal process will follow the health plan's established grievance and appeal procedures, including multiple levels of internal review and external independent review options, as per regulatory requirements. Instructions for initiating an appeal will be provided with any denial notification.
+
+---

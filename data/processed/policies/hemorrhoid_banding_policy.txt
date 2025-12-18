@@ -1,0 +1,66 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Hemorrhoid Banding
+CPT Code: 46221
+
+======================================================================
+
+**Prior Authorization Policy: Hemorrhoid Banding Procedure**
+
+**Procedure Overview**
+
+* Procedure Name: Hemorrhoid Banding
+* CPT Code: 46221
+
+Hemorrhoid banding is a minimally invasive procedure used to treat hemorrhoids, which are swollen veins in the rectum or anus. The procedure involves applying bands to the affected vein to reduce bleeding and discomfort.
+
+**Coverage Criteria (Must Meet All)**
+
+To be covered under our insurance plan, the following criteria must be met:
+
+1. **Conservative Treatment Requirements**: The patient must have undergone at least 12 weeks of physical therapy as a prerequisite for this procedure. Physical therapy sessions should include exercises to strengthen the anal sphincter and improve bowel habits.
+2. **Symptom Duration Requirements**: The patient's symptoms must persist for a minimum of 6 weeks prior to the procedure. This duration allows for adequate conservative treatment and assessment of symptom severity.
+3. **Clinical Documentation Required**:
+	* A detailed history and physical examination, including a rectal exam, should be documented by the treating physician within 72 hours of the patient's last visit.
+	* Diagnostic test results, such as endoscopy or colonoscopy, must be provided within 30 days of the procedure.
+	* Treatment logs, including medication records and any previous procedures, should be kept for a minimum of 12 months.
+4. **Imaging Requirements**:
+	* A recent CT scan or MRI of the pelvis should be completed within 6 months prior to the procedure. This imaging study helps evaluate the extent of hemorrhoid disease.
+5. **Severity Criteria**:
+	* The patient's pain level must be assessed using the Fecal Incontinence Severity Index (FISI) scale, with a minimum score of 3 (mild). The FISI scale assesses the severity of fecal incontinence and includes the following levels: 0-2 (no incontinence), 3-4 (mild), 5-6 (moderate), and 7-10 (severe).
+	* A functional assessment, such as the Anorectal Manometry Test, must be performed to evaluate the patient's anal sphincter function.
+
+**Medical Necessity Criteria**
+
+To ensure that the procedure is medically necessary, the following criteria must be met:
+
+1. **Patient Selection Criteria**: Only patients who have not responded to conservative treatment and have a significant impact on their quality of life may be considered for this procedure.
+2. **Failed Prior Treatments**: The patient must have attempted conservative treatments for at least 12 weeks prior to the procedure, as outlined in the coverage criteria.
+3. **Contraindications to Conservative Care**: Patients with severe comorbidities, such as diabetes or heart disease, may be considered for this procedure if their condition has not been adequately managed through conservative means.
+
+**Exclusion Criteria**
+
+The following exclusions apply:
+
+1. **Active Infections**: The patient must be free from active hemorrhoid infections, which may include external anal warts, fistulas, or abscesses.
+2. **Pregnancy (if applicable)**: Pregnant women should not undergo this procedure until after delivery, unless medically necessary to avoid complications.
+3. **Severe Comorbidities**: Patients with severe comorbidities, such as severe heart disease or lung disease, may be excluded from this procedure if their condition cannot be adequately managed through conservative means.
+4. **Lack of Conservative Treatment**: Patients who have not attempted conservative treatments for at least 12 weeks prior to the procedure are not eligible for coverage.
+5. **Cosmetic Indications**: This procedure is only covered for therapeutic purposes and not for cosmetic reasons.
+
+**Documentation Requirements**
+
+The following documentation must be provided:
+
+1. **History and Physical Examination**: A detailed history and physical examination, including a rectal exam, should be documented by the treating physician within 72 hours of the patient's last visit.
+2. **Diagnostic Test Results**: Diagnostic test results, such as endoscopy or colonoscopy, must be provided within 30 days of the procedure.
+3. **Treatment Logs**: Treatment logs, including medication records and any previous procedures, should be kept for a minimum of 12 months.
+4. **Specialist Consultations**: The patient's treating physician must have consulted with at least one specialist (e.g., gastroenterologist or colorectal surgeon) prior to the procedure.
+
+**Authorization Details**
+
+* Valid for: 90 days from date of authorization
+* Requires peer-to-peer review if denied
+
+Note: This policy document is a sample and may not reflect the specific requirements of your insurance plan. Please consult with your insurance provider for the most up-to-date information on prior authorization policies.

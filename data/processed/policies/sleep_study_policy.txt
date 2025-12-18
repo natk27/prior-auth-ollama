@@ -1,0 +1,67 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Sleep Study
+CPT Code: 95810
+
+======================================================================
+
+**Sleep Study Prior Authorization Policy**
+
+**Procedure Overview**
+
+* Procedure Name: Multiple Sleep Latency Test (MSLT)
+* CPT Code: 95810
+* Clinical Description:
+The MSLT is a diagnostic test used to evaluate excessive daytime sleepiness (EDS) in individuals suspected of having a sleep disorder, such as narcolepsy or sleep apnea. The test measures the time it takes for an individual to fall asleep during multiple naps throughout the day.
+
+**Coverage Criteria**
+
+To be eligible for coverage, the following criteria must be met:
+
+1. **Conservative Treatment Requirements**: The patient must have received at least 12 weeks of physical therapy for symptoms related to musculoskeletal pain or stiffness, as diagnosed by a primary care physician.
+2. **Symptom Duration Requirements**: The patient must have experienced excessive daytime sleepiness (EDS) for a minimum of 6 weeks, with a total of 4 or more episodes of EDS per day.
+3. **Clinical Documentation Required**:
+	* A comprehensive medical history, including symptoms and treatment history
+	* A physical examination, including vital signs and muscle strength assessments
+	* Diagnostic test results, including sleep study reports (MSLT)
+	* Treatment logs, documenting all therapies received for the past 12 weeks
+4. **Imaging Requirements**: The patient must have undergone a recent imaging study (MRI or CT scan) of the spine within the last 6 months to rule out spinal cord compression or other structural abnormalities.
+5. **Severity Criteria**:
+	* Patient-reported pain scales must be 7 or higher on a 10-point scale
+	* Functional assessments, such as the Oswestry Disability Index (ODI), must have a score of 30% or higher
+
+**Medical Necessity Criteria**
+
+To determine medical necessity, the following criteria must be met:
+
+1. **Patient Selection Criteria**: The patient must meet the diagnostic criteria for sleep apnea or narcolepsy, as defined by the American Academy of Sleep Medicine (AASM).
+2. **Failed Prior Treatments**: The patient must have failed at least 12 weeks of conservative treatment for symptoms related to musculoskeletal pain or stiffness.
+3. **Contraindications to Conservative Care**: The patient must be unable to tolerate physical therapy due to severe comorbidities, such as cardiovascular disease or respiratory failure.
+
+**Exclusion Criteria**
+
+The following conditions will exclude coverage:
+
+1. **Active Infections**: The patient must not have an active infection (e.g., pneumonia, urinary tract infection)
+2. **Pregnancy**: If applicable, the patient must be postpartum for at least 6 weeks
+3. **Severe Comorbidities**: The patient must not have severe comorbidities that would contraindicate the test (e.g., cardiovascular disease, respiratory failure)
+4. **Lack of Conservative Treatment**: The patient must have received adequate conservative treatment for symptoms related to musculoskeletal pain or stiffness
+5. **Cosmetic Indications**: The sleep study is only approved for treating excessive daytime sleepiness caused by a legitimate medical condition and not for cosmetic purposes.
+
+**Documentation Requirements**
+
+To support prior authorization, the following documentation must be provided:
+
+1. **History and Physical Examination**: A comprehensive medical history, including symptoms and treatment history, as well as a physical examination, including vital signs and muscle strength assessments
+2. **Diagnostic Test Results**: Sleep study reports (MSLT) with results of 10% or higher on the Epworth Sleepiness Scale (ESS)
+3. **Treatment Logs**: Documentation of all therapies received for the past 12 weeks, including physical therapy sessions
+4. **Specialist Consultations**: Letters from primary care physicians and specialists (e.g., pulmonologists, neurologists) supporting the need for a sleep study
+
+**Authorization Details**
+
+* Validity: 90 days from date of approval
+* Reversal: Requires peer-to-peer review if denied
+* Appeals: Must be submitted to BCBS through our designated appeals process within 60 days of denial.
+
+**Note**: This policy is subject to change and may not reflect all applicable laws, regulations, or industry guidelines. Please consult with a qualified healthcare professional for specific guidance on prior authorization requirements.

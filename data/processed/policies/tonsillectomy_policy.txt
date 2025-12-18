@@ -1,0 +1,74 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Tonsillectomy
+CPT Code: 42825
+
+======================================================================
+
+**Tonsillectomy Insurance Prior Authorization Policy**
+
+**PROCEDURE OVERVIEW**
+
+ Procedure Name: Tonsillectomy (CPT Code 42825)
+ Clinical Description: A tonsillectomy is a surgical procedure to remove the tonsils, typically performed to treat recurrent tonsillitis or sleep apnea. The procedure involves the use of anesthesia and specialized instruments to safely remove the tonsils.
+
+**COVERAGE CRITERIA (Must Meet All)**
+
+To be eligible for coverage, the following criteria must be met:
+
+1. **Conservative Treatment Requirements**: Patients must have attempted 12 weeks of conservative treatment, including:
+	* A minimum of 6 weeks of antibiotics
+	* 4 weeks of physical therapy to improve swallowing function and reduce symptoms
+	* Regular follow-up appointments with a primary care physician or an ear, nose, and throat (ENT) specialist
+2. **Symptom Duration Requirements**: Patients must have experienced persistent symptoms for a minimum of 12 weeks prior to the proposed tonsillectomy.
+3. **Clinical Documentation Required**:
+	* A comprehensive medical history, including current and past medical conditions, allergies, and medications
+	* A detailed description of the patient's symptoms, including duration, frequency, and severity
+	* Results from diagnostic tests, such as imaging studies (CT or MRI scans) and laboratory tests (blood work)
+4. **Imaging Requirements**:
+	* A recent CT or MRI scan of the head and neck, performed within the last 6 months
+	* The imaging study must show evidence of tonsillar hypertrophy or inflammation
+5. **Severity Criteria**:
+	* A pain scale of at least 3 (on a scale of 1-10) for at least 2 weeks prior to the proposed procedure
+	* A functional assessment, such as the Epworth Sleepiness Scale, with a score of ≥ 10
+
+**MEDICAL NECESSITY CRITERIA**
+
+To determine medical necessity, the following criteria must be met:
+
+1. **Patient Selection Criteria**:
+	* Patients must have attempted conservative treatment for at least 12 weeks
+	* Patients must have experienced persistent symptoms for a minimum of 12 weeks prior to the proposed procedure
+2. **Failed Prior Treatments**:
+	* Patients who have failed previous treatments, such as antibiotics or other surgical interventions, may be considered for tonsillectomy
+3. **Contraindications to Conservative Care**:
+	* Patients with severe comorbidities, such as heart disease or respiratory failure, may not be candidates for conservative treatment
+
+**EXCLUSION CRITERIA**
+
+The following exclusions apply:
+
+1. **Active Infections**: Tonsillectomy is excluded during active infections, including strep throat or other bacterial infections
+2. **Pregnancy (if Applicable)**: Tonsillectomy is excluded during pregnancy, as it may pose a risk to the mother and fetus
+3. **Severe Comorbidities**: Patients with severe comorbidities, such as heart disease or respiratory failure, may not be candidates for tonsillectomy
+4. **Lack of Conservative Treatment**: Patients who have not attempted conservative treatment for at least 12 weeks prior to the proposed procedure are excluded
+5. **Cosmetic Indications**: Tonsillectomy is excluded for cosmetic indications, such as aesthetic concerns or a desire to improve appearance
+
+**DOCUMENTATION REQUIREMENTS**
+
+The following documentation is required:
+
+1. **History and Physical Examination**: A comprehensive medical history, including current and past medical conditions, allergies, and medications
+2. **Diagnostic Test Results**: Results from diagnostic tests, such as imaging studies (CT or MRI scans) and laboratory tests (blood work)
+3. **Treatment Logs**: A detailed description of the patient's symptoms, including duration, frequency, and severity
+4. **Specialist Consultations**: Results from specialist consultations, such as ENT evaluations
+
+**AUTHORIZATION DETAILS**
+
+This prior authorization policy is valid for 90 days from the date of submission. If approved, a separate authorization letter will be issued.
+
+*   **Peer-to-Peer Denial**: If denied, a peer-to-peer review will be conducted to determine medical necessity.
+*   **Appeal Process**: Patients who are denied coverage may appeal the decision within 60 days of receipt of the denial letter.
+
+Note: This is a sample policy and should not be used in actual practice without modification or review by a qualified healthcare professional.

@@ -1,0 +1,139 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Hip Resurfacing
+CPT Code: 27132
+
+======================================================================
+
+## POLICY FOR PRIOR AUTHORIZATION: HIP RESURFACING ARTHROPLASTY
+
+**Policy Number:** ORTHO.SURG.003.V4.2
+**Effective Date:** January 1, 2024
+**Review Date:** October 1, 2024
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Hip Resurfacing Arthroplasty
+*   **CPT Code(s):** 27132 (Arthroplasty, acetabular and proximal femoral prosthetic replacement (total hip arthroplasty), with or without femoral stem fixation; metal on metal bearing surfaces, hip resurfacing)
+*   **Brief Clinical Description:** Hip resurfacing arthroplasty is a surgical procedure that involves reshaping the femoral head and covering it with a smooth metal cap, while the acetabulum (hip socket) is lined with a corresponding metal shell. Unlike conventional total hip replacement, it preserves more of the patient's native bone in the femoral head and neck, making it a bone-conserving alternative primarily for younger, active patients with certain types of hip arthritis.
+
+### 2. COVERAGE CRITERIA (Must meet ALL of the following criteria for approval)
+
+Coverage for Hip Resurfacing Arthroplasty (CPT 27132) is considered medically necessary when ALL of the following conditions are met:
+
+1.  **Conservative Treatment Requirements:**
+    *   **Documented failure of a minimum of 6 consecutive months** of structured, medically supervised non-surgical management, unless contraindicated (see Medical Necessity Criteria).
+    *   Non-surgical management must include, but is not limited to, the following elements:
+        *   **Physical Therapy:** Minimum of 12 weeks of documented, active physical therapy focusing on hip strengthening, range of motion, gait training, and core stabilization (e.g., 2-3 sessions per week). Detailed progress notes demonstrating lack of sustained improvement are required.
+        *   **Pharmacotherapy:** Documented trial of appropriate oral analgesics, including NSAIDs (unless contraindicated), for a minimum of 3 consecutive months, with an inadequate response or intolerable side effects.
+        *   **Activity Modification:** Documented attempt at modifying activities that exacerbate hip pain, for a minimum of 3 consecutive months.
+        *   **Assistive Devices:** Documented trial and failure of, or continued reliance upon, assistive devices (e.g., cane, walker) to manage ambulation and reduce pain for a minimum of 3 consecutive months.
+        *   **Weight Management:** If the patient has a Body Mass Index (BMI) greater than 30 kg/m², documented participation in a supervised weight loss program with a goal of achieving a BMI of less than 35 kg/m² prior to surgery.
+        *   **Intra-articular Injections (if clinically indicated):** Documented failure of at least two (2) therapeutic intra-articular corticosteroid injections into the affected hip joint within a 12-month period, or at least three (3) therapeutic intra-articular hyaluronic acid injections series within a 12-month period, with each series providing only temporary (less than 3 months) or no significant pain relief.
+
+2.  **Symptom Duration Requirements:**
+    *   Documentation of persistent, debilitating hip pain and functional impairment directly attributable to the hip joint for a minimum of **6 consecutive months**, despite adequate conservative management.
+    *   The pain must significantly interfere with activities of daily living (ADLs), work, and/or sleep.
+
+3.  **Clinical Documentation Required:**
+    *   Detailed physician notes (orthopedic surgeon, rheumatologist, or primary care physician) confirming chronic hip pain and functional limitation.
+    *   Physical examination findings demonstrating objective signs of hip joint pathology (e.g., restricted range of motion, limping gait, positive impingement tests, tenderness over the joint line, muscle atrophy or weakness).
+
+4.  **Imaging Requirements:**
+    *   **Recent Radiographs:** Anteroposterior (AP) pelvis, frog-lateral, and true-lateral views of the affected hip, performed within the last 6 months.
+    *   **Radiographic Findings:** Clear radiographic evidence of advanced degenerative joint disease (e.g., severe joint space narrowing, osteophytes, subchondral sclerosis, subchondral cysts), avascular necrosis of the femoral head, or post-traumatic arthritis. Findings must correspond to Kellgren-Lawrence Grade III or IV arthritis.
+    *   **MRI or CT Scan (if clinically indicated):** May be required to further evaluate bone quality, rule out significant femoral head cysts (see Exclusion Criteria), assess avascular necrosis staging, or exclude other pathologies if X-rays are inconclusive.
+
+5.  **Severity Criteria:**
+    *   **Pain Scale:** Consistent self-reported pain intensity score of 6/10 or greater on a Visual Analog Scale (VAS) or Numeric Rating Scale (NRS) during periods of activity, documented at multiple visits over the past 6 months.
+    *   **Functional Assessment:** Documented functional impairment as evidenced by:
+        *   A Western Ontario and McMaster Universities Arthritis Index (WOMAC) score of 40 points or higher.
+        *   Or, a Harris Hip Score (HHS) of 70 points or lower.
+        *   Significant limitation in activities of daily living (e.g., difficulty walking, climbing stairs, arising from a chair, performing self-care).
+
+6.  **Laboratory Tests (if applicable):**
+    *   As clinically indicated to rule out inflammatory arthropathy (e.g., ESR, CRP, RF, anti-CCP if suspicion of rheumatoid arthritis) or active infection (e.g., CBC with differential, ESR, CRP if signs of infection). Results must be within normal limits or treated appropriately prior to authorization.
+    *   Blood work to assess overall health and surgical risk (e.g., complete blood count, metabolic panel, coagulation studies) within 3 months of planned surgery.
+
+7.  **Physician Qualifications:**
+    *   The performing surgeon must be a Board-Certified or Board-Eligible Orthopedic Surgeon with documented experience in hip arthroplasty procedures.
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+Hip Resurfacing Arthroplasty is considered medically necessary for the treatment of debilitating hip arthritis or avascular necrosis primarily in patients who meet the Coverage Criteria and:
+
+*   **Patient Selection Criteria:**
+    *   Typically reserved for younger, active patients (generally aged 18-65 years) who desire to maintain a high activity level.
+    *   Must have good bone quality and density of the femoral head and neck suitable for resurfacing implants (e.g., no significant osteoporosis).
+    *   Intact femoral head and neck anatomy appropriate for the resurfacing technique.
+    *   Absence of significant osteonecrosis or cysts that would compromise implant fixation or long-term stability.
+
+*   **Failed Prior Treatments:**
+    *   Failure of comprehensive, adequately documented non-surgical treatment program as outlined in Section 2.1.
+
+*   **Contraindications to Conservative Care (rare exceptions to 6-month rule):**
+    *   Rapidly progressing and debilitating joint destruction where immediate surgical intervention is deemed necessary to prevent further severe functional loss, as documented by serial imaging and specialist consultation. This is rare for resurfacing and usually applies to acute conditions better suited for other interventions. Generally, a trial of conservative care is expected.
+
+### 4. EXCLUSION CRITERIA (Hip Resurfacing Arthroplasty is NOT covered if any of the following are present)
+
+1.  **Active Local or Systemic Infection:** Including but not limited to osteomyelitis, cellulitis, or sepsis.
+2.  **Pregnancy:** Due to surgical risks and potential fetal exposure to anesthesia and radiation.
+3.  **Severe Comorbidities:**
+    *   Uncontrolled diabetes mellitus (HbA1c > 8.0%).
+    *   Severe cardiovascular disease (e.g., NYHA Class III or IV heart failure, recent myocardial infarction within 6 months, unstable angina).
+    *   Severe pulmonary disease (e.g., poorly controlled COPD, severe asthma requiring frequent hospitalizations).
+    *   Active malignancy requiring ongoing treatment.
+    *   Severe renal or hepatic dysfunction.
+    *   Morbid obesity with a Body Mass Index (BMI) greater than 40 kg/m².
+4.  **Inflammatory Arthritis with Poor Bone Quality:** Such as severe rheumatoid arthritis, where bone stock may be compromised.
+5.  **Significant Osteopenia or Osteoporosis:** Documented by DEXA scan with a T-score of -2.5 or lower in the hip or lumbar spine, increasing the risk of femoral neck fracture.
+6.  **Allergy to Implant Materials:** Documented allergy to metal components (e.g., cobalt, chromium) used in the resurfacing prosthesis.
+7.  **Lack of Documented Conservative Treatment:** Unless a rare, medically justified contraindication to conservative care is clearly established.
+8.  **Cosmetic Indications:** Procedures performed solely for aesthetic purposes.
+9.  **Isolated Hip Pain without Radiographic Evidence:** Absence of objective radiographic findings of joint disease suitable for resurfacing.
+10. **Skeletal Immaturity:** Patients with open growth plates.
+11. **Significant Femoral Head Cysts:** Femoral head cysts greater than 1 cm in diameter or occupying more than 20% of the femoral head volume, or extensive osteonecrosis with subchondral collapse/fragmentation of the femoral head.
+12. **Femoral Neck Bone Loss or Deformity:** Conditions that would compromise the stability or integrity of the resurfacing implant.
+13. **Significant Acetabular Dysplasia:** Conditions where a resurfacing component might not be adequately seated or stable.
+14. **Previous Failed Hip Surgery:** May require a total hip arthroplasty instead, depending on the nature of the failure.
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following documentation must be submitted for prior authorization review:
+
+1.  **Detailed History and Physical Examination:**
+    *   Comprehensive clinical history including onset, duration, character, and location of hip pain.
+    *   Detailed description of functional limitations and impact on activities of daily living, work, and sleep.
+    *   Thorough physical examination findings specific to the hip joint, including range of motion measurements (active and passive), gait analysis, muscle strength, neurovascular assessment, and special tests.
+    *   Pain assessment scores (e.g., VAS/NRS, WOMAC, HHS) at multiple points over the past 6-12 months.
+    *   List of all prior conservative treatments attempted, including dates, durations, specific modalities, and documented patient response (efficacy and adverse effects).
+    *   Assessment of overall health status, comorbidities, and surgical risk.
+
+2.  **Diagnostic Test Results:**
+    *   Full reports and actual images of all required radiographs (AP pelvis, frog-lateral, true-lateral hip) within the last 6 months.
+    *   Reports and images of any MRI or CT scans if performed.
+    *   Reports of any relevant laboratory tests (e.g., ESR, CRP, CBC, DEXA scan).
+
+3.  **Treatment Logs:**
+    *   Detailed physical therapy notes with dates of service, specific interventions, and progress reports demonstrating lack of sustained improvement.
+    *   Documentation of pharmacological agents prescribed, dates of use, and patient response/side effects.
+    *   Records of intra-articular injections, including agent used, date, and duration of relief.
+    *   Documentation of weight management efforts, if applicable.
+
+4.  **Specialist Consultations:**
+    *   Orthopedic surgeon's consultation notes detailing surgical plan, patient suitability for resurfacing, discussion of risks/benefits, and implant selection.
+    *   Consultation notes from other specialists (e.g., pain management, rheumatology, internal medicine) if relevant to diagnosis or comorbidity management.
+    *   Anesthesia clearance, if available.
+
+5.  **Patient's Signed Informed Consent:** Indicating understanding of the procedure, alternatives, risks, and benefits.
+
+### 6. AUTHORIZATION DETAILS
+
+*   **Authorization Validity:** Approved prior authorizations for Hip Resurfacing Arthroplasty are valid for **90 calendar days** from the date of approval. If the procedure is not performed within this timeframe, a new prior authorization request must be submitted with updated clinical documentation.
+*   **Peer-to-Peer Review:** If a request for Hip Resurfacing Arthroplasty is initially denied, the requesting physician may initiate a peer-to-peer discussion with a Medical Director. This discussion must be requested within ten (10) business days of the denial notification.
+*   **Appeal Rights:** In the event of a continued denial following peer-to-peer review, or if no peer-to-peer review is requested, the member and/or the requesting provider (with member consent) has the right to appeal the decision through the standard internal and external appeal processes as outlined in the member's benefit plan documents.
+
+---

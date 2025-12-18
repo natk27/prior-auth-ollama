@@ -1,0 +1,139 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Pacemaker Insertion
+CPT Code: 33206
+
+======================================================================
+
+## [INSURANCE PAYOR NAME] MEDICAL POLICY
+
+**Policy Number:** MED-PACEMAKER-001
+**Effective Date:** January 1, 2024
+**Review Date:** December 1, 2023
+
+---
+
+### **Prior Authorization Policy for Pacemaker Insertion**
+
+**Subject:** Permanent Pacemaker Insertion (Single Lead)
+**CPT Code(s):** 33206 (Insertion of permanent pacemaker with transvenous electrode(s); atrial electrode)
+
+*Note: This policy applies to initial permanent pacemaker implantation. Coverage for other pacemaker codes (e.g., 33207 for ventricular lead, 33208 for dual-chamber, or revisions/replacements) will follow similar medical necessity principles but may have specific additional criteria. For the purpose of this document, the focus is on CPT 33206.*
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Permanent Pacemaker Insertion (Single Atrial Lead)
+*   **CPT Code(s):** 33206
+*   **Brief Clinical Description:** A permanent pacemaker is a small, battery-powered electronic device designed to treat symptomatic bradyarrhythmias (abnormally slow heart rates) by delivering electrical impulses to stimulate the heart muscle. In the case of CPT 33206, a single electrode lead is inserted transvenously (typically via the subclavian vein) and positioned within the right atrium. The lead is then connected to the pacemaker generator, which is implanted subcutaneously, usually in the infraclavicular region of the chest. The device monitors the heart's natural electrical activity and paces the heart only when the heart rate falls below a programmed minimum or when electrical activity is absent.
+
+---
+
+### 2. COVERAGE CRITERIA
+
+**Prior authorization is required for Permanent Pacemaker Insertion (CPT 33206). The procedure will be considered medically necessary and eligible for coverage when ALL of the following criteria are met:**
+
+*   **A. Conservative Treatment Requirements:**
+    *   Documentation of a thorough evaluation for and trial of management of reversible causes of bradycardia (e.g., medication adjustment/discontinuation of rate-lowering drugs like beta-blockers, calcium channel blockers, digitalis; correction of electrolyte imbalances; treatment of hypothyroidism or sleep apnea; management of myocardial ischemia) for a minimum of **8 weeks**, unless the bradycardia is life-threatening or unremitting despite such interventions.
+    *   If a specific reversible cause is identified, documentation must demonstrate that the cause has been adequately addressed, and the bradyarrhythmia persists and remains symptomatic.
+
+*   **B. Symptom Duration Requirements:**
+    *   Documentation of persistent and debilitating symptoms directly attributable to bradycardia (e.g., syncope, near-syncope, dizziness, severe fatigue, dyspnea, exercise intolerance) occurring over a minimum duration of **6 weeks**, despite appropriate medical management as outlined above, unless the symptoms are acute, severe, and clearly life-threatening.
+
+*   **C. Clinical Documentation Required:**
+    *   Comprehensive history and physical examination performed by a board-certified Cardiologist or Electrophysiologist within the last **30 days**, detailing the patient's symptoms, their impact on daily activities, and a thorough cardiac assessment.
+    *   Electrocardiogram (ECG) performed within the last **30 days** demonstrating the specific bradyarrhythmia requiring pacing.
+    *   Ambulatory ECG monitoring (e.g., 24-48 hour Holter monitor, 7-day or 14-day event recorder, or implantable loop recorder data) within the last **6 months** that correlates symptoms with bradycardia or documents significant bradyarrhythmia (e.g., sinus pauses, high-degree AV block).
+
+*   **D. Imaging Requirements:**
+    *   Echocardiogram performed within the last **12 months** to assess left ventricular function, evaluate for structural heart disease, and rule out other causes of symptoms.
+
+*   **E. Severity Criteria (Must meet ONE of the following specific bradyarrhythmia criteria):**
+    *   **Symptomatic Sinus Node Dysfunction (SND):**
+        *   Spontaneous, symptomatic bradycardia with heart rates consistently less than 40 beats per minute (bpm) while awake, OR
+        *   Recurrent sinus pauses greater than 3.0 seconds (if asymptomatic, criteria under exclusions may apply), OR
+        *   Symptomatic chronotropic incompetence (inability to increase heart rate appropriately with exertion) documented by exercise stress test or detailed Holter monitoring, where symptoms correlate with inadequate heart rate response.
+    *   **Acquired Atrioventricular (AV) Block:**
+        *   Symptomatic Second-Degree AV Block (Mobitz Type II or advanced type), regardless of symptoms.
+        *   Symptomatic Third-Degree (Complete) AV Block.
+        *   Asymptomatic Third-Degree AV Block with average awake heart rate less than 50 bpm, OR occurring at any level of AV junction or infra-Hisian block.
+        *   Symptomatic First-Degree AV Block with PR interval > 0.30 seconds and documented symptoms (e.g., pacemaker syndrome) clearly attributable to the prolonged AV conduction.
+    *   **Post-Procedural Bradycardia:**
+        *   Persistent symptomatic bradycardia after cardiac surgery, valve replacement, or transcatheter aortic valve implantation (TAVI) that is unlikely to resolve (e.g., complete heart block persisting beyond 7 days post-TAVI).
+    *   **Hypersensitive Carotid Sinus Syndrome:**
+        *   Recurrent syncope due to carotid sinus stimulation, with documented asystole greater than 3.0 seconds or symptomatic fall in systolic blood pressure greater than 50 mmHg during carotid sinus massage, unresponsive to medical therapy.
+    *   **Neuromuscular Diseases:**
+        *   Bradycardia associated with neuromuscular diseases such as myotonic muscular dystrophy, Kearns-Sayre syndrome, or Erb's dystrophy, where there is evidence of progressive conduction system disease, even if asymptomatic.
+
+*   **F. Laboratory Tests:**
+    *   Recent electrolyte panel (e.g., Sodium, Potassium, Calcium, Magnesium) within the last **30 days**.
+    *   Thyroid Stimulating Hormone (TSH) within the last **6 months**.
+    *   Drug levels (e.g., Digoxin) if medication-induced bradycardia is suspected.
+
+*   **G. Physician Qualifications:**
+    *   The implanting physician must be a board-certified Electrophysiologist or Cardiologist with demonstrated experience and privileges in permanent pacemaker implantation at an approved facility.
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+The decision for permanent pacemaker insertion is considered medically necessary when the patient meets the detailed **Coverage Criteria** above, specifically indicating:
+
+*   **A. Patient Selection Criteria:** The patient presents with documented, symptomatic bradyarrhythmias that are chronic, recurrent, or pose a significant risk of life-threatening events, and are directly responsible for the patient's functional impairment or severe symptoms.
+*   **B. Failed Prior Treatments:** All appropriate and less invasive medical treatments, including medication adjustments or discontinuation, and management of reversible causes, have been exhausted or are deemed inappropriate/contraindicated for the patient's clinical situation.
+*   **C. Contraindications to Conservative Care:** In certain acute or severe presentations (e.g., high-degree AV block with hemodynamic instability), conservative management may be contraindicated, and immediate pacing becomes medically necessary. Such emergent cases typically do not require pre-authorization but must be fully documented for retrospective review.
+
+---
+
+### 4. EXCLUSION CRITERIA
+
+**Permanent Pacemaker Insertion (CPT 33206) is NOT covered under the following circumstances:**
+
+*   **A. Reversible Causes of Bradycardia:** Bradycardia due to reversible conditions (e.g., drug toxicity, electrolyte imbalance, hypothyroidism, transient ischemia) where the underlying cause has not been adequately addressed or definitively ruled out.
+*   **B. Asymptomatic Bradycardia:**
+    *   Asymptomatic sinus bradycardia (heart rate > 40 bpm).
+    *   Asymptomatic sinus pauses less than 3.0 seconds.
+    *   Asymptomatic first-degree AV block.
+    *   Asymptomatic second-degree AV block Mobitz Type I (Wenckebach) unless occurring at an infra-Hisian level, or in association with neuromuscular disease.
+*   **C. Active Systemic Infection:** Active, uncontrolled systemic infection, bacteremia, or sepsis, which poses a significant risk for lead and generator infection. (Note: May be a relative contraindication, deferring elective placement until infection is resolved).
+*   **D. Severe Comorbidities:** When the patient's life expectancy is severely limited to less than 6 months due to non-cardiac comorbidities (e.g., end-stage metastatic cancer, severe dementia with limited functional status), and the pacemaker would not reasonably improve the patient's quality of life or functional status.
+*   **E. Lack of Comprehensive Workup:** Incomplete diagnostic workup or insufficient documentation to establish the direct link between symptoms and bradyarrhythmia.
+*   **F. Cosmetic Indications:** Not applicable to this procedure.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+**All requests for prior authorization must include comprehensive documentation, including but not limited to:**
+
+*   **A. History and Physical Examination:** Detailed physician notes from the implanting cardiologist/electrophysiologist, including:
+    *   Patient's demographics and chief complaint.
+    *   Detailed description of symptoms (e.g., frequency, duration, severity, impact on ADLs).
+    *   Relevant medical history, comorbidities, and current medications (with dosages).
+    *   Physical examination findings, including vital signs.
+    *   Assessment of reversible causes of bradycardia and their management.
+    *   Clinical rationale for pacemaker implantation.
+*   **B. Diagnostic Test Results:**
+    *   All relevant ECGs (resting, ambulatory monitoring reports with rhythm strips/recordings) demonstrating the specific bradyarrhythmia, with objective measurements (e.g., heart rate, pause duration, PR interval).
+    *   Echocardiogram report.
+    *   Relevant laboratory test results (electrolytes, TSH, drug levels).
+    *   Results of any other pertinent cardiac testing (e.g., stress tests, EP studies if performed).
+*   **C. Treatment Logs/Management Records:**
+    *   Documentation of previous medical management strategies, including medication adjustments, and the patient's response or lack thereof.
+    *   Notes detailing follow-up appointments and ongoing monitoring.
+*   **D. Specialist Consultations:**
+    *   Consultation notes from Cardiology or Electrophysiology specialists recommending the procedure and outlining the rationale.
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **Validity Period:** Approved prior authorizations for Permanent Pacemaker Insertion (CPT 33206) are valid for a period of **90 calendar days** from the date of authorization issuance. If the procedure is not performed within this timeframe, a new prior authorization request will be required.
+*   **Peer-to-Peer Review:** In the event of an initial denial based on medical necessity criteria, the ordering physician has the right to request a peer-to-peer discussion with a medical director of the insurance payor to discuss the clinical findings and provide additional information for reconsideration. This must be requested within **10 business days** of the denial notification.
+*   **Appeal Rights:** If prior authorization is denied after peer-to-peer review (or if peer-to-peer is not pursued), the member and/or their authorized representative have the right to appeal the decision in accordance with the terms of their benefit plan and applicable state and federal regulations. Information regarding the appeal process will be provided in the denial letter.
+
+---
+
+**Disclaimer:** This medical policy is intended to provide guidance for coverage decisions and is not a guarantee of benefits. Coverage is subject to the terms, conditions, limitations, and exclusions of the member's specific benefit plan. Medical policies are subject to change without notice. Providers are encouraged to verify eligibility and benefits prior to rendering services.

@@ -1,0 +1,82 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Hysterectomy
+CPT Code: 58150
+
+======================================================================
+
+**Prior Authorization Policy: Hysterectomy (CPT Code 58150)**
+
+**Procedure Overview**
+
+This policy applies to the prior authorization of hysterectomies for patients with conditions that have not responded to conservative treatment options. The procedure in question is a total abdominal hysterectomy, as described by CPT code 58150.
+
+Clinical Description:
+A total abdominal hysterectomy is a surgical procedure that involves the removal of the uterus, cervix, and the upper portion of the vagina. This procedure is typically performed under general anesthesia and takes approximately 2-4 hours to complete. The procedure may be performed for various indications, including but not limited to:
+
+* Uterine fibroids
+* Endometriosis
+* Cervical cancer
+* Chronic pelvic pain
+
+**Coverage Criteria**
+
+To be covered by our insurance policy, the following criteria must be met:
+
+1. **Conservative Treatment Requirements**: The patient must have undergone at least 12 weeks of physical therapy, as prescribed by a licensed healthcare provider.
+2. **Symptom Duration Requirements**: The patient's symptoms must have persisted for a minimum of 6 weeks prior to the request for prior authorization.
+3. **Clinical Documentation Required**:
+	* A detailed medical history and current health status
+	* Results from all relevant diagnostic tests (e.g., ultrasound, MRI, or CT scans)
+	* Records of all previous treatments, including medications and therapies
+4. **Imaging Requirements**:
+	* Ultrasound: performed within the past 6 months
+	* MRI or CT scan: performed within the past 3 months
+5. **Severity Criteria**:
+	* Pain scales (e.g., VAS pain scale): 7 or higher on a 10-point scale
+	* Functional assessments (e.g., IBS-QOL, FIBQ): score of 60 or lower
+
+**Medical Necessity Criteria**
+
+To determine medical necessity for this procedure, we will consider the following:
+
+1. **Patient Selection Criteria**: The patient must have:
+	* Failed conservative treatment options (physical therapy, medications, and other non-surgical interventions)
+	* A diagnosis that has been confirmed by a licensed healthcare provider
+2. **Failed Prior Treatments**:
+	* The patient's symptoms have persisted despite at least 12 weeks of physical therapy
+	* Previous treatments, including medications and therapies, have not provided adequate relief
+3. **Contraindications to Conservative Care**: The patient must have:
+	* Severe pain that interferes with daily activities (VAS pain scale ≥ 7)
+	* Significant functional impairment (e.g., difficulty with bowel or bladder control)
+
+**Exclusion Criteria**
+
+The following conditions will exclude a patient from prior authorization for this procedure:
+
+1. **Active Infections**: The patient must be free of active infections, including but not limited to pelvic inflammatory disease (PID), endometritis, or sepsis.
+2. **Pregnancy (if applicable)**: The patient must be postpartum and have completed any necessary treatment for pregnancy-related complications.
+3. **Severe Comorbidities**: The patient must not have a severe comorbidity that would increase the risk of surgery (e.g., uncontrolled hypertension, diabetes, or cardiovascular disease).
+4. **Lack of Conservative Treatment**: The patient must have undergone at least 12 weeks of physical therapy and other conservative treatments.
+5. **Cosmetic Indications**: The procedure is not covered for cosmetic purposes.
+
+**Documentation Requirements**
+
+To support prior authorization for this procedure, the following documentation is required:
+
+1. **History and Physical Examination**: A comprehensive medical history and current health status, as documented in the patient's medical record.
+2. **Diagnostic Test Results**: Copies of all relevant diagnostic tests (e.g., ultrasound, MRI, or CT scans) performed within the past 6 months.
+3. **Treatment Logs**: Records of all previous treatments, including medications and therapies.
+4. **Specialist Consultations**: A letter or report from a licensed healthcare provider detailing their assessment of the patient's condition.
+
+**Authorization Details**
+
+1. **Valid for**: This policy is valid for 90 days from the date of prior authorization.
+2. **Requires Peer-to-Peer Review**: If prior authorization is denied, the request must be reviewed by a peer-to-peer reviewer to ensure that the decision is consistent with our policy and applicable laws and regulations.
+
+**Revisions**
+
+This policy may be revised at any time without notice. Revisions will be effective as of the date specified in the announcement or publication on our website.
+
+By submitting this prior authorization request, the healthcare provider acknowledges that they have reviewed and agreed to comply with the terms and conditions outlined in this policy.

@@ -1,0 +1,126 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: ACL Reconstruction
+CPT Code: 29888
+
+======================================================================
+
+## Prior Authorization Policy: Anterior Cruciate Ligament (ACL) Reconstruction
+
+**Policy Number:** PA-ORTHO-0012
+**Effective Date:** October 26, 2023
+**Review Date:** October 26, 2024
+**Related CPT Code(s):** 29888
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Anterior Cruciate Ligament (ACL) Reconstruction, Arthroscopic
+*   **CPT Code(s):** 29888 (Arthroscopy, knee, surgical; with meniscectomy (medial OR lateral) AND anterior cruciate ligament reconstruction, knee)
+*   **Brief Clinical Description:** Anterior Cruciate Ligament (ACL) reconstruction is a surgical procedure performed to replace a torn ACL in the knee. The ACL is a crucial ligament providing rotational stability to the knee joint. This procedure typically involves removing the damaged ligament and replacing it with a tissue graft (autograft or allograft) to restore knee stability and function, often performed arthroscopically. CPT 29888 specifically includes an associated meniscectomy if performed at the same time as the ACL reconstruction. The primary goal is to prevent recurrent episodes of instability ("giving way") and enable the patient to return to desired activity levels, thereby reducing the risk of further meniscal or articular cartilage damage.
+
+---
+
+### 2. COVERAGE CRITERIA (Must meet ALL conditions for approval)
+
+Authorization for CPT 29888 (ACL Reconstruction with or without meniscectomy) is considered medically necessary when all of the following criteria are met:
+
+*   **Conservative Treatment Requirements:**
+    *   A documented trial of **minimum 12 weeks of structured, supervised physical therapy (PT)** focused on knee stability, strengthening, range of motion, and proprioceptive exercises. This PT must have occurred within the last 6 months prior to the request for surgery.
+    *   Documentation must include specific PT interventions, patient adherence, and an assessment of failure to achieve functional stability despite maximal effort.
+    *   Patient must have consistently utilized other conservative measures for a minimum of 8 weeks, including but not limited to:
+        *   Activity modification (avoidance of pivoting or high-impact activities).
+        *   Functional knee bracing, if indicated for instability.
+        *   Pharmacological management (e.g., NSAIDs) for pain control, as appropriate.
+*   **Symptom Duration Requirements:**
+    *   Persistent symptoms of knee instability ("giving way," buckling, or recurrent effusion) for a minimum of **3 months** despite conservative treatment.
+    *   For acute injuries where the patient presents with immediate, profound instability precluding weight-bearing or basic activities, this duration may be waived if documented.
+*   **Clinical Documentation Required:**
+    *   Detailed physician notes from the orthopedic surgeon outlining the mechanism of injury, symptom onset, progression, and specific episodes of instability.
+    *   Objective findings on physical examination, clearly documenting:
+        *   Positive Lachman test (Grade II or III).
+        *   Positive Anterior Drawer test (Grade II or III).
+        *   Positive Pivot Shift test.
+        *   Significant joint line tenderness or effusion, if present.
+        *   Goniometric measurements demonstrating range of motion.
+        *   Assessment of quadriceps and hamstring strength.
+*   **Imaging Requirements:**
+    *   A diagnostic **Magnetic Resonance Imaging (MRI) scan** of the affected knee performed within the **last 6 months** prior to the prior authorization request.
+    *   The MRI report must unequivocally demonstrate a **complete (full-thickness) tear or a high-grade partial tear (greater than 50% fiber disruption)** of the Anterior Cruciate Ligament.
+    *   Associated meniscal tears (medial or lateral) or chondral lesions may be noted but the primary indication for 29888 is the ACL tear.
+*   **Severity Criteria:**
+    *   Patient reports significant functional limitations in activities of daily living (ADLs), occupational duties, or desired recreational/athletic pursuits due to knee instability and/or pain.
+    *   Quantifiable functional assessment scores demonstrating impairment, such as:
+        *   IKDC Subjective Knee Form score of less than 60 out of 100.
+        *   Lysholm Knee Score of less than 70 out of 100.
+        *   Tegner Activity Score demonstrating a significant reduction from pre-injury level or inability to participate in desired activities.
+    *   Visual Analog Scale (VAS) pain score averaging greater than 4/10 at rest or 6/10 with activity, despite conservative pain management.
+*   **Laboratory Tests:** Not routinely required for ACL reconstruction unless systemic inflammatory conditions or infection are suspected based on clinical presentation. If performed, relevant results should be submitted.
+*   **Physician Qualifications:** The procedure must be performed by an orthopedic surgeon board-certified or board-eligible in orthopedic surgery, with documented experience in arthroscopic knee reconstruction.
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+In addition to meeting all Coverage Criteria (Section 2), the following Medical Necessity Criteria must be satisfied:
+
+*   **Patient Selection Criteria:**
+    *   Patient is skeletally mature (or, in skeletally immature patients, a physeal-sparing technique is proposed with detailed justification for early intervention over delayed reconstruction).
+    *   Patient is medically stable and able to tolerate general or regional anesthesia and the demands of surgery and post-operative rehabilitation.
+    *   Patient demonstrates strong motivation and willingness to actively participate in the intensive post-operative rehabilitation program for 6-12 months.
+    *   The primary indication for surgery is recurrent knee instability or functional limitations caused by the documented ACL tear, impacting the patient's ability to participate in desired activities.
+*   **Failed Prior Treatments:**
+    *   Documented failure of the conservative treatment trial (as detailed in Section 2) to adequately stabilize the knee, alleviate symptoms, and/or allow the patient to return to a satisfactory functional level.
+    *   Evidence must clearly show that further non-operative management is unlikely to provide a clinically significant benefit.
+*   **Contraindications to Conservative Care (Rare):**
+    *   In rare circumstances, an acute ACL tear may be considered for early reconstruction without a full conservative trial if there is documented severe, irreducible instability resulting in acute locking or inability to bear weight, or if there are associated concomitant injuries (e.g., complex meniscal tear, multi-ligamentous injury) requiring immediate surgical intervention to prevent further damage. This requires explicit, detailed justification.
+
+---
+
+### 4. EXCLUSION CRITERIA (If any of the following are present, the procedure is NOT covered)
+
+*   **Active Infection:** Active local (knee joint) or systemic infection.
+*   **Severe Unmanaged Comorbidities:** Severe, uncontrolled medical comorbidities (e.g., uncontrolled diabetes, severe cardiovascular disease, bleeding disorders) that significantly increase surgical or anesthetic risk, unless cleared by appropriate specialists.
+*   **Skeletally Immature Patients:** When a physeal-sparing technique is not considered or documented as appropriate, and reconstruction poses an unacceptable risk to growth plates without adequate justification for early intervention.
+*   **Lack of Conservative Treatment:** Absence of a documented, comprehensive trial of conservative treatment as specified in Section 2, unless explicitly justified by acute, severe instability per Section 3.
+*   **Cosmetic Indications:** Reconstruction performed for purely cosmetic reasons (not applicable for ACL).
+*   **Undocumented Instability:** Requests based solely on imaging findings without corresponding clinical evidence of knee instability or functional limitation.
+*   **Patient Unwillingness/Inability:** Patient is unwilling or unable to participate in the required rigorous post-operative rehabilitation program.
+*   **Misdiagnosis:** The primary diagnosis is not a complete or high-grade partial ACL tear.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+All prior authorization requests for CPT 29888 must include, but are not limited to, the following supporting documentation:
+
+*   **History and Physical Examination Notes:** Comprehensive notes from the referring physician and the orthopedic surgeon, detailing:
+    *   Mechanism of injury and date of injury.
+    *   Duration and nature of symptoms (pain, swelling, instability episodes, "giving way").
+    *   Impact on activities of daily living and functional status.
+    *   Detailed objective physical examination findings (e.g., range of motion, effusion, Lachman, Anterior Drawer, Pivot Shift tests with grading, specific measurements of instability if available).
+*   **Diagnostic Test Results:**
+    *   Full MRI report of the affected knee and representative images (e.g., in DICOM format or high-resolution JPEGs/PDFs demonstrating the tear).
+    *   Other relevant imaging (e.g., X-rays to rule out fracture or assess alignment) if performed.
+*   **Treatment Logs and Progress Notes:**
+    *   Detailed physical therapy notes for the minimum 12-week conservative trial, including start and end dates, specific modalities, exercises performed, patient adherence, objective progress measurements (e.g., range of motion, strength scores), and assessment of therapeutic outcomes.
+    *   Documentation of other conservative treatments (e.g., medication prescriptions, bracing orders, activity modification counseling).
+*   **Specialist Consultations:**
+    *   Orthopedic surgeon's consultation notes, including proposed surgical plan, discussion of risks/benefits, and patient consent.
+    *   Clear indication of whether an autograft (e.g., patellar tendon, hamstring) or allograft is planned, with justification if applicable.
+    *   Pre-operative medical clearance from a primary care physician or other specialists, if required due to comorbidities.
+*   **Functional Outcome Scores:** Baseline functional assessment scores (e.g., IKDC, Lysholm, Tegner) collected prior to requesting surgery.
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **Validity Period:** Approved authorizations for CPT 29888 are valid for **90 calendar days** from the date of authorization. If the procedure is not performed within this timeframe, a new prior authorization request will be required.
+*   **Peer-to-Peer Review:** In the event of an initial denial based on medical necessity, the requesting physician or a designated clinical representative may request a peer-to-peer discussion with a Medical Director or peer reviewer. This discussion allows for the presentation of additional clinical information and clarification of the medical necessity criteria.
+*   **Appeal Rights:** If an authorization request is denied, the member and/or the requesting provider have the right to appeal the decision. Information regarding the internal and external appeal processes will be provided in the denial notification.
+
+---
+
+**Disclaimer:** This policy is intended for informational purposes only and does not constitute a guarantee of coverage. Coverage is subject to the terms, conditions, and limitations of the member's specific benefit plan, as well as medical necessity guidelines and applicable state and federal laws. This policy is subject to change without prior notice.

@@ -1,0 +1,98 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Septoplasty
+CPT Code: 30520
+
+======================================================================
+
+**Insurance Policy Document**
+
+**Procedure:** Septoplasty (CPT Code: 30520)
+
+**Procedure Overview:**
+
+Septoplasty is a surgical procedure to correct a deviated septum, which can cause nasal congestion, breathing difficulties, and other respiratory issues. This policy outlines the coverage criteria, medical necessity criteria, exclusion criteria, documentation requirements, and authorization details for this procedure.
+
+**Coverage Criteria (Must Meet All):**
+
+1. **Conservative Treatment Requirements:**
+The patient must have undergone at least 12 weeks of physical therapy to address symptoms such as nasal congestion, stuffiness, and breathing difficulties.
+2. **Symptom Duration Requirements:**
+The patient's symptoms must persist for a minimum of 6 weeks before seeking surgical intervention.
+3. **Clinical Documentation Required:**
+The patient's medical records must include:
+	* A detailed history and physical examination by an authorized healthcare provider
+	* Diagnostic test results (e.g., nasal endoscopy, CT scan)
+	* Treatment logs from conservative care
+	* Specialist consultations with an ear, nose, and throat (ENT) specialist
+4. **Imaging Requirements:**
+The patient must have had the following imaging studies within the past 12 months:
+	* Nasal endoscopy
+	* CT scan of the nasal cavity
+5. **Severity Criteria:**
+The patient's symptoms must meet the following severity criteria:
+	* Nasal congestion: 3 or greater on a 0-10 pain scale
+	* Breathing difficulties: 2 or greater on a 1-5 functional assessment scale
+
+**Medical Necessity Criteria:**
+
+1. **Patient Selection Criteria:**
+The patient must have one of the following conditions:
+	* Chronic nasal congestion despite conservative treatment
+	* Obstructive sleep apnea with nasal congestion as a contributing factor
+	* Nasal septal perforation
+2. **Failed Prior Treatments:**
+The patient must have failed at least two conservative treatments, including physical therapy and medication.
+3. **Contraindications to Conservative Care:**
+The patient must have one of the following contraindications:
+	* Severe nasal polyps or other obstructive lesions
+	* Chronic sinusitis with persistent symptoms
+
+**Exclusion Criteria:**
+
+1. **Active Infections:**
+The patient must not have an active infection, such as a sinus infection or cold, that requires immediate attention.
+2. **Pregnancy (If Applicable):**
+The patient must not be pregnant or breastfeeding at the time of surgery.
+3. **Severe Comorbidities:**
+The patient must not have severe comorbidities, such as:
+	* Uncontrolled hypertension
+	* Diabetes with acute complications
+	* Active cancer or metastatic disease
+4. **Lack of Conservative Treatment:**
+The patient must have undergone conservative treatment before seeking surgical intervention.
+5. **Cosmetic Indications:**
+The procedure is not approved for cosmetic indications, such as a deviated septum that does not cause symptoms.
+
+**Documentation Requirements:**
+
+1. **History and Physical Examination:**
+The patient's medical records must include a detailed history and physical examination by an authorized healthcare provider.
+2. **Diagnostic Test Results:**
+The patient's medical records must include diagnostic test results, such as nasal endoscopy and CT scan, within the past 12 months.
+3. **Treatment Logs:**
+The patient's treatment logs from conservative care must be up-to-date and include:
+	* Medication history
+	* Physical therapy progress
+4. **Specialist Consultations:**
+The patient must have consulted with an ENT specialist at least twice before surgery.
+
+**Authorization Details:**
+
+1. **Valid for:** 90 days from the date of authorization.
+2. **Requires Peer-to-Peer if Denied:** If the patient's claim is denied, a peer-to-peer review will be conducted to determine medical necessity.
+
+By signing below, we acknowledge that we have read and understand the coverage criteria, medical necessity criteria, exclusion criteria, documentation requirements, and authorization details for this insurance policy.
+
+**Insurance Carrier:**
+
+[Insert Insurance Carrier Name]
+
+**Policy Number:** [Insert Policy Number]
+
+**Date:** [Insert Date]
+
+**Patient Signature:** ______________________________
+
+**Physician Signature:** ______________________________

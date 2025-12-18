@@ -1,0 +1,19 @@
+{
+  "decision": "DENIED",
+  "confidence": "MEDIUM",
+  "criteria_met": [
+    {
+      "criterion": "Failed conservative treatments",
+      "status": "NOT_MET",
+      "evidence": ""
+    },
+    {
+      "criterion": "Severity of nerve compression",
+      "status": "MET",
+      "evidence": "MRI lumbar spine (11/10/2024) shows L4-L5 disc herniation with severe nerve compression"
+    }
+  ],
+  "reasoning": "The patient has not had sufficient improvement from conservative treatments, and while the procedure is indicated for severe nerve compression, the similarity of this case to previously approved cases suggests that other options may be available.",
+  "missing_documentation": [],
+  "recommendation": "Consider alternative treatments or further conservative management before proceeding with lumbar microdiscectomy."
+}

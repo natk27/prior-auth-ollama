@@ -1,0 +1,140 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Hip Arthroscopy
+CPT Code: 29914
+
+======================================================================
+
+## PRIOR AUTHORIZATION POLICY: HIP ARTHROSCOPY (Femoroplasty, Acetabuloplasty, and/or Labral Repair)
+
+**Policy Number:** ORTHO-HIP-007.03
+**Effective Date:** January 1, 2024
+**Review Date:** January 1, 2025
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Hip Arthroscopy with Femoroplasty, Acetabuloplasty, and/or Labral Repair
+*   **CPT Code(s):**
+    *   **29914:** Arthroscopy, hip, surgical; with femoroplasty, acetabuloplasty, and labral repair.
+    *   *(Note: Other CPT codes for hip arthroscopy, such as 29862 (labral repair without femoroplasty/acetabuloplasty) or 29863 (labral debridement), may also fall under similar policy guidelines but CPT 29914 is specifically addressed here as the comprehensive procedure.)*
+*   **Brief Clinical Description:** Hip arthroscopy is a minimally invasive surgical procedure used to diagnose and treat various conditions affecting the hip joint. CPT 29914 specifically describes a comprehensive arthroscopic intervention that includes reshaping of the femoral head/neck junction (femoroplasty) and/or acetabular rim (acetabuloplasty) to address femoroacetabular impingement (FAI), combined with repair of the labrum, which is a rim of cartilage around the hip socket. The goal is to alleviate pain, improve function, and potentially prevent or slow the progression of osteoarthritis by correcting anatomical abnormalities and repairing damaged intra-articular structures.
+
+---
+
+### 2. COVERAGE CRITERIA (ALL criteria must be met for coverage)
+
+Coverage for Hip Arthroscopy (CPT 29914) is considered medically necessary when ALL of the following criteria are met:
+
+*   **A. Conservative Treatment Requirements:**
+    *   **Duration:** A minimum of twelve (12) consecutive weeks of documented, structured, and supervised conservative management must be completed.
+    *   **Types of Treatment:** The conservative regimen must include a combination of the following:
+        *   **Physical Therapy (PT):** A formal, individualized physical therapy program focusing on hip range of motion, strengthening (core, gluteal, hip musculature), neuromuscular control, and activity modification. Documentation must include PT notes with specific interventions, patient adherence, and objective measures of improvement or lack thereof.
+        *   **Pharmacotherapy:** A trial of non-steroidal anti-inflammatory drugs (NSAIDs) for a minimum of four (4) weeks, unless medically contraindicated. Other analgesics may be considered.
+        *   **Activity Modification:** Documented attempts to modify activities that exacerbate hip pain.
+        *   **Intra-articular Hip Injections (Optional but recommended):** A diagnostic and/or therapeutic injection (e.g., corticosteroid, hyaluronic acid) into the hip joint, providing temporary relief (minimum 50% pain reduction for at least 2 weeks) and confirming the intra-articular source of pain. The response to injection must be clearly documented.
+    *   **Outcome:** Documentation must demonstrate a failure to improve, or worsening of symptoms, despite strict adherence to the prescribed conservative treatment plan.
+
+*   **B. Symptom Duration Requirements:**
+    *   The patient must have experienced persistent, functionally limiting hip pain for a minimum of six (6) months that is refractory to conservative management.
+
+*   **C. Clinical Documentation Required:**
+    *   Detailed history and physical examination notes by the requesting physician (Orthopedic Surgeon).
+    *   Description of pain characteristics (location, quality, severity, aggravating/alleviating factors), functional limitations (e.g., difficulty with walking, sports, ADLs, sleeping), and previous treatments.
+    *   Objective findings on physical examination, including specific range of motion measurements (especially provocative maneuvers like FADIR - flexion, adduction, internal rotation, and FABER - flexion, abduction, external rotation tests), gait analysis, and palpation findings.
+
+*   **D. Imaging Requirements:**
+    *   **Plain Radiographs:** Recent (within 6 months) AP pelvis, cross-table lateral hip, and false profile views of the affected hip must be submitted. These images must demonstrate findings consistent with femoroacetabular impingement (FAI) (e.g., pistol grip deformity/cam lesion, pincer impingement), hip dysplasia, or other structural abnormalities.
+    *   **Magnetic Resonance Imaging (MRI) or Magnetic Resonance Arthrography (MRA):** Recent (within 6 months) MRI or MRA of the affected hip is mandatory. The report must clearly demonstrate intra-articular pathology consistent with the patient's symptoms, such as:
+        *   Labral tear (e.g., superior, anterior, posterior labral tear).
+        *   Chondral damage (e.g., delamination, fibrillation, Outerbridge Grade I-III focal chondral defect).
+        *   Loose bodies.
+        *   Synovitis.
+        *   Ligamentum teres pathology.
+    *   **Exclusion of Advanced Arthritis:** Imaging must confirm the absence of advanced osteoarthritis (e.g., Tönnis Grade 3 or Kellgren-Lawrence Grade 3-4 joint space narrowing, large osteophytes, subchondral sclerosis/cysts) which would render arthroscopy less effective or indicate a total hip arthroplasty as a more appropriate intervention.
+
+*   **E. Severity Criteria:**
+    *   **Pain:** Documented persistent hip pain with a Visual Analog Scale (VAS) score consistently $\ge$ 5/10, or equivalent on another validated pain scale, despite conservative treatment.
+    *   **Functional Impairment:** Significant functional limitations documented by a validated patient-reported outcome measure such as:
+        *   Hip Outcome Score (HOS) – significantly abnormal subscale scores.
+        *   Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) – scores indicating moderate to severe impairment.
+        *   Modified Harris Hip Score (mHHS) – score indicating fair or poor function.
+        *   Documentation must clearly articulate how the hip pain limits activities of daily living (ADLs), work, and/or recreational activities.
+
+*   **F. Laboratory Tests:**
+    *   Not routinely required for the authorization of hip arthroscopy. However, if systemic inflammatory conditions (e.g., rheumatoid arthritis, lupus) are suspected based on clinical presentation, relevant laboratory tests (e.g., ESR, CRP, ANA, HLA-B27) may be requested to rule out alternative diagnoses.
+
+*   **G. Physician Qualifications:**
+    *   The surgical procedure must be performed by a board-certified or board-eligible Orthopedic Surgeon with demonstrated expertise in hip arthroscopy.
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+Hip Arthroscopy (CPT 29914) is considered medically necessary when addressing specific intra-articular hip pathology in a patient who meets the outlined coverage criteria.
+
+*   **A. Patient Selection Criteria:**
+    *   Skeletally mature patient (closed physes on imaging).
+    *   Clinical symptoms directly correlated with documented intra-articular hip pathology (e.g., FAI, labral tear, loose body).
+    *   No evidence of advanced degenerative changes that would preclude a successful arthroscopic outcome.
+    *   Patient is willing and able to participate in postoperative rehabilitation.
+
+*   **B. Failed Prior Treatments:**
+    *   Clear documentation of the failure of a comprehensive and adherent conservative management program (as detailed in Section 2A) to adequately alleviate symptoms and improve function. The duration and intensity of conservative measures must be appropriate for the clinical presentation.
+
+*   **C. Contraindications to Conservative Care (Rare):**
+    *   In cases where conservative care is not feasible or appropriate (e.g., due to rapidly progressive mechanical symptoms, documented intolerance to therapy, or specific medical contraindications), such circumstances must be thoroughly documented and justified by the treating physician. However, this is an infrequent justification for elective arthroscopy.
+
+---
+
+### 4. EXCLUSION CRITERIA (If any of these are present, the procedure is NOT covered)
+
+Hip Arthroscopy (CPT 29914) is considered NOT medically necessary for and will be denied for the following:
+
+*   **A. Advanced Degenerative Joint Disease:** Evidence of advanced osteoarthritis as defined by Tönnis Grade 3 or Kellgren-Lawrence Grade 3-4 changes on plain radiographs (e.g., significant joint space narrowing, large osteophytes, subchondral cysts or sclerosis), where the primary intervention should be total hip arthroplasty.
+*   **B. Active Infection:** Presence of active local or systemic infection.
+*   **C. Severe Comorbidities:** Uncontrolled or severe medical comorbidities (e.g., unstable cardiac disease, uncontrolled diabetes, severe coagulopathy) that pose an unacceptably high risk for elective surgery, as determined by the surgical and/or primary care team.
+*   **D. Lack of Conservative Treatment:** Failure to complete or adequately document the required course of conservative treatment as outlined in Section 2A.
+*   **E. Skeletal Immaturity:** Open femoral or acetabular growth plates (physes).
+*   **F. Symptoms Solely Attributable to Extra-articular Pathology:** Hip pain determined to be primarily originating from extra-articular sources (e.g., gluteal tendinopathy, trochanteric bursitis, snapping hip syndrome, piriformis syndrome) without concurrent significant intra-articular pathology requiring surgical intervention.
+*   **G. Cosmetic Indications:** Procedures performed solely for cosmetic purposes or without a documented functional impairment.
+*   **H. Lack of Correlation:** When imaging findings (e.g., incidental labral tear) do not correlate with the patient's clinical symptoms and physical examination findings.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following comprehensive documentation must be submitted for prior authorization review:
+
+*   **A. History and Physical Examination:** Complete and legible clinical notes from the requesting orthopedic surgeon detailing:
+    *   Onset, duration, character, and severity of hip pain.
+    *   Aggravating and alleviating factors.
+    *   Impact of pain on activities of daily living, work, and recreational activities.
+    *   Prior treatments attempted (conservative and surgical) and their outcomes.
+    *   Detailed orthopedic physical examination findings, including specific range of motion (active and passive), muscle strength, gait analysis, and results of provocative hip tests (e.g., FADIR, FABER).
+    *   Assessment of neurovascular status.
+    *   Patient-reported outcome scores (e.g., HOS, WOMAC, mHHS).
+*   **B. Diagnostic Test Results:**
+    *   Full reports and representative images of all relevant plain radiographs (AP pelvis, lateral, false profile).
+    *   Full report and representative images of the MRI/MRA of the affected hip.
+    *   Reports of any other relevant diagnostic tests (e.g., CT scan, bone scan), if performed.
+*   **C. Treatment Logs:**
+    *   Detailed notes from physical therapy sessions, including dates of service, specific exercises performed, modalities used, patient adherence, objective progress, and rationale for continued therapy or cessation.
+    *   Documentation of medication trials (drug name, dosage, duration, efficacy, and side effects).
+    *   Documentation of any hip injections, including type of injectate, date, location, and the patient's response (duration and degree of pain relief).
+*   **D. Specialist Consultations:**
+    *   Orthopedic surgeon's consultation notes clearly stating the diagnosis, the rationale for surgical intervention, and the proposed surgical plan (CPT 29914).
+    *   Clear documentation that the patient is an appropriate surgical candidate and has been adequately counseled on risks, benefits, and alternatives.
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **Validity Period:** Approved authorizations for Hip Arthroscopy (CPT 29914) are valid for ninety (90) calendar days from the date of approval. If the procedure is not performed within this timeframe, a new prior authorization request will be required.
+*   **Peer-to-Peer Review:** In the event of an initial denial, the requesting physician or provider may request a peer-to-peer discussion with a Medical Director or designated physician reviewer to discuss the clinical circumstances and provide additional information for reconsideration.
+*   **Appeal Rights:** The member and/or the requesting provider (with member consent) has the right to appeal adverse benefit determinations in accordance with the health plan's appeal process outlined in the member's plan documents.
+
+---
+*This policy is intended for informational purposes only and does not constitute a guarantee of benefits. Coverage is subject to the terms, conditions, and limitations of the member's benefit plan and applicable state and federal laws. All services must be provided by a licensed, qualified healthcare professional and delivered in an appropriate facility.*

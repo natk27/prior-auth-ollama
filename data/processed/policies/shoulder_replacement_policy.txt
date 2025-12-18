@@ -1,0 +1,122 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Shoulder Replacement
+CPT Code: 23472
+
+======================================================================
+
+## Prior Authorization Policy: Total Shoulder Arthroplasty (TSA)
+
+**Policy Number:** ORTHO-SHOULDER-TSA-V2024.01
+**Effective Date:** January 1, 2024
+**Review Date:** January 1, 2025
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Total Shoulder Arthroplasty (TSA) / Shoulder Replacement
+*   **CPT Code(s):** 23472 (Arthroplasty, glenohumeral joint; total shoulder (glenoid and humeral head replaced))
+    *   *Note: Other CPT codes for shoulder arthroplasty (e.g., hemiarthroplasty, reverse total shoulder arthroplasty) are covered under separate, but related, policies.*
+*   **Brief Clinical Description:** Total Shoulder Arthroplasty (TSA) is a surgical procedure designed to replace the damaged glenohumeral joint (shoulder joint) with prosthetic components. This involves replacing the humeral head (ball) with a metal prosthetic component and the glenoid (socket) with a polyethylene component. The primary goal of TSA is to relieve severe pain and improve function in patients with end-stage degenerative, inflammatory, or post-traumatic arthritis of the shoulder.
+
+### 2. COVERAGE CRITERIA (Must meet ALL of the following)
+
+Authorization for Total Shoulder Arthroplasty (CPT 23472) will be granted when *all* of the following criteria are met:
+
+*   **2.1 Conservative Treatment Requirements:**
+    *   Documentation of a minimum of **6 months (24 weeks)** of continuous, supervised, and compliant non-surgical management. This management must include:
+        *   **Physical Therapy (PT):** A structured, physician-prescribed physical therapy program lasting a minimum of **12 weeks** within the 6-month conservative treatment period. The program must involve at least **2-3 supervised sessions per week** for the initial 4 weeks, followed by a detailed home exercise program reinforced by regular follow-up appointments with a licensed physical therapist. Documentation must detail the specific exercises, frequency, duration, and objective measures of patient progress or lack thereof.
+        *   **Pharmacological Management:** Consistent, documented use of appropriate analgesics for at least **3 consecutive months**, unless contraindicated. This includes, but is not limited to, over-the-counter NSAIDs, prescription NSAIDs, acetaminophen, or other non-opioid pain medications. Documentation of contraindications to specific medications must be provided if applicable.
+        *   **Corticosteroid Injections:** A minimum of **1, and up to 2, glenohumeral joint corticosteroid injections** within the 12 months preceding the authorization request. Each injection must have provided only **temporary relief of symptoms (defined as pain reduction for at least 4 weeks post-injection)**, with subsequent return of disabling pain. Documentation of injection dates, agent used, and patient response is required.
+        *   **Activity Modification:** Documented attempts by the patient to modify activities of daily living (ADLs) and occupational activities to reduce strain on the affected shoulder and alleviate pain.
+*   **2.2 Symptom Duration Requirements:**
+    *   Persistent, disabling shoulder pain and significant functional impairment that has been present for a minimum of **6 months (24 weeks)** despite adequate conservative management.
+*   **2.3 Clinical Documentation Required:**
+    *   Detailed clinical notes from the referring orthopedic surgeon documenting:
+        *   Comprehensive history of present illness, including symptom onset, progression, and impact on ADLs.
+        *   Thorough physical examination findings for the affected shoulder, including active and passive range of motion (ROM) measurements, strength assessment (e.g., manual muscle testing), stability assessment, and results of special provocative tests (e.g., Hawkins-Kennedy, Neer impingement, Speed's, Yergason's).
+        *   Detailed review of all conservative treatments attempted, including dates, specific modalities, duration, patient compliance, and objective outcomes.
+*   **2.4 Imaging Requirements:**
+    *   **X-rays:** Recent (within **6 months** of the authorization request) plain radiographs of the affected shoulder, including standard anteroposterior (AP) (in internal and external rotation), lateral (scapular Y), and axillary views. Radiographs must demonstrate objective evidence of one of the following:
+        *   Severe glenohumeral degenerative joint disease (osteoarthritis) with significant joint space narrowing (e.g., Grade 3 or 4 on the Kellgren-Lawrence scale), subchondral sclerosis, osteophyte formation, and/or subchondral cysts.
+        *   Severe avascular necrosis (AVN) of the humeral head with collapse or significant articular surface damage.
+        *   Significant post-traumatic arthritis with severe joint damage.
+        *   Severe inflammatory arthritis (e.g., rheumatoid arthritis) with joint destruction unresponsive to medical management.
+    *   **MRI/CT (if indicated):** If concerns exist regarding rotator cuff integrity (e.g., for potential reverse shoulder arthroplasty consideration) or for detailed assessment of glenoid bone loss/deformity, a recent (within **12 months**) MRI or CT scan with relevant sequences may be required. Reports must clearly describe findings pertinent to surgical planning.
+*   **2.5 Severity Criteria:**
+    *   **Pain Scale:** Documented consistent, persistent pain scoring $\ge$ **6/10** on a Visual Analog Scale (VAS) or Numeric Rating Scale (NRS) for ADLs, despite conservative treatment.
+    *   **Functional Assessment:** Significant functional impairment objectively measured by at least one of the following:
+        *   Marked limitation of active and passive range of motion (e.g., active forward elevation < 90 degrees, active external rotation < 20 degrees).
+        *   A Disabilities of the Arm, Shoulder and Hand (DASH) score of $\ge$ **40 points**.
+        *   A Constant-Murley Score of $\le$ **40 points**.
+        *   An American Shoulder and Elbow Surgeons (ASES) score of $\le$ **50 points**.
+*   **2.6 Laboratory Tests:**
+    *   Routine laboratory tests are generally not required for primary TSA unless specific systemic inflammatory conditions are suspected or being managed (e.g., ESR, CRP, RF, anti-CCP for rheumatoid arthritis if not already diagnosed). If performed, results should be included.
+*   **2.7 Physician Qualifications:**
+    *   The procedure must be performed by an orthopedic surgeon who is board-certified or board-eligible by the American Board of Orthopaedic Surgery (ABOS) and possesses demonstrable experience in performing shoulder arthroplasty procedures.
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+Total Shoulder Arthroplasty is considered medically necessary when the member meets ALL of the coverage criteria (Section 2) and the following conditions are met:
+
+*   **3.1 Patient Selection Criteria:**
+    *   The patient is an adult (typically $\ge$ 40 years of age, though younger patients with severe post-traumatic or inflammatory arthritis may be considered on a case-by-case basis).
+    *   The patient has achieved skeletal maturity.
+    *   The patient is medically optimized for major surgical intervention and understands the risks, benefits, and alternatives of the procedure.
+*   **3.2 Failed Prior Treatments:**
+    *   Clear documentation of the failure of comprehensive, structured, and compliant conservative management strategies to provide sustainable relief of pain and improvement in function to an acceptable level.
+*   **3.3 Contraindications to Conservative Care:**
+    *   In rare cases, if a patient has documented medical contraindications to specific conservative treatments (e.g., severe NSAID intolerance, steroid-induced complications, active infection precluding injections), this must be clearly articulated and supported by clinical documentation.
+    *   Rapidly progressive joint destruction causing acute severe pain and functional loss where delaying surgery would foreseeably result in significantly worse outcomes or irrecoverable damage.
+
+### 4. EXCLUSION CRITERIA (If any of the following are present, the procedure is NOT covered)
+
+Total Shoulder Arthroplasty is **not** covered if any of the following conditions are present:
+
+*   **4.1 Active Infection:** Active infection (e.g., osteomyelitis, septic arthritis of the shoulder, active local skin infection in the operative field, or active systemic infection).
+*   **4.2 Pregnancy:** The patient is pregnant or breastfeeding (procedure typically deferred until after delivery and cessation of breastfeeding, due to general surgical risks and potential fetal/infant exposure to post-operative medications).
+*   **4.3 Severe Uncontrolled Comorbidities:**
+    *   Uncontrolled diabetes (e.g., HbA1c > **8.0%**).
+    *   Severe, uncontrolled cardiovascular disease (e.g., myocardial infarction within **6 months**, unstable angina, uncontrolled congestive heart failure (NYHA Class III-IV), severe uncorrected valvular heart disease).
+    *   Severe, uncontrolled pulmonary disease (e.g., FEV1 < **50%** predicted, frequent exacerbations of COPD requiring hospitalization within **3 months**).
+    *   Morbid obesity (Body Mass Index (BMI) > **40 kg/m$^2$**) where the increased risks of surgery and potential complications significantly outweigh the anticipated benefits, unless cleared by a multidisciplinary team and specific risk mitigation strategies are in place.
+    *   Severe peripheral vascular disease significantly impacting recovery.
+    *   Any other medical condition that, in the opinion of the treating physician and/or a consulting specialist, renders the surgical procedure unduly hazardous or compromises the patient's ability to undergo successful rehabilitation.
+*   **4.4 Lack of Documented Conservative Treatment:** Failure to meet the specified conservative treatment requirements outlined in Section 2.1, unless specific medical contraindications are thoroughly documented.
+*   **4.5 Cosmetic Indications:** The procedure is being performed solely for cosmetic enhancement.
+*   **4.6 Substance Abuse:** Active alcohol or illicit drug abuse that may impair post-operative recovery, compliance with rehabilitation, or increase surgical risks.
+*   **4.7 Psychiatric Instability:** Uncontrolled major psychiatric disorder or significant cognitive impairment that would interfere with compliance with pre-operative instructions, post-operative care, or rehabilitation protocols.
+*   **4.8 Neurological Deficit:** Significant irreversible neurological deficit of the ipsilateral extremity precluding functional recovery post-surgery.
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following documentation must be submitted with the prior authorization request:
+
+*   **5.1 History and Physical Examination:** A comprehensive and current (within **30 days** of request submission) history and physical examination report from the orthopedic surgeon, detailing:
+    *   Patient's chief complaint, date of symptom onset, and impact on ADLs.
+    *   Detailed past medical and surgical history.
+    *   Complete musculoskeletal examination of the shoulder, including objective measurements of active and passive ROM, strength, stability, and pain with specific movements/tests.
+    *   Assessment of neurological and vascular status of the extremity.
+    *   Discussion of risks, benefits, and alternatives with the patient.
+*   **5.2 Diagnostic Test Results:**
+    *   Full radiology reports for all required imaging (X-rays, MRI/CT if applicable), including the date of the studies and clear description of findings. Actual images may be requested for review.
+    *   Any relevant laboratory test results if applicable (e.g., for inflammatory conditions).
+*   **5.3 Treatment Logs:**
+    *   Detailed physical therapy notes (initial evaluation, progress notes, discharge summary) outlining dates of attendance, specific interventions, patient response to therapy, and objective measurements of progress (e.g., ROM, strength, functional scores).
+    *   Documentation of pharmacological management including agents, dosages, duration of use, and patient response/side effects.
+    *   Records of glenohumeral corticosteroid injections, including dates, agent used, dosage, and documented duration of pain relief.
+*   **5.4 Specialist Consultations:**
+    *   Reports from any other specialists involved in conservative care (e.g., rheumatologist, pain management specialist).
+    *   Pre-operative medical clearance from the patient's primary care physician or appropriate specialist (e.g., cardiologist, pulmonologist) if significant comorbidities are present.
+    *   Pre-anesthesia evaluation report if available.
+
+### 6. AUTHORIZATION DETAILS
+
+*   **Validity:** An approved prior authorization for CPT 23472 is valid for **90 calendar days** from the date of approval. If the procedure is not performed within this timeframe, a new prior authorization request must be submitted, and all coverage criteria will be re-evaluated based on the current clinical status and policy.
+*   **Peer-to-Peer Review:** In the event of an initial denial, the requesting physician or a designated clinical staff member acting on their behalf, may request a **peer-to-peer discussion** with a medical director or physician reviewer from the health plan. This request must be made within **10 business days** of the date of the denial notification. During this discussion, the treating physician can present additional clinical information or clarify aspects of the patient's case to support the medical necessity of the requested service.
+*   **Appeal Rights:** If a prior authorization request is denied following a peer-to-peer review, the member and/or the treating provider (with appropriate patient consent) retain the right to formally appeal the denial. The denial notification letter will provide detailed instructions on how to initiate the appeal process, which typically involves multiple levels of review in accordance with state and federal regulations and the member's specific plan benefits.
+
+---
+**Disclaimer:** This policy provides general guidance for prior authorization of Total Shoulder Arthroplasty (CPT 23472). Individual member benefits may vary based on their specific plan document, group contract, and applicable state and federal regulations. This policy is subject to change without prior notification. Coverage decisions are based on the medical information provided at the time of the request and are subject to audit.

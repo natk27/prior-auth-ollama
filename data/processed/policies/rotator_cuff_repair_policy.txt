@@ -1,0 +1,117 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Rotator Cuff Repair
+CPT Code: 29827
+
+======================================================================
+
+## Prior Authorization Policy: Arthroscopic Rotator Cuff Repair
+
+**Policy Number:** [Assign a unique policy number, e.g., ORTHO.SURG.001]
+**Effective Date:** January 1, 2024
+**Review Date:** January 1, 2025
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Arthroscopic Rotator Cuff Repair
+*   **CPT Code(s):** 29827 (Arthroscopy, shoulder, surgical; repair of rotator cuff (includes without acromioplasty))
+*   **Brief Clinical Description:** The rotator cuff is a group of four muscles and their tendons that surround the shoulder joint, providing stability and enabling a wide range of motion. A rotator cuff tear occurs when one or more of these tendons are torn, often due to acute injury or chronic degeneration. This procedure involves the surgical reattachment of the torn rotator cuff tendon(s) to the humerus bone using arthroscopic techniques (minimally invasive approach with small incisions and a camera). The primary goal is to restore the integrity of the rotator cuff, alleviate pain, and improve shoulder function and strength.
+
+---
+
+### 2. COVERAGE CRITERIA (MUST MEET ALL)
+
+Prior authorization for Arthroscopic Rotator Cuff Repair (CPT 29827) will be considered medically necessary when ALL of the following criteria are met:
+
+*   **A. Conservative Treatment Requirements:** The patient must have completed a documented trial of comprehensive, structured, and supervised conservative management for a minimum duration of **12 continuous weeks** that has failed to provide significant improvement in symptoms and functional limitations. This conservative management must include, but is not limited to:
+    *   **1. Structured Physical Therapy (PT):** A documented course of physical therapy, supervised by a licensed physical therapist, focusing on rotator cuff and scapular stabilization exercises, range of motion, and pain management. The PT regimen must involve a minimum of **2-3 sessions per week** for at least 12 weeks, with objective documentation of attendance, specific interventions, and response to therapy.
+    *   **2. Pharmacological Management:** Consistent use of non-steroidal anti-inflammatory drugs (NSAIDs) for at least 4-6 weeks (unless contraindicated), or other appropriate analgesics, to manage pain and inflammation.
+    *   **3. Corticosteroid Injections:** Consideration of at least **one (1) subacromial corticosteroid injection** administered more than 4 weeks prior to the surgical request, with documented temporary or no lasting relief of symptoms. A maximum of two (2) injections within a 12-month period is generally considered appropriate prior to surgical evaluation.
+    *   **4. Activity Modification:** Documented attempts at activity modification and avoidance of aggravating activities for the specified conservative treatment period.
+    *   **5. Home Exercise Program (HEP):** Documented patient compliance and instruction in a home exercise program.
+
+*   **B. Symptom Duration Requirements:** The patient must have experienced persistent and significant shoulder pain, weakness, and/or functional impairment related to the rotator cuff tear for a minimum duration of **6 months**, despite adherence to the conservative treatment outlined above. For acute traumatic full-thickness tears resulting in significant functional deficit, this symptom duration may be waived based on compelling clinical documentation of acute onset and severe impairment.
+
+*   **C. Clinical Documentation Required:** Comprehensive physician office notes from an orthopedic surgeon or sports medicine physician, including:
+    *   Detailed history of present illness, including onset, duration, character, and severity of pain, and aggravating/alleviating factors.
+    *   Thorough physical examination of the shoulder, documenting:
+        *   Active and passive range of motion with goniometric measurements.
+        *   Strength testing of the rotator cuff muscles (e.g., Jobe's test for supraspinatus, external rotation strength for infraspinatus/teres minor, internal rotation for subscapularis) with specific grading (e.g., 0/5 to 5/5).
+        *   Presence of specific provocative impingement signs (e.g., Neer, Hawkins-Kennedy tests) and rotator cuff pathology signs (e.g., Drop Arm test, Lift-off test).
+        *   Palpation findings.
+        *   Assessment of functional limitations in activities of daily living (ADLs), work, and recreational activities.
+
+*   **D. Imaging Requirements:**
+    *   **1. Magnetic Resonance Imaging (MRI):** A high-quality MRI of the affected shoulder, performed within the last **12 months**, is required. The MRI report and images must objectively demonstrate a **full-thickness rotator cuff tear** or a **high-grade partial-thickness rotator cuff tear (defined as >50% tendon thickness)** of one or more rotator cuff tendons. The tear must correlate with the patient's symptoms and physical examination findings.
+    *   **2. Plain Radiographs (X-rays):** Recent (within the last 12 months) plain radiographs (e.g., AP, scapular Y, axillary views) of the affected shoulder are required to rule out significant glenohumeral arthritis, fracture, or other bony pathology that may preclude or alter the surgical approach.
+
+*   **E. Severity Criteria:** Objective evidence of significant pain and/or functional impairment:
+    *   **1. Pain Assessment:** Documentation of significant pain levels, for example, a Visual Analog Scale (VAS) score of $\ge$5/10 or Numeric Rating Scale (NRS) score of $\ge$5/10 on a consistent basis, despite conservative management.
+    *   **2. Functional Assessment:** Pre-treatment functional outcome scores (e.g., DASH, ASES, Constant-Murley) demonstrating significant impairment (e.g., DASH score $\ge$30, ASES score $\le$60) that has not improved with conservative treatment.
+    *   **3. Objective Weakness/Motion Loss:** Documented and persistent objective weakness (e.g., Grade 3/5 or less for specific rotator cuff muscles) and/or active range of motion deficits directly attributable to the rotator cuff tear.
+
+*   **F. Physician Qualifications:** The surgical procedure must be performed by an orthopedic surgeon who is board-certified or board-eligible in orthopedic surgery and has documented experience in performing arthroscopic rotator cuff repair procedures.
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+The Arthroscopic Rotator Cuff Repair is considered medically necessary when the following conditions are met:
+
+*   **A. Patient Selection Criteria:**
+    *   The patient is an adult (typically 18 years or older, though consideration for adolescents with acute traumatic tears will be made on a case-by-case basis with clear documentation).
+    *   The patient is symptomatic with a confirmed full-thickness or high-grade partial-thickness (>50%) rotator cuff tear by MRI that correlates with clinical findings.
+    *   The patient has a reasonable expectation to comply with and participate in the necessary post-operative rehabilitation program.
+    *   The patient is an appropriate surgical candidate with no prohibitive contraindications to general anesthesia or surgical intervention.
+*   **B. Failed Prior Treatments:** The patient has exhausted and failed to improve with a comprehensive and documented course of conservative management as outlined in Section 2.A.
+*   **C. Contraindications to Conservative Care:** In rare instances of acute, traumatic, large, or retracted full-thickness tears (e.g., within 6 weeks of injury), where immediate surgical repair is deemed critical to prevent further retraction or muscle atrophy and optimize outcomes, the conservative treatment period may be shortened or waived, provided there is compelling clinical documentation justifying such an expedited approach.
+
+---
+
+### 4. EXCLUSION CRITERIA (NOT COVERED)
+
+Arthroscopic Rotator Cuff Repair (CPT 29827) is NOT considered medically necessary and will be denied coverage under the following circumstances:
+
+*   **A. Active Infection:** Presence of active systemic infection or localized infection in the shoulder region.
+*   **B. Severe Comorbidities:** Uncontrolled severe comorbidities (e.g., severe cardiovascular disease, uncontrolled diabetes, severe pulmonary disease, bleeding disorders) that significantly increase the risk of surgery or anesthesia, as determined by the patient's attending physician and/or anesthesiologist (e.g., ASA Physical Status Classification System score of 4 or higher).
+*   **C. Lack of Conservative Treatment:** Failure to complete or adequately document a trial of conservative treatment as specified in Section 2.A, unless specifically exempted by Section 3.C.
+*   **D. Asymptomatic Tears:** Rotator cuff tears identified incidentally on imaging without corresponding clinical symptoms (pain, weakness, functional limitations) and physical exam findings.
+*   **E. Low-Grade Partial-Thickness Tears:** Partial-thickness tears of less than 50% tendon thickness, unless there is documented evidence of significant progression, failure of *all* conservative treatment, and severe, unremitting symptoms.
+*   **F. Insufficient Documentation:** Lack of adequate clinical or imaging documentation to support medical necessity as outlined in this policy.
+*   **G. Patient Non-Compliance:** Unwillingness or inability of the patient to participate in a post-operative rehabilitation program.
+*   **H. Cosmetic Indications:** Procedures performed for cosmetic purposes.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following documentation must be submitted with the prior authorization request:
+
+*   **A. History and Physical Examination:** Recent (within the last 3 months) comprehensive office notes from the requesting orthopedic surgeon or sports medicine physician, detailing:
+    *   Patient's chief complaint, symptom onset, duration, and severity.
+    *   All prior treatments attempted (dates, types, duration, response).
+    *   Detailed shoulder examination findings (range of motion, strength, provocative tests, neurovascular status).
+    *   Assessment of functional limitations.
+    *   Surgical recommendation and rationale.
+*   **B. Diagnostic Test Results:**
+    *   Full MRI report and representative image series of the affected shoulder.
+    *   Plain radiograph reports of the affected shoulder.
+*   **C. Treatment Logs:**
+    *   Physical therapy notes (initial evaluation, progress notes, discharge summaries) documenting frequency, interventions, and patient progress/lack thereof over the 12-week conservative period.
+    *   Records of corticosteroid injections (date, type of steroid, location, response).
+    *   Documentation of pharmacological management.
+*   **D. Specialist Consultations:** If applicable, consultation notes from other specialists (e.g., pain management, rheumatology) relevant to the patient's shoulder condition or comorbidities.
+*   **E. Functional Outcome Scores:** Documentation of baseline and most recent functional outcome scores (e.g., DASH, ASES).
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **Validity Period:** An approved prior authorization for Arthroscopic Rotator Cuff Repair is valid for **90 calendar days** from the date of approval. If the procedure is not performed within this timeframe, a new prior authorization request will be required.
+*   **Peer-to-Peer Review:** In the event of a denial for medical necessity, the requesting physician or provider has the right to request a peer-to-peer discussion with a medical director of the health plan. This request must be initiated within **15 business days** of the denial notification.
+*   **Appeal Rights:** If the prior authorization request is denied, the patient and/or the requesting provider have the right to appeal the decision through the health plan's internal grievance and appeal process. Information regarding appeal procedures will be provided in the denial notification letter, including details on Level 1 and Level 2 internal appeals, and the right to an independent external review.
+
+---

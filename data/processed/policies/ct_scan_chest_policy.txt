@@ -1,0 +1,102 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: CT Scan Chest
+CPT Code: 71250
+
+======================================================================
+
+**INSURANCE prior authorization policy**
+
+**PROCEDURE OVERVIEW**
+
+ Procedure Name: CT Scan Chest (CPT Code: 71250)
+ Clinical Description:
+A computed tomography (CT) scan of the chest is a medical imaging test that uses X-rays to produce detailed cross-sectional images of the chest and lungs. This procedure is used to diagnose and monitor conditions such as pneumonia, pneumothorax, and pulmonary embolism.
+
+**COVERAGE CRITERIA**
+
+To be covered by insurance, the following criteria must be met:
+
+1. Conservative treatment: The patient must have undergone at least 12 weeks of physical therapy, including:
+   - A minimum of 2 sessions per week for 24 weeks
+   - Each session to include exercises and stretches targeted at improving chest mobility and strength
+   - Progress tracking through a standardized log
+
+2. Symptom duration: The patient's symptoms must have persisted for a minimum of 6 weeks.
+
+3. Clinical documentation required:
+   - A detailed medical history, including any previous chest complaints or injuries
+   - Results from the most recent pulmonary function tests (PFTs), if performed within the past 12 months
+   - Referral from a primary care physician, specifying the need for a CT scan of the chest
+
+4. Imaging requirements:
+   - The patient must be clinically unstable and require rapid imaging to guide treatment decisions.
+   - The imaging provider must have documented evidence that conservative management has failed.
+
+5. Severity criteria:
+   - Pain scores on a scale of 6 or higher, as measured by the Numerical Rating Scale (NRS) or Visual Analog Scale (VAS)
+   - Decreased lung function, as indicated by a forced expiratory volume in one second (FEV1) below 80% predicted
+
+**MEDICAL NECESSITY CRITERIA**
+
+To determine medical necessity for this procedure:
+
+1. Patient selection criteria:
+   - Patients with respiratory symptoms and signs of pulmonary disease
+   - Those who have not responded to conservative treatment or require rapid diagnosis due to clinical instability
+
+2. Failed prior treatments:
+   - Previous episodes of pneumonia that required hospitalization or prolonged IV antibiotic therapy
+   - Failure to respond to bronchodilator therapy or oxygen saturation <92% on room air
+
+3. Contraindications to conservative care:
+   - Patients with severe comorbid conditions, such as cardiovascular disease, chronic obstructive pulmonary disease (COPD), or end-stage renal disease (ESRD)
+   - Those who require high-intensity oxygen therapy (>60% FiO2)
+
+**EXCLUSION CRITERIA**
+
+The following exclusions apply:
+
+1. Active infections:
+   - Patients with confirmed or suspected acute bacterial pneumonia
+   - Those with a fever >38°C (100.4°F) or white blood cell count (WBC) >15,000 cells/μL
+
+2. Pregnancy:
+   - Pregnant women require additional evaluation and monitoring prior to ordering imaging.
+
+3. Severe comorbidities:
+   - Patients with severe cardiovascular disease or ESRD
+   - Those with severe COPD exacerbations requiring hospitalization
+
+4. Lack of conservative treatment:
+   - Failure to complete required physical therapy sessions within the allotted timeframe
+
+5. Cosmetic indications:
+   - Imaging ordered for cosmetic purposes, such as documenting scarring or assessing chest wall deformity.
+
+**DOCUMENTATION REQUIREMENTS**
+
+The following documentation is required:
+
+1. History and physical examination:
+   - A thorough review of systems and clinical examination findings
+   - Current vital signs and laboratory results
+
+2. Diagnostic test results:
+   - Pulmonary function tests (PFTs)
+   - Chest X-ray or CT scan images
+   - Laboratory results, including blood counts, electrolytes, and creatinine levels
+
+3. Treatment logs:
+   - Physical therapy sessions completed, including dates and duration of each session
+
+4. Specialist consultations:
+   - Referrals from primary care physicians and specialist consultants, such as pulmonologists or cardiologists
+
+**AUTHORIZATION DETAILS**
+
+* Valid for: 90 days from the date of authorization
+* Requires peer-to-peer if denied.
+
+If the insurance company denies coverage after thorough review of this prior authorization policy, a peer-to-peer review must be conducted between two medical professionals to reevaluate the decision and ensure accurate communication with patients.

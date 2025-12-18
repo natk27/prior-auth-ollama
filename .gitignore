@@ -1,0 +1,57 @@
+# API Keys and Secrets
+.env
+*.env
+
+# Virtual Environment
+venv/
+env/
+ENV/
+venv/
+venvnew/
+.env
+.venv/
+.venvnew/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Data Files (too large for GitHub)
+data/raw/*.csv
+data/processed/cases/*.json
+data/embeddings/*.index
+data/embeddings/*.npy
+
+# Keep summary files
+!data/**/summary.json
+!data/**/*_summary.json
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+venvnew/
+venv/
+.venv/

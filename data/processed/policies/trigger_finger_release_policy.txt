@@ -1,0 +1,109 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Trigger Finger Release
+CPT Code: 26055
+
+======================================================================
+
+## PRIOR AUTHORIZATION POLICY: TRIGGER FINGER RELEASE
+
+**POLICY NUMBER:** ME_ORTHO_001.03
+**EFFECTIVE DATE:** October 26, 2023
+**REVIEW DATE:** October 26, 2024
+**CPT CODE(S):** 26055
+**PROCEDURE NAME:** Trigger Finger Release
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Trigger Finger Release (Percutaneous or Open)
+*   **CPT Code(s):** 26055 – Tenolysin, flexor tendon, palm or finger, open in conjunction with trigger finger release.
+*   **Brief Clinical Description:** Trigger finger, also known as stenosing tenosynovitis, is a condition characterized by inflammation and thickening of the flexor tendon sheath in the finger or thumb, typically at the level of the A1 pulley. This thickening restricts the smooth gliding of the tendon, causing the digit to catch, lock, or pop when attempting to bend or straighten it. Pain, tenderness, and a palpable nodule or clicking sensation are common. A Trigger Finger Release is a surgical procedure designed to alleviate this restriction by incising the constricted A1 pulley, allowing the flexor tendon to glide freely and restore normal digit movement. This can be performed via an open incision or a percutaneous technique.
+
+---
+
+### 2. COVERAGE CRITERIA (All criteria listed below must be met for approval)
+
+For medically necessary authorization of Trigger Finger Release (CPT 26055), the patient must satisfy **ALL** of the following criteria:
+
+*   **Conservative Treatment Requirements:**
+    *   **Duration:** Documentation of a minimum of **three (3) months** of continuous, structured, and physician-directed conservative management for the affected digit(s).
+    *   **Types:** This management must include a documented trial of **ALL** of the following, unless medically contraindicated:
+        *   **Activity Modification:** Specific recommendations and patient compliance with avoiding repetitive gripping, pinching, or activities that exacerbate symptoms, for a minimum of **six (6) weeks**.
+        *   **Non-Steroidal Anti-Inflammatory Drugs (NSAIDs):** A documented trial of prescription or over-the-counter NSAIDs (e.g., ibuprofen, naproxen) at appropriate therapeutic doses for a minimum of **four (4) weeks**, unless medically contraindicated due to renal, gastrointestinal, or cardiovascular conditions.
+        *   **Splinting:** Consistent use of a splint (e.g., metacarpophalangeal (MCP) joint extension splint) to keep the affected digit in an extended position, particularly at night, for a minimum of **four (4) to six (6) weeks**.
+        *   **Corticosteroid Injections:** Failure of at least **two (2) corticosteroid injections**, administered directly into the flexor tendon sheath of the affected digit, with each injection spaced at least **four (4) weeks apart**. Each injection must have been followed by a documented period of symptom observation (minimum 4 weeks) and continued conservative measures (e.g., splinting, activity modification), with persistent or recurrent symptoms documented after each injection.
+*   **Symptom Duration Requirements:** Documentation of persistent and functionally impairing symptoms consistent with stenosing tenosynovitis for a minimum duration of **three (3) months**.
+*   **Clinical Documentation Required:**
+    *   Detailed physician office notes confirming a clinical diagnosis of stenosing tenosynovitis (trigger finger) based on physical examination.
+    *   Documentation of specific symptoms including, but not limited to, painful clicking, catching, locking, or inability to fully extend the affected digit.
+    *   Identification of tenderness and/or a palpable nodule over the A1 pulley at the base of the affected finger or thumb.
+    *   Clear documentation of the failure and specific response to each component of the conservative treatment trial, including dates and duration.
+*   **Imaging Requirements:** Imaging is **not routinely required** for the diagnosis of trigger finger. However, if performed to rule out other pathologies (e.g., ganglion cyst, tumor, significant arthritis), the results must be submitted for review.
+    *   **X-ray:** May be requested if bony pathology is suspected, but generally not required.
+    *   **Ultrasound:** May be useful to confirm tenosynovitis or rule out soft tissue mass, but generally not required for definitive diagnosis of trigger finger. If performed, the report must be submitted.
+*   **Severity Criteria:**
+    *   **Pain:** Documentation of moderate to severe pain (e.g., Visual Analog Scale (VAS) score > 5/10), consistently present, and interfering with daily activities, sleep, or occupational duties.
+    *   **Functional Impairment:** Documented inability to perform specific daily tasks (e.g., grasping, gripping, typing, writing, holding objects) due to catching, locking, or pain. The presence of true mechanical locking of the digit, requiring passive extension or the use of the contralateral hand to straighten the digit.
+*   **Laboratory Tests:** Not routinely required for the diagnosis or pre-authorization of trigger finger release. Pre-operative labs will be determined by the surgeon and anesthesiologist based on the patient's medical history.
+*   **Physician Qualifications:** The surgical procedure must be performed by a physician who is board-certified or board-eligible in Orthopedic Surgery, Plastic Surgery, or General Surgery with demonstrated specialized training and experience in hand surgery, and who is actively participating in our network.
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA
+
+Trigger Finger Release (CPT 26055) is considered medically necessary when the patient meets all of the Coverage Criteria outlined in Section 2, and specifically demonstrates:
+
+*   **Patient Selection Criteria:** Adult patients (18 years or older) with a confirmed clinical diagnosis of stenosing tenosynovitis affecting one or more digits, presenting with consistent symptoms of pain, clicking, catching, or locking of the affected digit.
+*   **Failed Prior Treatments:** Documented failure of a comprehensive, physician-supervised course of conservative management, as detailed in Section 2, over a minimum of three (3) months. This includes clear evidence of insufficient or temporary relief from at least two (2) corticosteroid injections spaced appropriately.
+*   **Contraindications to Conservative Care:** In rare instances, if conservative care (e.g., injections) is medically contraindicated (e.g., severe allergy to corticosteroids, uncontrolled diabetes where injections are deemed too risky), specific documentation from the treating physician explaining the contraindication and why surgery is the only appropriate course of action will be reviewed on a case-by-case basis. However, general lack of patient compliance with conservative measures is not a contraindication.
+
+---
+
+### 4. EXCLUSION CRITERIA (If any of the following are present, the procedure is NOT covered)
+
+Trigger Finger Release (CPT 26055) will be considered NOT medically necessary and will be denied for the following reasons:
+
+*   **Active Local or Systemic Infection:** Presence of an active infection in the affected digit or a systemic infection that would contraindicate elective surgery.
+*   **Pregnancy:** Elective surgery is generally deferred until the postpartum period due to potential risks associated with anesthesia and medication during pregnancy, unless severe functional impairment warrants immediate intervention (requires specific medical justification).
+*   **Uncontrolled Severe Comorbidities:** Severe, uncontrolled medical comorbidities (e.g., uncontrolled diabetes, severe cardiovascular disease, severe pulmonary disease) that pose an unacceptably high anesthetic or surgical risk, as determined by the treating physician and/or medical clearance specialist.
+*   **Lack of Conservative Treatment:** Insufficient documentation of a trial of conservative management that meets all the specific requirements outlined in Section 2.
+*   **Cosmetic Indications:** Surgery performed solely for cosmetic reasons or patient preference without documented medical necessity and functional impairment.
+*   **Non-specific Pain:** Pain in the finger or hand without objective physical findings consistent with stenosing tenosynovitis (e.g., no palpable nodule, no distinct catching/locking).
+*   **Mild, Intermittent Symptoms:** Symptoms that are mild, intermittent, and do not significantly impair daily activities or occupational function.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following documentation must be submitted for prior authorization review:
+
+*   **History and Physical Examination:**
+    *   Detailed and current (within 90 days) office notes from the referring and/or treating hand surgeon.
+    *   Comprehensive history of the presenting symptoms, including onset, duration, severity (e.g., pain scale), aggravating/alleviating factors, and impact on daily activities and occupational function.
+    *   Complete physical examination findings specific to the affected digit(s), including tenderness, palpable nodule location, range of motion, presence and degree of clicking/catching/locking, and neurological assessment (if relevant).
+*   **Diagnostic Test Results:**
+    *   Any relevant imaging reports (e.g., X-ray, ultrasound) if performed to rule out other conditions.
+*   **Treatment Logs:**
+    *   Detailed chronological record of **ALL** conservative treatments attempted, including:
+        *   Specific type of treatment (e.g., NSAIDs, splinting, activity modification, corticosteroid injections).
+        *   Dates of initiation and duration of each treatment.
+        *   Dosage and frequency for medications.
+        *   Specific dates of each corticosteroid injection, the substance injected, and the patient's documented response (e.g., "temporary relief for 2 weeks, then symptoms returned," "no relief").
+        *   Documentation of patient adherence to conservative measures.
+*   **Specialist Consultations:**
+    *   If applicable, referral notes from the primary care physician or other specialists.
+    *   Evaluation notes from the performing surgeon confirming the diagnosis and recommending surgical intervention.
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **Validity Period:** Approved prior authorizations for Trigger Finger Release (CPT 26055) are valid for a period of **ninety (90) calendar days** from the date of approval. If the procedure is not performed within this timeframe, a new prior authorization request will be required.
+*   **Peer-to-Peer Review:** In the event of an initial denial based on medical necessity criteria, the requesting physician or an authorized clinical representative will have the opportunity to participate in a peer-to-peer discussion with a Medical Director or a physician consultant of the health plan, to provide additional clinical information and rationale.
+*   **Appeal Rights:** If prior authorization is denied following the peer-to-peer review process, members and/or providers acting on behalf of the member retain the right to formally appeal the decision, as outlined in the member's plan documents and applicable state and federal regulations. Information on the appeal process will be provided in the denial notification letter.
+
+---
+**Disclaimer:** This policy is intended for informational purposes only and does not constitute medical advice. Coverage is subject to the terms, conditions, limitations, and exclusions of the member's specific health benefit plan. Final medical necessity decisions are made by the health plan based on individual patient circumstances and the most current evidence-based medical literature. This policy is subject to change without prior notice.

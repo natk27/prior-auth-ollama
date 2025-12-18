@@ -1,0 +1,77 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Cystoscopy
+CPT Code: 52000
+
+======================================================================
+
+**Cystoscopy Prior Authorization Policy**
+
+**Procedure Overview**
+
+ Procedure Name: Cystoscopy
+ CPT Code: 52000
+
+Cystoscopy is a medical procedure that involves the insertion of a flexible or rigid scope into the urethra to visualize the bladder and urethral tubes. This procedure is used to diagnose and treat various urinary tract conditions, such as kidney stones, bladder infections, and structural abnormalities.
+
+**Coverage Criteria (Must Meet All)**
+
+To be eligible for coverage under this policy, the following criteria must be met:
+
+1. **Conservative Treatment Requirements**: The patient must have attempted conservative treatment for a minimum of 12 weeks prior to undergoing cystoscopy. Conservative treatment may include:
+	* Medications to manage symptoms
+	* Dietary changes
+	* Bladder training
+	* Physical therapy
+2. **Symptom Duration Requirements**: The patient's symptoms must have persisted or worsened for a minimum of 6 weeks prior to the procedure.
+3. **Clinical Documentation Required**:
+	* A completed Medical History and Physical Examination form must be submitted with each request for coverage.
+	* Diagnostic test results, including urinalysis, urine culture, and imaging studies (e.g., ultrasound, CT scan), must be included in the medical record.
+4. **Imaging Requirements**:
+	* A recent urinalysis result within 30 days of the procedure request must be submitted.
+	* An imaging study (e.g., ultrasound, CT scan) performed within 60 days of the procedure request must be included in the medical record.
+5. **Severity Criteria**:
+	* Pain scores on a numerical rating scale (NRS) must be ≥ 4/10 at the time of the procedure request.
+	* Functional assessments, such as the International Prostate Symptom Score (IPSS), must have a score ≥ 8.
+
+**Medical Necessity Criteria**
+
+To determine medical necessity for cystoscopy, the following criteria must be met:
+
+1. **Patient Selection Criteria**: Cystoscopy is medically necessary for patients with:
+	* Recurrent urinary tract infections
+	* Chronic pain or discomfort associated with urination
+	* Obstructive uropathy (e.g., kidney stones)
+	* Bladder dysfunction or incontinence
+2. **Failed Prior Treatments**: The patient must have failed conservative treatment for at least 3 months prior to undergoing cystoscopy.
+3. **Contraindications to Conservative Care**:
+	* Severe comorbidities (e.g., diabetes, kidney disease)
+	* Active infections
+	* Pregnancy
+
+**Exclusion Criteria**
+
+The following exclusions apply:
+
+1. **Active Infections**: Cystoscopy is not covered for patients with active urinary tract infections.
+2. **Pregnancy**: Cystoscopy is not covered during pregnancy unless medically necessary.
+3. **Severe Comorbidities**: Cystoscopy is not covered for patients with severe comorbidities that may complicate the procedure or recovery.
+4. **Lack of Conservative Treatment**: Cystoscopy is not covered if the patient has not attempted conservative treatment for at least 12 weeks prior to the procedure request.
+5. **Cosmetic Indications**: Cystoscopy is not covered for cosmetic purposes, such as a change in urethral appearance.
+
+**Documentation Requirements**
+
+The following documentation must be submitted with each request for coverage:
+
+1. **History and Physical Examination Form**
+2. **Diagnostic Test Results**
+3. **Treatment Logs**
+4. **Specialist Consultations**
+
+**Authorization Details**
+
+* Validity Period: 90 days from the date of approval
+* Peer-to-Peer Appeal Process: If denied, a peer-to-peer appeal process will be initiated to review the decision.
+
+Note: This is a sample policy and should not be used as an actual insurance policy without proper modification and review by relevant medical and legal professionals.

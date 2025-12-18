@@ -1,0 +1,144 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Total Hip Replacement
+CPT Code: 27130
+
+======================================================================
+
+## [INSURANCE PAYER NAME] Medical Policy & Prior Authorization Criteria
+
+**Policy Number:** ORTHO-THR-2024.01
+**Effective Date:** January 15, 2024
+**Review Date:** January 15, 2025
+
+---
+
+### Policy Title: Prior Authorization for Total Hip Replacement (Total Hip Arthroplasty)
+
+**Table of Contents:**
+1.  Procedure Overview
+2.  Coverage Criteria (Medical Necessity)
+3.  Medical Necessity Criteria (Additional Considerations)
+4.  Exclusion Criteria
+5.  Required Documentation
+6.  Authorization Details
+
+---
+
+### 1. PROCEDURE OVERVIEW
+
+*   **Full Procedure Name:** Total Hip Arthroplasty (THA) / Total Hip Replacement (THR)
+*   **CPT Code(s):** 27130 (Arthroplasty, acetabular and proximal femoral prosthetic replacement (total hip arthroplasty), with or without autograft or allograft)
+*   **Brief Clinical Description:** Total Hip Replacement is a surgical procedure involving the replacement of a damaged or diseased hip joint with prosthetic components. This typically includes replacing the femoral head and neck with a metallic stem and ball, and resurfacing the acetabulum (hip socket) with a prosthetic cup, often lined with polyethylene. The goal is to relieve pain, improve function, and restore mobility in patients with end-stage hip joint disease.
+
+---
+
+### 2. COVERAGE CRITERIA (Medical Necessity)
+
+Total Hip Replacement (THR) is considered medically necessary and may be approved for coverage when *ALL* of the following criteria are met:
+
+*   **A. Diagnosis:** Patient has documented end-stage degenerative joint disease of the hip (e.g., osteoarthritis, avascular necrosis, inflammatory arthritis like rheumatoid arthritis, post-traumatic arthritis, or hip dysplasia) affecting the affected hip joint.
+
+*   **B. Conservative Treatment Requirements:** The patient has completed and failed a minimum of **six (6) months** of *documented, supervised, structured, and comprehensive* conservative management, which must include:
+    *   **Pharmacotherapy:** Documented trial of appropriate non-steroidal anti-inflammatory drugs (NSAIDs) for at least 6 weeks (unless medically contraindicated), and/or other analgesics (e.g., acetaminophen) as prescribed.
+    *   **Physical Therapy (PT):** A structured physical therapy program focusing on hip strengthening, flexibility, range of motion, and gait training, for a minimum of **12 weeks** (at least 2-3 sessions per week, or equivalent home exercise program with documented adherence). Documentation must include specific exercises performed, duration, patient compliance, and objective measures of progress or lack thereof.
+    *   **Activity Modification/Weight Management:** Documented attempts at activity modification to reduce stress on the hip, and for patients with a Body Mass Index (BMI) >30 kg/m², documented participation in a physician-supervised weight management program for at least 3 months, with evidence of sustained effort or weight loss (e.g., a 5-10% reduction in body weight for patients with BMI >35).
+    *   **Injections (Optional but often utilized):** If performed, documentation of the type (e.g., corticosteroid, hyaluronic acid), date(s), and patient response. A trial of intra-articular corticosteroid injection may be considered, but failure of such injection alone does not substitute for the full conservative treatment regimen described above.
+
+*   **C. Symptom Duration Requirements:** The patient must experience persistent and debilitating hip pain for a minimum duration of **six (6) months**, despite adherence to the conservative treatment regimen outlined in B.
+
+*   **D. Clinical Documentation Required:**
+    *   **Detailed History and Physical Examination:** Comprehensive notes from the treating orthopedic surgeon or rheumatologist, documenting:
+        *   Patient's primary complaint of hip pain.
+        *   Onset, duration, character, and location of pain.
+        *   Aggravating and alleviating factors.
+        *   Impact on activities of daily living (ADLs), sleep, and quality of life.
+        *   Objective findings on physical examination, including limited range of motion (flexion, extension, abduction, adduction, internal/external rotation), gait abnormalities (e.g., antalgic gait), hip tenderness, and limb length discrepancy.
+        *   Documentation of failed conservative treatments with specific dates and patient responses.
+
+*   **E. Imaging Requirements:**
+    *   **Type:** Current (within the last 6 months) weight-bearing anteroposterior (AP) and lateral radiographs of the affected hip.
+    *   **Findings:** Radiographic evidence of significant degenerative joint disease, characterized by at least two of the following:
+        *   Significant joint space narrowing (typically < 2 mm).
+        *   Osteophytes (bone spurs).
+        *   Subchondral sclerosis (increased bone density beneath cartilage).
+        *   Subchondral cysts.
+        *   Evidence of avascular necrosis or other structural abnormality.
+    *   *Note:* If the diagnosis is unclear or for complex revision cases, additional imaging (e.g., MRI, CT scan) may be requested but is not routinely required for primary THR approval.
+
+*   **F. Severity Criteria:**
+    *   **Pain:** The patient reports moderate to severe, intractable hip pain that significantly interferes with daily activities, ambulation, and/or sleep, despite maximal conservative treatment. Pain must be localized to the hip joint.
+    *   **Functional Impairment:** Documented significant functional limitations as evidenced by:
+        *   Difficulty with ambulation (e.g., requiring assistive devices, inability to walk more than 1-2 blocks).
+        *   Limited range of motion impacting self-care activities (e.g., putting on shoes/socks, bathing).
+        *   Objective scores from validated hip assessment tools, such as:
+            *   **WOMAC (Western Ontario and McMaster Universities Osteoarthritis Index):** A pain score >10/20 or a function score >30/68.
+            *   **Oxford Hip Score:** A score of <30.
+            *   *Note:* These scores should be used in conjunction with clinical assessment, not in isolation.
+
+*   **G. Laboratory Tests:** Pre-operative laboratory tests (e.g., CBC, electrolytes, coagulation studies, renal/hepatic function) are generally required prior to surgery to assess surgical risk, but are not typically part of the initial *prior authorization coverage criteria* unless an underlying inflammatory condition or systemic comorbidity requires specific pre-operative management impacting the surgery decision.
+
+*   **H. Physician Qualifications:** The surgical procedure must be performed by a board-certified or board-eligible orthopedic surgeon with documented expertise and experience in total hip arthroplasty.
+
+---
+
+### 3. MEDICAL NECESSITY CRITERIA (Additional Considerations)
+
+*   **Patient Selection Criteria:** Generally for adults (typically >18 years of age) with debilitating hip pain and functional impairment due to end-stage hip disease. Age alone is not an absolute contraindication, but younger patients may require more stringent documentation of disease severity and failure of conservative measures.
+*   **Failed Prior Treatments:** Explicit documentation of the patient's adherence to and failure to respond significantly to a comprehensive, structured, and supervised conservative management program as detailed in Section 2.B.
+*   **Contraindications to Conservative Care:** In rare instances, if conservative care is medically contraindicated (e.g., severe rapid progressive joint destruction, acute fracture non-union, or debilitating deformity making conservative measures impossible or dangerous), a waiver of the full conservative treatment period may be considered on a case-by-case basis with robust clinical justification.
+
+---
+
+### 4. EXCLUSION CRITERIA
+
+Total Hip Replacement is **NOT** considered medically necessary and will **NOT** be covered if any of the following are present:
+
+*   **A. Active Infection:**
+    *   Active systemic infection (e.g., sepsis) or active local infection (e.g., osteomyelitis, skin infection in the operative field) that has not been adequately treated and cleared by an infectious disease specialist.
+    *   History of recent periprosthetic joint infection (unless for a staged revision procedure where the first stage has been performed and infection eradicated).
+*   **B. Uncontrolled Severe Comorbidities:** Uncontrolled severe medical comorbidities that pose an unacceptable surgical risk, outweighing the potential benefits of surgery. Examples include:
+    *   Unstable angina, recent myocardial infarction (within 6 months), or severe congestive heart failure (NYHA Class III-IV) that is not medically optimized.
+    *   Severe, uncontrolled diabetes (e.g., HbA1c >8.0% not medically optimized, or recurrent diabetic ketoacidosis).
+    *   Severe pulmonary disease (e.g., COPD with FEV1 <30% predicted) not medically optimized.
+    *   Active malignancy with poor prognosis.
+    *   Significant neurological disorder that would preclude successful rehabilitation (e.g., progressive motor neuron disease, severe hemiplegia affecting operative limb).
+*   **C. Pregnancy:** Unless emergent for trauma, elective THR is contraindicated during pregnancy.
+*   **D. Morbid Obesity:** While not an absolute contraindication for all cases, significant morbid obesity (typically defined as BMI >40 kg/m² for primary THR) may result in denial due to significantly increased surgical and post-operative risks (e.g., infection, dislocation, poor wound healing), unless specific documentation of unsuccessful weight loss attempts (as outlined in 2.B) or an individualized risk assessment justifying surgery is provided.
+*   **E. Lack of Documented Conservative Treatment:** Failure to meet the conservative treatment requirements outlined in Section 2.B, without a compelling medical justification for waiver.
+*   **F. Undiagnosed Pain:** Hip pain of unknown etiology, where the underlying cause has not been definitively established.
+*   **G. Insufficient Patient Motivation or Compliance:** Documented history of non-compliance with medical care or an inability to participate in the necessary post-operative rehabilitation program.
+*   **H. Unrealistic Patient Expectations:** If the patient has unrealistic expectations regarding pain relief or functional outcome that cannot be met by THR, as documented by the surgeon.
+
+---
+
+### 5. DOCUMENTATION REQUIREMENTS
+
+The following specific documentation must be submitted with the prior authorization request:
+
+*   **A. History and Physical Examination:**
+    *   Most recent comprehensive H&P from the treating orthopedic surgeon, detailing current symptoms, duration, severity, functional limitations, and findings of the hip examination.
+    *   Referring physician's notes (if applicable) outlining initial presentation and referral justification.
+*   **B. Diagnostic Imaging Reports:**
+    *   Official radiology report(s) and relevant images (if requested) for the weight-bearing AP and lateral radiographs of the affected hip, dated within the last 6 months.
+*   **C. Treatment Logs/Records of Conservative Management:**
+    *   Detailed notes from physical therapy, documenting dates of attendance, specific interventions, patient's functional status before and after, and objective progress or lack thereof.
+    *   Medication records, including prescriptions and dispensing history, for analgesics and anti-inflammatory drugs.
+    *   Documentation of any injections, including type, date, and patient response.
+    *   Documentation of participation in weight management programs or dietary counseling (if applicable).
+*   **D. Pain and Functional Assessment Scores:**
+    *   Baseline and current validated pain scores (e.g., Visual Analog Scale (VAS) for pain) and functional assessment scores (e.g., WOMAC, Oxford Hip Score) collected within 3 months of the authorization request.
+*   **E. Consultation Notes:**
+    *   Consultation notes from other specialists (e.g., rheumatologist, pain management, internal medicine, cardiologist) if relevant to diagnosis, comorbidity management, or surgical clearance.
+
+---
+
+### 6. AUTHORIZATION DETAILS
+
+*   **Validity Period:** Approved authorizations for Total Hip Replacement (CPT 27130) are typically valid for a period of **ninety (90) calendar days** from the date of approval. If the procedure is not performed within this timeframe, a new prior authorization request will be required.
+*   **Peer-to-Peer Review:** In the event of an initial denial of prior authorization, the requesting physician or provider may request a peer-to-peer discussion with a Medical Director or clinical reviewer to discuss the case further. This discussion must be requested within ten (10) business days of the denial notification.
+*   **Appeal Rights:** If prior authorization is denied following a peer-to-peer discussion or if a peer-to-peer review is not requested, the patient and/or the requesting provider (on behalf of the patient with appropriate consent) have the right to appeal the decision. Detailed information regarding the appeals process will be provided in the denial notification letter.
+
+---
+*This policy is intended to assist in the medical review process and is not a guarantee of coverage. Coverage is subject to the terms, conditions, limitations, and exclusions of the member's specific benefit plan.*

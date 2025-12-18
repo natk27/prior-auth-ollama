@@ -1,0 +1,73 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: MRI Brain
+CPT Code: 70551
+
+======================================================================
+
+**MRI Brain Procedure Prior Authorization Policy**
+
+**Procedure Overview**
+
+This policy outlines the prior authorization requirements for the MRI Brain procedure (CPT Code: 70551) to ensure that only medically necessary patients receive this service.
+
+**Clinical Description**
+The MRI Brain procedure is a diagnostic imaging test used to visualize the brain's structure and function. This test is typically performed when symptoms such as headaches, seizures, or cognitive impairment persist despite conservative treatment. The procedure involves scanning the brain using magnetic resonance imaging (MRI) technology to identify potential abnormalities.
+
+**Coverage Criteria**
+
+To be eligible for coverage under this policy, patients must meet the following criteria:
+
+1. **Conservative Treatment Requirements**: Patients must have undergone at least 12 weeks of physical therapy as part of their conservative treatment plan.
+2. **Symptom Duration Requirements**: Patients must have experienced symptoms for a minimum of 6 weeks prior to the MRI Brain procedure.
+3. **Clinical Documentation Required**:
+	* A comprehensive medical history, including any previous diagnoses or treatments related to the patient's symptoms.
+	* Results from diagnostic tests, such as electroencephalograms (EEGs) or lumbar punctures.
+	* Treatment logs documenting at least 12 weeks of physical therapy.
+4. **Imaging Requirements**:
+	* The MRI Brain procedure must be performed using a standard 1.5T or 3T MRI machine.
+	* The scan must be performed by a board-certified radiologist with expertise in neuroradiology.
+	* Imaging results must be reported on the Radiology Report Template (Appendix A).
+5. **Severity Criteria**:
+	* Pain scales: Patients must have a minimum pain score of 4/10 on the numerical rating scale (NRS) or equivalent.
+	* Functional assessments: Patients must demonstrate significant impairment in their daily activities, as assessed by the Modified Rankin Scale (mRS) or equivalent.
+
+**Medical Necessity Criteria**
+
+To determine medical necessity for this procedure, our review team will consider the following factors:
+
+1. **Patient Selection Criteria**: Patients who have not responded to conservative treatment or have severe symptoms that require immediate evaluation.
+2. **Failed Prior Treatments**: Patients who have undergone failed conservative treatments, such as medication trials or other diagnostic procedures.
+3. **Contraindications to Conservative Care**: Patients with severe comorbidities or contraindications to physical therapy (e.g., neurological conditions, musculoskeletal disorders).
+
+**Exclusion Criteria**
+
+The following exclusion criteria apply:
+
+1. **Active Infections**: Patients with active infections, such as meningitis or encephalitis.
+2. **Pregnancy**: Pregnant patients are excluded from coverage unless prior authorization is obtained specifically for this reason.
+3. **Severe Comorbidities**: Patients with severe comorbidities, such as cancer, diabetes, or cardiovascular disease.
+4. **Lack of Conservative Treatment**: Patients who have not undergone at least 12 weeks of physical therapy or other conservative treatments.
+5. **Cosmetic Indications**: Patients seeking the MRI Brain procedure for cosmetic purposes.
+
+**Documentation Requirements**
+
+To support prior authorization, patients must provide the following documentation:
+
+1. **History and Physical Examination**: A comprehensive medical history, including any previous diagnoses or treatments related to the patient's symptoms.
+2. **Diagnostic Test Results**: Results from diagnostic tests, such as EEGs or lumbar punctures.
+3. **Treatment Logs**: Treatment logs documenting at least 12 weeks of physical therapy.
+4. **Specialist Consultations**: Results from specialist consultations, including neurology, physical medicine and rehabilitation, or other relevant specialties.
+
+**Authorization Details**
+
+1. **Valid for**: This policy is valid for a period of 90 days from the date of approval.
+2. **Requires Peer-to-Peer Review**: If prior authorization is denied, a peer-to-peer review will be conducted to reconsider the decision.
+
+**Appendix A: Radiology Report Template**
+
+| Date | Radiologist's Name | Modality | Description of Findings |
+| --- | --- | --- | --- |
+
+Note: This policy document should be reviewed and updated annually or as needed.

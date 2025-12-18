@@ -1,0 +1,81 @@
+PRIOR AUTHORIZATION POLICY
+======================================================================
+
+Procedure: Prostate Biopsy
+CPT Code: 55700
+
+======================================================================
+
+**PROCEDURE OVERVIEW**
+
+Procedure Name: Prostate Biopsy
+CPT Code: 55700
+
+Clinical Description:
+A prostate biopsy is a medical procedure that involves inserting a needle into the prostate gland to collect tissue samples for examination under a microscope. This procedure is performed to diagnose and monitor prostate cancer, benign prostatic hyperplasia (BPH), or prostatitis.
+
+**COVERAGE CRITERIA**
+
+To be covered under this policy, the patient must meet all of the following criteria:
+
+1. **Conservative Treatment Requirements**:
+	* The patient must have undergone 12 weeks of physical therapy to manage symptoms of BPH or other prostate-related conditions.
+2. **Symptom Duration Requirements**:
+	* The patient's symptoms must have persisted for a minimum of 6 weeks prior to the biopsy date.
+3. **Clinical Documentation Required**:
+	* A comprehensive medical history, including any previous diagnoses, treatments, and medications.
+	* Results from diagnostic tests such as PSA (prostate-specific antigen) level, DRE (digital rectal examination), and ultrasound.
+4. **Imaging Requirements**:
+	* A recent ultrasound examination of the prostate gland within the past 6 months.
+5. **Severity Criteria**:
+	* The patient's pain levels must be assessed using the 0-10 numerical scale, with a minimum score of 3 indicating moderate pain.
+	* Functional assessments, such as the International Prostate Symptom Score (IPSS), must have been completed within the past 4 weeks.
+
+**MEDICAL NECESSITY CRITERIA**
+
+To determine medical necessity for this procedure, the following criteria will be used:
+
+1. **Patient Selection Criteria**:
+	* The patient must have a confirmed diagnosis of BPH or prostate cancer.
+	* The patient's symptoms must not respond to conservative treatment.
+2. **Failed Prior Treatments**:
+	* If the patient has undergone prior treatments for BPH, such as medication or physical therapy, and their symptoms persist, this criterion is met.
+3. **Contraindications to Conservative Care**:
+	* If the patient has a history of severe comorbidities, such as heart disease or kidney disease, that would contraindicate conservative treatment.
+
+**EXCLUSION CRITERIA**
+
+This procedure will not be covered if any of the following criteria are met:
+
+1. **Active Infections**:
+	* The patient must not have an active infection, including urinary tract infections (UTIs) or prostate infections.
+2. **Pregnancy**:
+	* If the patient is pregnant, this criterion applies.
+3. **Severe Comorbidities**:
+	* If the patient has a severe comorbidity that would contraindicate the procedure, such as advanced heart disease or severe kidney disease.
+4. **Lack of Conservative Treatment**:
+	* If the patient has not undergone 12 weeks of physical therapy and their symptoms persist, this criterion is met.
+5. **Cosmetic Indications**:
+	* This procedure will not be covered for cosmetic indications, such as to improve appearance or enhance masculinity.
+
+**DOCUMENTATION REQUIREMENTS**
+
+To support medical necessity for this procedure, the following documentation must be provided:
+
+1. **History and Physical Examination**:
+	* A comprehensive medical history, including any previous diagnoses, treatments, and medications.
+	* Results from diagnostic tests, such as PSA level, DRE, and ultrasound.
+2. **Diagnostic Test Results**:
+	* Results from diagnostic tests, such as biopsy reports, to confirm the diagnosis of BPH or prostate cancer.
+3. **Treatment Logs**:
+	* Records of treatment received for symptoms, including medication, physical therapy, and other interventions.
+4. **Specialist Consultations**:
+	* Consultation records with urologists, primary care physicians, or other specialists to support medical necessity.
+
+**AUTHORIZATION DETAILS**
+
+Authorization for this procedure is valid for 90 days from the date of authorization.
+
+If denied, a peer-to-peer review will be conducted to determine medical necessity. The patient and physician must participate in the review process to provide additional information and evidence to support medical necessity.
+
+Note: This policy document is for illustrative purposes only and should not be used as a real insurance policy without proper review and customization by a licensed healthcare professional or insurance expert.
